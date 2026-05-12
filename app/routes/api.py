@@ -10,6 +10,14 @@ def root():
 def health():
     return jsonify({"status": "ok"})
 
+
+@bp.get("/health/data")
+def health_data():
+    system = current_app.config.get("SYSTEM", {})
+    content = system.get("content_items", [])
+    profiles = current_app.config.get("USER_PROFILES", {})
+    return jsonify({"content_items": len(content), "user_profiles": len(profiles)})
+
 @bp.post("/user/profile")
 def set_profile():
     payload = request.get_json(force=True)

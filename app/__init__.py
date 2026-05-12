@@ -18,6 +18,8 @@ def create_app() -> Flask:
 
     content_items = load_content()
     users = load_users()
+    app.logger.info("Loaded content items: %s", len(content_items))
+    app.logger.info("Loaded users: %s", len(users))
 
     vectorizer = VectorizationService()
     ml_model = MLCompatibilityModel(vectorizer)

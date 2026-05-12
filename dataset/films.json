@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "fi_6328e63eb6",
+    "title": "Inception",
+    "type": "film",
+    "description": "Inception, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "cognitive",
+      "strategy",
+      "psychology"
+    ],
+    "vector": [
+      0.721,
+      0.576,
+      0.611,
+      0.57,
+      0.583,
+      0.569,
+      0.585,
+      0.368
+    ]
+  },
+  {
+    "id": "fi_470ae7e69c",
+    "title": "Interstellar",
+    "type": "film",
+    "description": "Interstellar, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "focus",
+      "learning",
+      "discipline"
+    ],
+    "vector": [
+      0.693,
+      0.534,
+      0.538,
+      0.675,
+      0.632,
+      0.664,
+      0.642,
+      0.367
+    ]
+  },
+  {
+    "id": "fi_719ca5b93d",
+    "title": "The Social Network",
+    "type": "film",
+    "description": "The Social Network, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "analysis",
+      "psychology",
+      "creativity"
+    ],
+    "vector": [
+      0.76,
+      0.6,
+      0.574,
+      0.676,
+      0.664,
+      0.573,
+      0.664,
+      0.414
+    ]
+  },
+  {
+    "id": "fi_2af04e9cac",
+    "title": "Inside Out",
+    "type": "film",
+    "description": "Inside Out, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "focus",
+      "discipline",
+      "strategy"
+    ],
+    "vector": [
+      0.724,
+      0.562,
+      0.588,
+      0.606,
+      0.65,
+      0.533,
+      0.702,
+      0.292
+    ]
+  },
+  {
+    "id": "fi_9fa8aa2878",
+    "title": "Whiplash",
+    "type": "film",
+    "description": "Whiplash, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "learning",
+      "strategy",
+      "analysis"
+    ],
+    "vector": [
+      0.631,
+      0.604,
+      0.585,
+      0.601,
+      0.597,
+      0.652,
+      0.627,
+      0.371
+    ]
+  },
+  {
+    "id": "fi_76def94cba",
+    "title": "Arrival",
+    "type": "film",
+    "description": "Arrival, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "strategy",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.664,
+      0.507,
+      0.57,
+      0.583,
+      0.555,
+      0.623,
+      0.628,
+      0.302
+    ]
+  },
+  {
+    "id": "fi_0f1c4f7995",
+    "title": "The Martian",
+    "type": "film",
+    "description": "The Martian, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "creativity",
+      "focus",
+      "discipline"
+    ],
+    "vector": [
+      0.668,
+      0.597,
+      0.548,
+      0.612,
+      0.667,
+      0.643,
+      0.602,
+      0.329
+    ]
+  },
+  {
+    "id": "fi_970f550fa3",
+    "title": "Soul",
+    "type": "film",
+    "description": "Soul, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "strategy",
+      "wellbeing",
+      "discipline"
+    ],
+    "vector": [
+      0.672,
+      0.547,
+      0.559,
+      0.67,
+      0.645,
+      0.662,
+      0.72,
+      0.363
+    ]
+  },
+  {
+    "id": "fi_fb8232f372",
+    "title": "Good Will Hunting",
+    "type": "film",
+    "description": "Good Will Hunting, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "cognitive",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.664,
+      0.565,
+      0.56,
+      0.672,
+      0.567,
+      0.602,
+      0.656,
+      0.318
+    ]
+  },
+  {
+    "id": "fi_3edd4385ca",
+    "title": "Moneyball",
+    "type": "film",
+    "description": "Moneyball, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "psychology",
+      "cognitive",
+      "creativity"
+    ],
+    "vector": [
+      0.674,
+      0.535,
+      0.542,
+      0.575,
+      0.669,
+      0.575,
+      0.673,
+      0.295
+    ]
+  },
+  {
+    "id": "fi_419dfaaa6a",
+    "title": "Inception: Advanced",
+    "type": "film",
+    "description": "Inception: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "learning",
+      "analysis",
+      "leadership"
+    ],
+    "vector": [
+      0.657,
+      0.581,
+      0.542,
+      0.59,
+      0.664,
+      0.586,
+      0.63,
+      0.398
+    ]
+  },
+  {
+    "id": "fi_99875f564b",
+    "title": "Interstellar: Advanced",
+    "type": "film",
+    "description": "Interstellar: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "wellbeing",
+      "creativity",
+      "leadership"
+    ],
+    "vector": [
+      0.655,
+      0.531,
+      0.642,
+      0.647,
+      0.676,
+      0.534,
+      0.679,
+      0.345
+    ]
+  },
+  {
+    "id": "fi_8a4f43a06a",
+    "title": "The Social Network: Advanced",
+    "type": "film",
+    "description": "The Social Network: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "learning",
+      "focus",
+      "creativity"
+    ],
+    "vector": [
+      0.671,
+      0.518,
+      0.615,
+      0.581,
+      0.645,
+      0.587,
+      0.665,
+      0.34
+    ]
+  },
+  {
+    "id": "fi_88d8e00050",
+    "title": "Inside Out: Advanced",
+    "type": "film",
+    "description": "Inside Out: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "creativity",
+      "strategy",
+      "psychology"
+    ],
+    "vector": [
+      0.707,
+      0.568,
+      0.662,
+      0.629,
+      0.582,
+      0.6,
+      0.653,
+      0.41
+    ]
+  },
+  {
+    "id": "fi_f3e4d2c8ef",
+    "title": "Whiplash: Advanced",
+    "type": "film",
+    "description": "Whiplash: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "analysis",
+      "cognitive",
+      "learning"
+    ],
+    "vector": [
+      0.761,
+      0.496,
+      0.637,
+      0.642,
+      0.676,
+      0.653,
+      0.662,
+      0.377
+    ]
+  },
+  {
+    "id": "fi_3a94cfbabf",
+    "title": "Arrival: Advanced",
+    "type": "film",
+    "description": "Arrival: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "wellbeing",
+      "focus",
+      "psychology"
+    ],
+    "vector": [
+      0.741,
+      0.509,
+      0.658,
+      0.655,
+      0.562,
+      0.627,
+      0.635,
+      0.385
+    ]
+  },
+  {
+    "id": "fi_058c5fddd4",
+    "title": "The Martian: Advanced",
+    "type": "film",
+    "description": "The Martian: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "leadership",
+      "productivity",
+      "focus"
+    ],
+    "vector": [
+      0.679,
+      0.613,
+      0.592,
+      0.598,
+      0.62,
+      0.626,
+      0.697,
+      0.368
+    ]
+  },
+  {
+    "id": "fi_52d28e92c0",
+    "title": "Soul: Advanced",
+    "type": "film",
+    "description": "Soul: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "psychology",
+      "discipline",
+      "strategy"
+    ],
+    "vector": [
+      0.724,
+      0.599,
+      0.639,
+      0.619,
+      0.577,
+      0.663,
+      0.696,
+      0.358
+    ]
+  },
+  {
+    "id": "fi_8073b66c3f",
+    "title": "Good Will Hunting: Advanced",
+    "type": "film",
+    "description": "Good Will Hunting: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "productivity",
+      "analysis",
+      "discipline"
+    ],
+    "vector": [
+      0.706,
+      0.515,
+      0.538,
+      0.6,
+      0.608,
+      0.558,
+      0.623,
+      0.299
+    ]
+  },
+  {
+    "id": "fi_64a0200687",
+    "title": "Moneyball: Advanced",
+    "type": "film",
+    "description": "Moneyball: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "empathy",
+      "wellbeing",
+      "discipline"
+    ],
+    "vector": [
+      0.729,
+      0.481,
+      0.627,
+      0.569,
+      0.64,
+      0.628,
+      0.599,
+      0.379
+    ]
+  },
+  {
+    "id": "fi_a6b8fc698e",
+    "title": "Inception: Practical Guide",
+    "type": "film",
+    "description": "Inception: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "analysis",
+      "discipline",
+      "learning"
+    ],
+    "vector": [
+      0.718,
+      0.497,
+      0.589,
+      0.682,
+      0.645,
+      0.552,
+      0.717,
+      0.398
+    ]
+  },
+  {
+    "id": "fi_db6de9fd9c",
+    "title": "Interstellar: Practical Guide",
+    "type": "film",
+    "description": "Interstellar: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "discipline",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.632,
+      0.548,
+      0.536,
+      0.675,
+      0.593,
+      0.545,
+      0.623,
+      0.415
+    ]
+  },
+  {
+    "id": "fi_e6aca63f3c",
+    "title": "The Social Network: Practical Guide",
+    "type": "film",
+    "description": "The Social Network: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "learning",
+      "empathy",
+      "cognitive"
+    ],
+    "vector": [
+      0.71,
+      0.521,
+      0.608,
+      0.556,
+      0.616,
+      0.667,
+      0.648,
+      0.385
+    ]
+  },
+  {
+    "id": "fi_256a158ae7",
+    "title": "Inside Out: Practical Guide",
+    "type": "film",
+    "description": "Inside Out: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "cognitive",
+      "leadership",
+      "focus"
+    ],
+    "vector": [
+      0.72,
+      0.614,
+      0.598,
+      0.66,
+      0.595,
+      0.58,
+      0.593,
+      0.32
+    ]
+  },
+  {
+    "id": "fi_d8a40dc90b",
+    "title": "Whiplash: Practical Guide",
+    "type": "film",
+    "description": "Whiplash: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "wellbeing",
+      "leadership",
+      "discipline"
+    ],
+    "vector": [
+      0.641,
+      0.585,
+      0.534,
+      0.605,
+      0.57,
+      0.582,
+      0.715,
+      0.354
+    ]
+  },
+  {
+    "id": "fi_6bf8ac89f0",
+    "title": "Arrival: Practical Guide",
+    "type": "film",
+    "description": "Arrival: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "creativity",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.734,
+      0.526,
+      0.556,
+      0.666,
+      0.595,
+      0.582,
+      0.657,
+      0.332
+    ]
+  },
+  {
+    "id": "fi_490d668149",
+    "title": "The Martian: Practical Guide",
+    "type": "film",
+    "description": "The Martian: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "discipline",
+      "psychology",
+      "cognitive"
+    ],
+    "vector": [
+      0.645,
+      0.592,
+      0.659,
+      0.69,
+      0.606,
+      0.537,
+      0.61,
+      0.339
+    ]
+  },
+  {
+    "id": "fi_e6e27dcca0",
+    "title": "Soul: Practical Guide",
+    "type": "film",
+    "description": "Soul: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "creativity",
+      "leadership",
+      "focus"
+    ],
+    "vector": [
+      0.65,
+      0.512,
+      0.549,
+      0.639,
+      0.606,
+      0.667,
+      0.699,
+      0.347
+    ]
+  },
+  {
+    "id": "fi_504b157851",
+    "title": "Good Will Hunting: Practical Guide",
+    "type": "film",
+    "description": "Good Will Hunting: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "learning",
+      "psychology",
+      "cognitive"
+    ],
+    "vector": [
+      0.748,
+      0.6,
+      0.64,
+      0.61,
+      0.59,
+      0.623,
+      0.652,
+      0.339
+    ]
+  },
+  {
+    "id": "fi_b2ba0cdbaf",
+    "title": "Moneyball: Practical Guide",
+    "type": "film",
+    "description": "Moneyball: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "focus",
+      "empathy",
+      "psychology"
+    ],
+    "vector": [
+      0.723,
+      0.596,
+      0.657,
+      0.573,
+      0.591,
+      0.592,
+      0.659,
+      0.329
+    ]
+  },
+  {
+    "id": "fi_b2fe85720a",
+    "title": "Inception: Applied Playbook",
+    "type": "film",
+    "description": "Inception: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "empathy",
+      "focus",
+      "productivity"
+    ],
+    "vector": [
+      0.675,
+      0.544,
+      0.666,
+      0.677,
+      0.671,
+      0.666,
+      0.715,
+      0.367
+    ]
+  },
+  {
+    "id": "fi_368360fa2c",
+    "title": "Interstellar: Applied Playbook",
+    "type": "film",
+    "description": "Interstellar: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "wellbeing",
+      "learning",
+      "leadership"
+    ],
+    "vector": [
+      0.709,
+      0.539,
+      0.582,
+      0.642,
+      0.569,
+      0.651,
+      0.654,
+      0.369
+    ]
+  },
+  {
+    "id": "fi_80814d876b",
+    "title": "The Social Network: Applied Playbook",
+    "type": "film",
+    "description": "The Social Network: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "analysis",
+      "empathy",
+      "focus"
+    ],
+    "vector": [
+      0.651,
+      0.561,
+      0.608,
+      0.682,
+      0.6,
+      0.564,
+      0.642,
+      0.317
+    ]
+  },
+  {
+    "id": "fi_360af4cac9",
+    "title": "Inside Out: Applied Playbook",
+    "type": "film",
+    "description": "Inside Out: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "creativity",
+      "analysis",
+      "productivity"
+    ],
+    "vector": [
+      0.735,
+      0.511,
+      0.647,
+      0.641,
+      0.576,
+      0.624,
+      0.679,
+      0.312
+    ]
+  },
+  {
+    "id": "fi_d62caf3513",
+    "title": "Whiplash: Applied Playbook",
+    "type": "film",
+    "description": "Whiplash: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "discipline",
+      "productivity",
+      "focus"
+    ],
+    "vector": [
+      0.733,
+      0.607,
+      0.609,
+      0.669,
+      0.645,
+      0.642,
+      0.599,
+      0.35
+    ]
+  },
+  {
+    "id": "fi_cd75bb4b35",
+    "title": "Arrival: Applied Playbook",
+    "type": "film",
+    "description": "Arrival: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "focus",
+      "analysis",
+      "wellbeing"
+    ],
+    "vector": [
+      0.694,
+      0.576,
+      0.606,
+      0.686,
+      0.577,
+      0.597,
+      0.593,
+      0.332
+    ]
+  },
+  {
+    "id": "fi_68a8a4a237",
+    "title": "The Martian: Applied Playbook",
+    "type": "film",
+    "description": "The Martian: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "psychology",
+      "strategy",
+      "discipline"
+    ],
+    "vector": [
+      0.637,
+      0.486,
+      0.628,
+      0.684,
+      0.614,
+      0.547,
+      0.599,
+      0.407
+    ]
+  },
+  {
+    "id": "fi_7857857cf2",
+    "title": "Soul: Applied Playbook",
+    "type": "film",
+    "description": "Soul: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "cognitive",
+      "discipline",
+      "analysis"
+    ],
+    "vector": [
+      0.758,
+      0.602,
+      0.554,
+      0.654,
+      0.598,
+      0.637,
+      0.675,
+      0.396
+    ]
+  },
+  {
+    "id": "fi_846cc58b97",
+    "title": "Good Will Hunting: Applied Playbook",
+    "type": "film",
+    "description": "Good Will Hunting: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "discipline",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.733,
+      0.613,
+      0.631,
+      0.556,
+      0.635,
+      0.544,
+      0.657,
+      0.392
+    ]
+  },
+  {
+    "id": "fi_7813e21b25",
+    "title": "Moneyball: Applied Playbook",
+    "type": "film",
+    "description": "Moneyball: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "psychology",
+      "discipline",
+      "leadership"
+    ],
+    "vector": [
+      0.68,
+      0.577,
+      0.533,
+      0.688,
+      0.612,
+      0.641,
+      0.648,
+      0.29
+    ]
+  },
+  {
+    "id": "fi_f3a17f06ad",
+    "title": "Inception: Masterclass",
+    "type": "film",
+    "description": "Inception: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "creativity",
+      "wellbeing",
+      "productivity"
+    ],
+    "vector": [
+      0.76,
+      0.602,
+      0.624,
+      0.667,
+      0.632,
+      0.565,
+      0.72,
+      0.387
+    ]
+  },
+  {
+    "id": "fi_440555c209",
+    "title": "Interstellar: Masterclass",
+    "type": "film",
+    "description": "Interstellar: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "empathy",
+      "psychology",
+      "cognitive"
+    ],
+    "vector": [
+      0.678,
+      0.501,
+      0.6,
+      0.672,
+      0.662,
+      0.535,
+      0.606,
+      0.395
+    ]
+  },
+  {
+    "id": "fi_b66cf61b5c",
+    "title": "The Social Network: Masterclass",
+    "type": "film",
+    "description": "The Social Network: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "cognitive",
+      "strategy",
+      "empathy"
+    ],
+    "vector": [
+      0.765,
+      0.577,
+      0.593,
+      0.582,
+      0.684,
+      0.602,
+      0.631,
+      0.354
+    ]
+  },
+  {
+    "id": "fi_e63d84ff34",
+    "title": "Inside Out: Masterclass",
+    "type": "film",
+    "description": "Inside Out: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "creativity",
+      "cognitive",
+      "psychology"
+    ],
+    "vector": [
+      0.66,
+      0.595,
+      0.632,
+      0.596,
+      0.616,
+      0.661,
+      0.624,
+      0.327
+    ]
+  },
+  {
+    "id": "fi_46fe59c2ca",
+    "title": "Whiplash: Masterclass",
+    "type": "film",
+    "description": "Whiplash: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "learning",
+      "discipline",
+      "psychology"
+    ],
+    "vector": [
+      0.665,
+      0.603,
+      0.615,
+      0.638,
+      0.652,
+      0.55,
+      0.634,
+      0.289
+    ]
+  },
+  {
+    "id": "fi_90edab50bb",
+    "title": "Arrival: Masterclass",
+    "type": "film",
+    "description": "Arrival: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "learning",
+      "cognitive",
+      "productivity"
+    ],
+    "vector": [
+      0.712,
+      0.499,
+      0.628,
+      0.678,
+      0.676,
+      0.543,
+      0.608,
+      0.34
+    ]
+  },
+  {
+    "id": "fi_1a85eeec26",
+    "title": "The Martian: Masterclass",
+    "type": "film",
+    "description": "The Martian: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "wellbeing",
+      "focus",
+      "learning"
+    ],
+    "vector": [
+      0.741,
+      0.591,
+      0.563,
+      0.662,
+      0.57,
+      0.54,
+      0.715,
+      0.328
+    ]
+  },
+  {
+    "id": "fi_ecab01b226",
+    "title": "Soul: Masterclass",
+    "type": "film",
+    "description": "Soul: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "productivity",
+      "discipline",
+      "analysis"
+    ],
+    "vector": [
+      0.752,
+      0.58,
+      0.577,
+      0.649,
+      0.644,
+      0.654,
+      0.69,
+      0.351
+    ]
+  },
+  {
+    "id": "fi_8556665252",
+    "title": "Good Will Hunting: Masterclass",
+    "type": "film",
+    "description": "Good Will Hunting: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "analysis",
+      "learning",
+      "creativity"
+    ],
+    "vector": [
+      0.649,
+      0.481,
+      0.652,
+      0.613,
+      0.612,
+      0.61,
+      0.622,
+      0.304
+    ]
+  },
+  {
+    "id": "fi_80307ee794",
+    "title": "Moneyball: Masterclass",
+    "type": "film",
+    "description": "Moneyball: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "creativity",
+      "leadership",
+      "cognitive"
+    ],
+    "vector": [
+      0.665,
+      0.56,
+      0.622,
+      0.685,
+      0.56,
+      0.557,
+      0.709,
+      0.362
+    ]
+  },
+  {
+    "id": "fi_1dea90f37d",
+    "title": "Inception: Toolkit",
+    "type": "film",
+    "description": "Inception: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "cognitive",
+      "learning",
+      "empathy"
+    ],
+    "vector": [
+      0.68,
+      0.588,
+      0.59,
+      0.672,
+      0.559,
+      0.598,
+      0.706,
+      0.319
+    ]
+  },
+  {
+    "id": "fi_34a73a920a",
+    "title": "Interstellar: Toolkit",
+    "type": "film",
+    "description": "Interstellar: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "productivity",
+      "psychology",
+      "creativity"
+    ],
+    "vector": [
+      0.718,
+      0.513,
+      0.533,
+      0.557,
+      0.613,
+      0.655,
+      0.62,
+      0.35
+    ]
+  },
+  {
+    "id": "fi_cb98bbae13",
+    "title": "The Social Network: Toolkit",
+    "type": "film",
+    "description": "The Social Network: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "discipline",
+      "wellbeing",
+      "psychology"
+    ],
+    "vector": [
+      0.765,
+      0.564,
+      0.541,
+      0.663,
+      0.673,
+      0.578,
+      0.599,
+      0.306
+    ]
+  },
+  {
+    "id": "fi_8a11b4943f",
+    "title": "Inside Out: Toolkit",
+    "type": "film",
+    "description": "Inside Out: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "wellbeing",
+      "psychology",
+      "learning"
+    ],
+    "vector": [
+      0.759,
+      0.51,
+      0.576,
+      0.655,
+      0.641,
+      0.587,
+      0.675,
+      0.327
+    ]
+  },
+  {
+    "id": "fi_5ccfffbaaf",
+    "title": "Whiplash: Toolkit",
+    "type": "film",
+    "description": "Whiplash: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "strategy",
+      "analysis",
+      "focus"
+    ],
+    "vector": [
+      0.718,
+      0.527,
+      0.599,
+      0.634,
+      0.586,
+      0.595,
+      0.582,
+      0.41
+    ]
+  },
+  {
+    "id": "fi_56189f5377",
+    "title": "Arrival: Toolkit",
+    "type": "film",
+    "description": "Arrival: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "wellbeing",
+      "learning",
+      "psychology"
+    ],
+    "vector": [
+      0.688,
+      0.579,
+      0.647,
+      0.572,
+      0.553,
+      0.559,
+      0.654,
+      0.398
+    ]
+  },
+  {
+    "id": "fi_d81e9ca631",
+    "title": "The Martian: Toolkit",
+    "type": "film",
+    "description": "The Martian: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "analysis",
+      "strategy",
+      "wellbeing"
+    ],
+    "vector": [
+      0.705,
+      0.562,
+      0.608,
+      0.642,
+      0.634,
+      0.576,
+      0.684,
+      0.316
+    ]
+  },
+  {
+    "id": "fi_a2a8eca6cc",
+    "title": "Soul: Toolkit",
+    "type": "film",
+    "description": "Soul: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "empathy",
+      "psychology",
+      "leadership"
+    ],
+    "vector": [
+      0.721,
+      0.557,
+      0.629,
+      0.628,
+      0.601,
+      0.604,
+      0.618,
+      0.315
+    ]
+  },
+  {
+    "id": "fi_becc8a0278",
+    "title": "Good Will Hunting: Toolkit",
+    "type": "film",
+    "description": "Good Will Hunting: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "empathy",
+      "focus",
+      "learning"
+    ],
+    "vector": [
+      0.651,
+      0.568,
+      0.586,
+      0.687,
+      0.681,
+      0.617,
+      0.597,
+      0.356
+    ]
+  },
+  {
+    "id": "fi_72e8cb5c8c",
+    "title": "Moneyball: Toolkit",
+    "type": "film",
+    "description": "Moneyball: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "productivity",
+      "creativity",
+      "leadership"
+    ],
+    "vector": [
+      0.762,
+      0.531,
+      0.551,
+      0.575,
+      0.653,
+      0.659,
+      0.603,
+      0.284
+    ]
+  },
+  {
+    "id": "fi_5cb6b335a7",
+    "title": "Inception: Field Notes",
+    "type": "film",
+    "description": "Inception: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "discipline",
+      "empathy",
+      "cognitive"
+    ],
+    "vector": [
+      0.66,
+      0.608,
+      0.656,
+      0.604,
+      0.58,
+      0.641,
+      0.584,
+      0.372
+    ]
+  },
+  {
+    "id": "fi_dfd1923c11",
+    "title": "Interstellar: Field Notes",
+    "type": "film",
+    "description": "Interstellar: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "focus",
+      "strategy",
+      "learning"
+    ],
+    "vector": [
+      0.638,
+      0.559,
+      0.587,
+      0.679,
+      0.682,
+      0.618,
+      0.611,
+      0.315
+    ]
+  },
+  {
+    "id": "fi_6b990ccb5f",
+    "title": "The Social Network: Field Notes",
+    "type": "film",
+    "description": "The Social Network: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "strategy",
+      "discipline",
+      "cognitive"
+    ],
+    "vector": [
+      0.68,
+      0.526,
+      0.59,
+      0.589,
+      0.673,
+      0.6,
+      0.717,
+      0.391
+    ]
+  },
+  {
+    "id": "fi_de92cbd744",
+    "title": "Inside Out: Field Notes",
+    "type": "film",
+    "description": "Inside Out: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "leadership",
+      "creativity",
+      "wellbeing"
+    ],
+    "vector": [
+      0.67,
+      0.526,
+      0.598,
+      0.675,
+      0.573,
+      0.626,
+      0.664,
+      0.343
+    ]
+  },
+  {
+    "id": "fi_64727fb9d7",
+    "title": "Whiplash: Field Notes",
+    "type": "film",
+    "description": "Whiplash: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "psychology",
+      "discipline",
+      "learning"
+    ],
+    "vector": [
+      0.636,
+      0.588,
+      0.591,
+      0.611,
+      0.57,
+      0.661,
+      0.676,
+      0.393
+    ]
+  },
+  {
+    "id": "fi_8f66ab588e",
+    "title": "Arrival: Field Notes",
+    "type": "film",
+    "description": "Arrival: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "psychology",
+      "analysis",
+      "leadership"
+    ],
+    "vector": [
+      0.651,
+      0.583,
+      0.544,
+      0.574,
+      0.646,
+      0.543,
+      0.628,
+      0.409
+    ]
+  },
+  {
+    "id": "fi_f21f708d11",
+    "title": "The Martian: Field Notes",
+    "type": "film",
+    "description": "The Martian: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "strategy",
+      "learning",
+      "psychology"
+    ],
+    "vector": [
+      0.712,
+      0.508,
+      0.618,
+      0.552,
+      0.569,
+      0.613,
+      0.66,
+      0.378
+    ]
+  },
+  {
+    "id": "fi_cb545b691d",
+    "title": "Soul: Field Notes",
+    "type": "film",
+    "description": "Soul: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "psychology",
+      "wellbeing",
+      "learning"
+    ],
+    "vector": [
+      0.639,
+      0.495,
+      0.664,
+      0.686,
+      0.624,
+      0.53,
+      0.611,
+      0.356
+    ]
+  },
+  {
+    "id": "fi_492d9a9de1",
+    "title": "Good Will Hunting: Field Notes",
+    "type": "film",
+    "description": "Good Will Hunting: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "productivity",
+      "analysis",
+      "focus"
+    ],
+    "vector": [
+      0.704,
+      0.598,
+      0.664,
+      0.561,
+      0.686,
+      0.649,
+      0.716,
+      0.311
+    ]
+  },
+  {
+    "id": "fi_ee939ea970",
+    "title": "Moneyball: Field Notes",
+    "type": "film",
+    "description": "Moneyball: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "leadership",
+      "creativity",
+      "psychology"
+    ],
+    "vector": [
+      0.667,
+      0.49,
+      0.536,
+      0.621,
+      0.607,
+      0.608,
+      0.631,
+      0.281
+    ]
+  },
+  {
+    "id": "fi_3de8ec30bc",
+    "title": "Inception: Intensive",
+    "type": "film",
+    "description": "Inception: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "psychology",
+      "empathy",
+      "productivity"
+    ],
+    "vector": [
+      0.669,
+      0.526,
+      0.587,
+      0.689,
+      0.654,
+      0.568,
+      0.639,
+      0.356
+    ]
+  },
+  {
+    "id": "fi_66f904ec42",
+    "title": "Interstellar: Intensive",
+    "type": "film",
+    "description": "Interstellar: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "creativity",
+      "analysis",
+      "cognitive"
+    ],
+    "vector": [
+      0.753,
+      0.593,
+      0.656,
+      0.639,
+      0.583,
+      0.6,
+      0.718,
+      0.377
+    ]
+  },
+  {
+    "id": "fi_8a8dbca130",
+    "title": "The Social Network: Intensive",
+    "type": "film",
+    "description": "The Social Network: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "strategy",
+      "discipline",
+      "cognitive"
+    ],
+    "vector": [
+      0.723,
+      0.492,
+      0.617,
+      0.555,
+      0.65,
+      0.587,
+      0.658,
+      0.376
+    ]
+  },
+  {
+    "id": "fi_d048496f6d",
+    "title": "Inside Out: Intensive",
+    "type": "film",
+    "description": "Inside Out: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "productivity",
+      "learning",
+      "analysis"
+    ],
+    "vector": [
+      0.766,
+      0.48,
+      0.634,
+      0.669,
+      0.621,
+      0.613,
+      0.719,
+      0.313
+    ]
+  },
+  {
+    "id": "fi_8fa2a3a8e4",
+    "title": "Whiplash: Intensive",
+    "type": "film",
+    "description": "Whiplash: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "strategy",
+      "learning",
+      "focus"
+    ],
+    "vector": [
+      0.685,
+      0.554,
+      0.616,
+      0.645,
+      0.595,
+      0.618,
+      0.656,
+      0.311
+    ]
+  },
+  {
+    "id": "fi_38e58afb62",
+    "title": "Arrival: Intensive",
+    "type": "film",
+    "description": "Arrival: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "leadership",
+      "wellbeing",
+      "empathy"
+    ],
+    "vector": [
+      0.75,
+      0.529,
+      0.613,
+      0.63,
+      0.69,
+      0.539,
+      0.686,
+      0.331
+    ]
+  },
+  {
+    "id": "fi_2de0014357",
+    "title": "The Martian: Intensive",
+    "type": "film",
+    "description": "The Martian: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "productivity",
+      "creativity",
+      "learning"
+    ],
+    "vector": [
+      0.663,
+      0.504,
+      0.645,
+      0.614,
+      0.64,
+      0.646,
+      0.705,
+      0.401
+    ]
+  },
+  {
+    "id": "fi_99f795ba26",
+    "title": "Soul: Intensive",
+    "type": "film",
+    "description": "Soul: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "learning",
+      "strategy",
+      "wellbeing"
+    ],
+    "vector": [
+      0.746,
+      0.594,
+      0.547,
+      0.572,
+      0.585,
+      0.544,
+      0.63,
+      0.392
+    ]
+  },
+  {
+    "id": "fi_3b1bd0ecd6",
+    "title": "Good Will Hunting: Intensive",
+    "type": "film",
+    "description": "Good Will Hunting: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "leadership",
+      "empathy",
+      "focus"
+    ],
+    "vector": [
+      0.669,
+      0.521,
+      0.592,
+      0.566,
+      0.639,
+      0.632,
+      0.604,
+      0.352
+    ]
+  },
+  {
+    "id": "fi_be7e25d335",
+    "title": "Moneyball: Intensive",
+    "type": "film",
+    "description": "Moneyball: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "wellbeing",
+      "creativity",
+      "learning"
+    ],
+    "vector": [
+      0.698,
+      0.572,
+      0.617,
+      0.623,
+      0.662,
+      0.565,
+      0.658,
+      0.28
+    ]
+  },
+  {
+    "id": "fi_78b1a426bf",
+    "title": "Inception: Studio",
+    "type": "film",
+    "description": "Inception: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "psychology",
+      "cognitive",
+      "creativity"
+    ],
+    "vector": [
+      0.673,
+      0.556,
+      0.658,
+      0.586,
+      0.587,
+      0.591,
+      0.654,
+      0.349
+    ]
+  },
+  {
+    "id": "fi_edfc0fa49d",
+    "title": "Interstellar: Studio",
+    "type": "film",
+    "description": "Interstellar: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "discipline",
+      "creativity",
+      "strategy"
+    ],
+    "vector": [
+      0.764,
+      0.521,
+      0.639,
+      0.679,
+      0.65,
+      0.583,
+      0.586,
+      0.385
+    ]
+  },
+  {
+    "id": "fi_46db008397",
+    "title": "The Social Network: Studio",
+    "type": "film",
+    "description": "The Social Network: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "analysis",
+      "cognitive",
+      "leadership"
+    ],
+    "vector": [
+      0.679,
+      0.534,
+      0.611,
+      0.679,
+      0.577,
+      0.666,
+      0.68,
+      0.332
+    ]
+  },
+  {
+    "id": "fi_e6f89b14c0",
+    "title": "Inside Out: Studio",
+    "type": "film",
+    "description": "Inside Out: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "discipline",
+      "learning",
+      "focus"
+    ],
+    "vector": [
+      0.641,
+      0.542,
+      0.585,
+      0.608,
+      0.681,
+      0.62,
+      0.691,
+      0.295
+    ]
+  },
+  {
+    "id": "fi_d372a8bfeb",
+    "title": "Whiplash: Studio",
+    "type": "film",
+    "description": "Whiplash: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "empathy",
+      "wellbeing",
+      "strategy"
+    ],
+    "vector": [
+      0.688,
+      0.546,
+      0.655,
+      0.612,
+      0.619,
+      0.602,
+      0.695,
+      0.374
+    ]
+  },
+  {
+    "id": "fi_cdc0752783",
+    "title": "Arrival: Studio",
+    "type": "film",
+    "description": "Arrival: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "discipline",
+      "strategy",
+      "productivity"
+    ],
+    "vector": [
+      0.636,
+      0.575,
+      0.608,
+      0.658,
+      0.658,
+      0.547,
+      0.611,
+      0.291
+    ]
+  },
+  {
+    "id": "fi_d46457454a",
+    "title": "The Martian: Studio",
+    "type": "film",
+    "description": "The Martian: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "focus",
+      "empathy",
+      "wellbeing"
+    ],
+    "vector": [
+      0.749,
+      0.51,
+      0.594,
+      0.665,
+      0.578,
+      0.577,
+      0.701,
+      0.357
+    ]
+  },
+  {
+    "id": "fi_cdb7d28753",
+    "title": "Soul: Studio",
+    "type": "film",
+    "description": "Soul: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "strategy",
+      "cognitive",
+      "creativity"
+    ],
+    "vector": [
+      0.77,
+      0.594,
+      0.652,
+      0.57,
+      0.597,
+      0.603,
+      0.581,
+      0.418
+    ]
+  },
+  {
+    "id": "fi_1b2a16f714",
+    "title": "Good Will Hunting: Studio",
+    "type": "film",
+    "description": "Good Will Hunting: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "productivity",
+      "analysis",
+      "focus"
+    ],
+    "vector": [
+      0.674,
+      0.516,
+      0.65,
+      0.628,
+      0.622,
+      0.589,
+      0.587,
+      0.323
+    ]
+  },
+  {
+    "id": "fi_5ff72c92d9",
+    "title": "Moneyball: Studio",
+    "type": "film",
+    "description": "Moneyball: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "analysis",
+      "productivity",
+      "leadership"
+    ],
+    "vector": [
+      0.673,
+      0.498,
+      0.559,
+      0.641,
+      0.681,
+      0.622,
+      0.679,
+      0.3
+    ]
+  },
+  {
+    "id": "fi_032b69e9cc",
+    "title": "Inception: Lab",
+    "type": "film",
+    "description": "Inception: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "discipline",
+      "empathy",
+      "productivity"
+    ],
+    "vector": [
+      0.723,
+      0.582,
+      0.531,
+      0.559,
+      0.683,
+      0.645,
+      0.585,
+      0.311
+    ]
+  },
+  {
+    "id": "fi_27fcf56274",
+    "title": "Interstellar: Lab",
+    "type": "film",
+    "description": "Interstellar: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "leadership",
+      "discipline",
+      "cognitive"
+    ],
+    "vector": [
+      0.742,
+      0.563,
+      0.594,
+      0.681,
+      0.612,
+      0.653,
+      0.588,
+      0.341
+    ]
+  },
+  {
+    "id": "fi_80128172d3",
+    "title": "The Social Network: Lab",
+    "type": "film",
+    "description": "The Social Network: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "focus",
+      "psychology",
+      "creativity"
+    ],
+    "vector": [
+      0.751,
+      0.49,
+      0.613,
+      0.575,
+      0.679,
+      0.609,
+      0.692,
+      0.35
+    ]
+  },
+  {
+    "id": "fi_f2fc5a3631",
+    "title": "Inside Out: Lab",
+    "type": "film",
+    "description": "Inside Out: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "analysis",
+      "leadership",
+      "discipline"
+    ],
+    "vector": [
+      0.705,
+      0.502,
+      0.639,
+      0.65,
+      0.622,
+      0.595,
+      0.608,
+      0.293
+    ]
+  },
+  {
+    "id": "fi_93092519ca",
+    "title": "Whiplash: Lab",
+    "type": "film",
+    "description": "Whiplash: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "strategy",
+      "discipline",
+      "leadership"
+    ],
+    "vector": [
+      0.729,
+      0.542,
+      0.589,
+      0.672,
+      0.679,
+      0.549,
+      0.602,
+      0.342
+    ]
+  },
+  {
+    "id": "fi_966ae83d3e",
+    "title": "Arrival: Lab",
+    "type": "film",
+    "description": "Arrival: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "cognitive",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.731,
+      0.523,
+      0.566,
+      0.627,
+      0.58,
+      0.662,
+      0.673,
+      0.312
+    ]
+  },
+  {
+    "id": "fi_cf808a8dbb",
+    "title": "The Martian: Lab",
+    "type": "film",
+    "description": "The Martian: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "learning",
+      "strategy",
+      "creativity"
+    ],
+    "vector": [
+      0.72,
+      0.511,
+      0.606,
+      0.563,
+      0.615,
+      0.632,
+      0.64,
+      0.375
+    ]
+  },
+  {
+    "id": "fi_04b0595465",
+    "title": "Soul: Lab",
+    "type": "film",
+    "description": "Soul: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "psychology",
+      "learning",
+      "analysis"
+    ],
+    "vector": [
+      0.722,
+      0.509,
+      0.622,
+      0.623,
+      0.56,
+      0.599,
+      0.582,
+      0.389
+    ]
+  },
+  {
+    "id": "fi_2fc2cdd05d",
+    "title": "Good Will Hunting: Lab",
+    "type": "film",
+    "description": "Good Will Hunting: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "discipline",
+      "empathy",
+      "leadership"
+    ],
+    "vector": [
+      0.751,
+      0.564,
+      0.606,
+      0.562,
+      0.57,
+      0.568,
+      0.705,
+      0.398
+    ]
+  },
+  {
+    "id": "fi_a53a8efcbf",
+    "title": "Moneyball: Lab",
+    "type": "film",
+    "description": "Moneyball: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "cognitive",
+      "leadership",
+      "psychology"
+    ],
+    "vector": [
+      0.711,
+      0.494,
+      0.53,
+      0.577,
+      0.571,
+      0.572,
+      0.604,
+      0.329
+    ]
+  },
+  {
+    "id": "fi_8b23701b52",
+    "title": "Inception: Foundations",
+    "type": "film",
+    "description": "Inception: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "discipline",
+      "learning",
+      "cognitive"
+    ],
+    "vector": [
+      0.655,
+      0.59,
+      0.572,
+      0.56,
+      0.628,
+      0.543,
+      0.657,
+      0.39
+    ]
+  },
+  {
+    "id": "fi_03d59e7d4b",
+    "title": "Interstellar: Foundations",
+    "type": "film",
+    "description": "Interstellar: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "strategy",
+      "empathy",
+      "psychology"
+    ],
+    "vector": [
+      0.635,
+      0.552,
+      0.544,
+      0.641,
+      0.568,
+      0.611,
+      0.629,
+      0.332
+    ]
+  },
+  {
+    "id": "fi_590733484f",
+    "title": "The Social Network: Foundations",
+    "type": "film",
+    "description": "The Social Network: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "creativity",
+      "learning",
+      "analysis"
+    ],
+    "vector": [
+      0.723,
+      0.493,
+      0.531,
+      0.64,
+      0.667,
+      0.572,
+      0.617,
+      0.295
+    ]
+  },
+  {
+    "id": "fi_8f7abab7de",
+    "title": "Inside Out: Foundations",
+    "type": "film",
+    "description": "Inside Out: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "focus",
+      "creativity",
+      "empathy"
+    ],
+    "vector": [
+      0.668,
+      0.556,
+      0.575,
+      0.584,
+      0.63,
+      0.536,
+      0.616,
+      0.413
+    ]
+  },
+  {
+    "id": "fi_9e26bfe2b8",
+    "title": "Whiplash: Foundations",
+    "type": "film",
+    "description": "Whiplash: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "strategy",
+      "productivity",
+      "discipline"
+    ],
+    "vector": [
+      0.768,
+      0.607,
+      0.632,
+      0.625,
+      0.584,
+      0.543,
+      0.595,
+      0.288
+    ]
+  },
+  {
+    "id": "fi_d56c1bac2f",
+    "title": "Arrival: Foundations",
+    "type": "film",
+    "description": "Arrival: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "cognitive",
+      "discipline",
+      "wellbeing"
+    ],
+    "vector": [
+      0.642,
+      0.504,
+      0.648,
+      0.69,
+      0.609,
+      0.617,
+      0.595,
+      0.36
+    ]
+  },
+  {
+    "id": "fi_0c63793996",
+    "title": "The Martian: Foundations",
+    "type": "film",
+    "description": "The Martian: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "analysis",
+      "cognitive",
+      "discipline"
+    ],
+    "vector": [
+      0.663,
+      0.563,
+      0.64,
+      0.65,
+      0.559,
+      0.564,
+      0.664,
+      0.418
+    ]
+  },
+  {
+    "id": "fi_13500ef2c5",
+    "title": "Soul: Foundations",
+    "type": "film",
+    "description": "Soul: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "discipline",
+      "cognitive",
+      "creativity"
+    ],
+    "vector": [
+      0.744,
+      0.528,
+      0.643,
+      0.615,
+      0.679,
+      0.532,
+      0.712,
+      0.338
+    ]
+  },
+  {
+    "id": "fi_fde1a5162b",
+    "title": "Good Will Hunting: Foundations",
+    "type": "film",
+    "description": "Good Will Hunting: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "psychology",
+      "focus",
+      "discipline"
+    ],
+    "vector": [
+      0.651,
+      0.552,
+      0.553,
+      0.662,
+      0.658,
+      0.559,
+      0.709,
+      0.376
+    ]
+  },
+  {
+    "id": "fi_a1a99e5604",
+    "title": "Moneyball: Foundations",
+    "type": "film",
+    "description": "Moneyball: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "focus",
+      "psychology",
+      "empathy"
+    ],
+    "vector": [
+      0.635,
+      0.554,
+      0.576,
+      0.56,
+      0.634,
+      0.539,
+      0.701,
+      0.287
+    ]
+  },
+  {
+    "id": "fi_419dfaaa6a",
+    "title": "Inception: Advanced",
+    "type": "film",
+    "description": "Inception: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "strategy",
+      "focus",
+      "analysis"
+    ],
+    "vector": [
+      0.712,
+      0.592,
+      0.599,
+      0.658,
+      0.619,
+      0.566,
+      0.677,
+      0.322
+    ]
+  },
+  {
+    "id": "fi_99875f564b",
+    "title": "Interstellar: Advanced",
+    "type": "film",
+    "description": "Interstellar: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "empathy",
+      "cognitive",
+      "creativity"
+    ],
+    "vector": [
+      0.691,
+      0.596,
+      0.64,
+      0.672,
+      0.592,
+      0.665,
+      0.654,
+      0.412
+    ]
+  },
+  {
+    "id": "fi_8a4f43a06a",
+    "title": "The Social Network: Advanced",
+    "type": "film",
+    "description": "The Social Network: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "analysis",
+      "leadership",
+      "discipline"
+    ],
+    "vector": [
+      0.664,
+      0.562,
+      0.609,
+      0.673,
+      0.631,
+      0.661,
+      0.705,
+      0.287
+    ]
+  },
+  {
+    "id": "fi_88d8e00050",
+    "title": "Inside Out: Advanced",
+    "type": "film",
+    "description": "Inside Out: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "strategy",
+      "learning",
+      "analysis"
+    ],
+    "vector": [
+      0.687,
+      0.492,
+      0.621,
+      0.667,
+      0.598,
+      0.613,
+      0.697,
+      0.391
+    ]
+  },
+  {
+    "id": "fi_f3e4d2c8ef",
+    "title": "Whiplash: Advanced",
+    "type": "film",
+    "description": "Whiplash: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "leadership",
+      "empathy",
+      "analysis"
+    ],
+    "vector": [
+      0.763,
+      0.603,
+      0.597,
+      0.608,
+      0.592,
+      0.55,
+      0.656,
+      0.292
+    ]
+  },
+  {
+    "id": "fi_3a94cfbabf",
+    "title": "Arrival: Advanced",
+    "type": "film",
+    "description": "Arrival: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "empathy",
+      "cognitive",
+      "psychology"
+    ],
+    "vector": [
+      0.671,
+      0.492,
+      0.568,
+      0.648,
+      0.612,
+      0.623,
+      0.693,
+      0.297
+    ]
+  },
+  {
+    "id": "fi_058c5fddd4",
+    "title": "The Martian: Advanced",
+    "type": "film",
+    "description": "The Martian: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "analysis",
+      "psychology",
+      "strategy"
+    ],
+    "vector": [
+      0.745,
+      0.506,
+      0.568,
+      0.684,
+      0.601,
+      0.561,
+      0.705,
+      0.365
+    ]
+  },
+  {
+    "id": "fi_52d28e92c0",
+    "title": "Soul: Advanced",
+    "type": "film",
+    "description": "Soul: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "leadership",
+      "empathy",
+      "learning"
+    ],
+    "vector": [
+      0.764,
+      0.551,
+      0.668,
+      0.577,
+      0.666,
+      0.553,
+      0.654,
+      0.28
+    ]
+  },
+  {
+    "id": "fi_8073b66c3f",
+    "title": "Good Will Hunting: Advanced",
+    "type": "film",
+    "description": "Good Will Hunting: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "focus",
+      "discipline",
+      "empathy"
+    ],
+    "vector": [
+      0.709,
+      0.572,
+      0.633,
+      0.645,
+      0.688,
+      0.633,
+      0.685,
+      0.373
+    ]
+  },
+  {
+    "id": "fi_64a0200687",
+    "title": "Moneyball: Advanced",
+    "type": "film",
+    "description": "Moneyball: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "leadership",
+      "strategy",
+      "focus"
+    ],
+    "vector": [
+      0.702,
+      0.526,
+      0.567,
+      0.591,
+      0.593,
+      0.629,
+      0.676,
+      0.411
+    ]
+  },
+  {
+    "id": "fi_a6b8fc698e",
+    "title": "Inception: Practical Guide",
+    "type": "film",
+    "description": "Inception: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "psychology",
+      "empathy",
+      "cognitive"
+    ],
+    "vector": [
+      0.681,
+      0.617,
+      0.538,
+      0.667,
+      0.646,
+      0.608,
+      0.643,
+      0.385
+    ]
+  },
+  {
+    "id": "fi_db6de9fd9c",
+    "title": "Interstellar: Practical Guide",
+    "type": "film",
+    "description": "Interstellar: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "cognitive",
+      "empathy",
+      "psychology"
+    ],
+    "vector": [
+      0.763,
+      0.548,
+      0.531,
+      0.681,
+      0.588,
+      0.556,
+      0.709,
+      0.351
+    ]
+  },
+  {
+    "id": "fi_e6aca63f3c",
+    "title": "The Social Network: Practical Guide",
+    "type": "film",
+    "description": "The Social Network: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "creativity",
+      "cognitive",
+      "leadership"
+    ],
+    "vector": [
+      0.718,
+      0.514,
+      0.638,
+      0.554,
+      0.627,
+      0.587,
+      0.592,
+      0.413
+    ]
+  },
+  {
+    "id": "fi_256a158ae7",
+    "title": "Inside Out: Practical Guide",
+    "type": "film",
+    "description": "Inside Out: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "strategy",
+      "empathy",
+      "learning"
+    ],
+    "vector": [
+      0.727,
+      0.519,
+      0.553,
+      0.631,
+      0.666,
+      0.641,
+      0.629,
+      0.3
+    ]
+  },
+  {
+    "id": "fi_d8a40dc90b",
+    "title": "Whiplash: Practical Guide",
+    "type": "film",
+    "description": "Whiplash: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "psychology",
+      "creativity",
+      "leadership"
+    ],
+    "vector": [
+      0.733,
+      0.504,
+      0.574,
+      0.557,
+      0.592,
+      0.584,
+      0.715,
+      0.415
+    ]
+  },
+  {
+    "id": "fi_6bf8ac89f0",
+    "title": "Arrival: Practical Guide",
+    "type": "film",
+    "description": "Arrival: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "leadership",
+      "wellbeing",
+      "empathy"
+    ],
+    "vector": [
+      0.658,
+      0.525,
+      0.591,
+      0.565,
+      0.586,
+      0.585,
+      0.634,
+      0.415
+    ]
+  },
+  {
+    "id": "fi_490d668149",
+    "title": "The Martian: Practical Guide",
+    "type": "film",
+    "description": "The Martian: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "focus",
+      "discipline",
+      "empathy"
+    ],
+    "vector": [
+      0.7,
+      0.537,
+      0.552,
+      0.675,
+      0.556,
+      0.569,
+      0.655,
+      0.373
+    ]
+  },
+  {
+    "id": "fi_e6e27dcca0",
+    "title": "Soul: Practical Guide",
+    "type": "film",
+    "description": "Soul: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "strategy",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.685,
+      0.58,
+      0.585,
+      0.664,
+      0.669,
+      0.547,
+      0.643,
+      0.282
+    ]
+  },
+  {
+    "id": "fi_504b157851",
+    "title": "Good Will Hunting: Practical Guide",
+    "type": "film",
+    "description": "Good Will Hunting: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "cognitive",
+      "leadership",
+      "learning"
+    ],
+    "vector": [
+      0.714,
+      0.53,
+      0.667,
+      0.674,
+      0.673,
+      0.543,
+      0.664,
+      0.396
+    ]
+  },
+  {
+    "id": "fi_b2ba0cdbaf",
+    "title": "Moneyball: Practical Guide",
+    "type": "film",
+    "description": "Moneyball: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "focus",
+      "leadership",
+      "creativity"
+    ],
+    "vector": [
+      0.72,
+      0.615,
+      0.619,
+      0.647,
+      0.658,
+      0.585,
+      0.712,
+      0.384
+    ]
+  },
+  {
+    "id": "fi_b2fe85720a",
+    "title": "Inception: Applied Playbook",
+    "type": "film",
+    "description": "Inception: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "strategy",
+      "wellbeing",
+      "empathy"
+    ],
+    "vector": [
+      0.743,
+      0.529,
+      0.556,
+      0.672,
+      0.624,
+      0.603,
+      0.674,
+      0.406
+    ]
+  },
+  {
+    "id": "fi_368360fa2c",
+    "title": "Interstellar: Applied Playbook",
+    "type": "film",
+    "description": "Interstellar: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "discipline",
+      "learning",
+      "focus"
+    ],
+    "vector": [
+      0.759,
+      0.489,
+      0.53,
+      0.63,
+      0.583,
+      0.591,
+      0.61,
+      0.382
+    ]
+  },
+  {
+    "id": "fi_80814d876b",
+    "title": "The Social Network: Applied Playbook",
+    "type": "film",
+    "description": "The Social Network: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "creativity",
+      "analysis",
+      "discipline"
+    ],
+    "vector": [
+      0.724,
+      0.586,
+      0.6,
+      0.676,
+      0.676,
+      0.634,
+      0.695,
+      0.371
+    ]
+  },
+  {
+    "id": "fi_360af4cac9",
+    "title": "Inside Out: Applied Playbook",
+    "type": "film",
+    "description": "Inside Out: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "creativity",
+      "strategy",
+      "analysis"
+    ],
+    "vector": [
+      0.73,
+      0.588,
+      0.615,
+      0.621,
+      0.635,
+      0.657,
+      0.623,
+      0.33
+    ]
+  },
+  {
+    "id": "fi_d62caf3513",
+    "title": "Whiplash: Applied Playbook",
+    "type": "film",
+    "description": "Whiplash: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "focus",
+      "learning",
+      "psychology"
+    ],
+    "vector": [
+      0.728,
+      0.49,
+      0.647,
+      0.596,
+      0.55,
+      0.618,
+      0.599,
+      0.319
+    ]
+  },
+  {
+    "id": "fi_cd75bb4b35",
+    "title": "Arrival: Applied Playbook",
+    "type": "film",
+    "description": "Arrival: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "empathy",
+      "cognitive",
+      "productivity"
+    ],
+    "vector": [
+      0.713,
+      0.485,
+      0.605,
+      0.615,
+      0.618,
+      0.571,
+      0.711,
+      0.415
+    ]
+  },
+  {
+    "id": "fi_68a8a4a237",
+    "title": "The Martian: Applied Playbook",
+    "type": "film",
+    "description": "The Martian: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "cognitive",
+      "discipline",
+      "wellbeing"
+    ],
+    "vector": [
+      0.708,
+      0.595,
+      0.569,
+      0.686,
+      0.631,
+      0.63,
+      0.611,
+      0.304
+    ]
+  },
+  {
+    "id": "fi_7857857cf2",
+    "title": "Soul: Applied Playbook",
+    "type": "film",
+    "description": "Soul: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "leadership",
+      "strategy",
+      "learning"
+    ],
+    "vector": [
+      0.639,
+      0.568,
+      0.631,
+      0.632,
+      0.606,
+      0.602,
+      0.662,
+      0.312
+    ]
+  },
+  {
+    "id": "fi_846cc58b97",
+    "title": "Good Will Hunting: Applied Playbook",
+    "type": "film",
+    "description": "Good Will Hunting: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "learning",
+      "productivity",
+      "wellbeing"
+    ],
+    "vector": [
+      0.722,
+      0.515,
+      0.62,
+      0.631,
+      0.61,
+      0.666,
+      0.703,
+      0.366
+    ]
+  },
+  {
+    "id": "fi_7813e21b25",
+    "title": "Moneyball: Applied Playbook",
+    "type": "film",
+    "description": "Moneyball: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "learning",
+      "cognitive",
+      "analysis"
+    ],
+    "vector": [
+      0.646,
+      0.503,
+      0.636,
+      0.561,
+      0.676,
+      0.532,
+      0.689,
+      0.391
+    ]
+  },
+  {
+    "id": "fi_f3a17f06ad",
+    "title": "Inception: Masterclass",
+    "type": "film",
+    "description": "Inception: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "discipline",
+      "leadership",
+      "wellbeing"
+    ],
+    "vector": [
+      0.708,
+      0.578,
+      0.666,
+      0.655,
+      0.683,
+      0.659,
+      0.681,
+      0.381
+    ]
+  },
+  {
+    "id": "fi_440555c209",
+    "title": "Interstellar: Masterclass",
+    "type": "film",
+    "description": "Interstellar: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "learning",
+      "discipline",
+      "strategy"
+    ],
+    "vector": [
+      0.632,
+      0.601,
+      0.631,
+      0.638,
+      0.587,
+      0.58,
+      0.603,
+      0.369
+    ]
+  },
+  {
+    "id": "fi_b66cf61b5c",
+    "title": "The Social Network: Masterclass",
+    "type": "film",
+    "description": "The Social Network: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "leadership",
+      "focus",
+      "psychology"
+    ],
+    "vector": [
+      0.734,
+      0.577,
+      0.589,
+      0.554,
+      0.65,
+      0.638,
+      0.628,
+      0.4
+    ]
+  },
+  {
+    "id": "fi_e63d84ff34",
+    "title": "Inside Out: Masterclass",
+    "type": "film",
+    "description": "Inside Out: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "empathy",
+      "wellbeing",
+      "focus"
+    ],
+    "vector": [
+      0.758,
+      0.591,
+      0.597,
+      0.665,
+      0.568,
+      0.545,
+      0.659,
+      0.351
+    ]
+  },
+  {
+    "id": "fi_46fe59c2ca",
+    "title": "Whiplash: Masterclass",
+    "type": "film",
+    "description": "Whiplash: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "learning",
+      "leadership",
+      "psychology"
+    ],
+    "vector": [
+      0.761,
+      0.507,
+      0.569,
+      0.664,
+      0.623,
+      0.638,
+      0.682,
+      0.303
+    ]
+  },
+  {
+    "id": "fi_90edab50bb",
+    "title": "Arrival: Masterclass",
+    "type": "film",
+    "description": "Arrival: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "creativity",
+      "wellbeing",
+      "psychology"
+    ],
+    "vector": [
+      0.646,
+      0.582,
+      0.604,
+      0.554,
+      0.664,
+      0.666,
+      0.592,
+      0.389
+    ]
+  },
+  {
+    "id": "fi_1a85eeec26",
+    "title": "The Martian: Masterclass",
+    "type": "film",
+    "description": "The Martian: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "cognitive",
+      "productivity",
+      "focus"
+    ],
+    "vector": [
+      0.75,
+      0.527,
+      0.608,
+      0.615,
+      0.658,
+      0.657,
+      0.581,
+      0.309
+    ]
+  },
+  {
+    "id": "fi_ecab01b226",
+    "title": "Soul: Masterclass",
+    "type": "film",
+    "description": "Soul: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "strategy",
+      "focus",
+      "cognitive"
+    ],
+    "vector": [
+      0.713,
+      0.498,
+      0.558,
+      0.614,
+      0.632,
+      0.619,
+      0.679,
+      0.342
+    ]
+  },
+  {
+    "id": "fi_8556665252",
+    "title": "Good Will Hunting: Masterclass",
+    "type": "film",
+    "description": "Good Will Hunting: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "cognitive",
+      "psychology",
+      "empathy"
+    ],
+    "vector": [
+      0.654,
+      0.571,
+      0.651,
+      0.689,
+      0.65,
+      0.596,
+      0.703,
+      0.365
+    ]
+  },
+  {
+    "id": "fi_80307ee794",
+    "title": "Moneyball: Masterclass",
+    "type": "film",
+    "description": "Moneyball: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "empathy",
+      "cognitive",
+      "strategy"
+    ],
+    "vector": [
+      0.639,
+      0.513,
+      0.668,
+      0.582,
+      0.605,
+      0.64,
+      0.695,
+      0.369
+    ]
+  },
+  {
+    "id": "fi_1dea90f37d",
+    "title": "Inception: Toolkit",
+    "type": "film",
+    "description": "Inception: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "wellbeing",
+      "psychology",
+      "discipline"
+    ],
+    "vector": [
+      0.643,
+      0.617,
+      0.642,
+      0.555,
+      0.557,
+      0.564,
+      0.71,
+      0.311
+    ]
+  },
+  {
+    "id": "fi_34a73a920a",
+    "title": "Interstellar: Toolkit",
+    "type": "film",
+    "description": "Interstellar: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "psychology",
+      "productivity",
+      "strategy"
+    ],
+    "vector": [
+      0.667,
+      0.501,
+      0.533,
+      0.656,
+      0.565,
+      0.666,
+      0.679,
+      0.306
+    ]
+  },
+  {
+    "id": "fi_cb98bbae13",
+    "title": "The Social Network: Toolkit",
+    "type": "film",
+    "description": "The Social Network: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "creativity",
+      "cognitive",
+      "analysis"
+    ],
+    "vector": [
+      0.675,
+      0.551,
+      0.664,
+      0.603,
+      0.673,
+      0.54,
+      0.584,
+      0.371
+    ]
+  },
+  {
+    "id": "fi_8a11b4943f",
+    "title": "Inside Out: Toolkit",
+    "type": "film",
+    "description": "Inside Out: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "productivity",
+      "wellbeing",
+      "cognitive"
+    ],
+    "vector": [
+      0.641,
+      0.488,
+      0.606,
+      0.591,
+      0.606,
+      0.531,
+      0.684,
+      0.283
+    ]
+  },
+  {
+    "id": "fi_5ccfffbaaf",
+    "title": "Whiplash: Toolkit",
+    "type": "film",
+    "description": "Whiplash: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "empathy",
+      "discipline",
+      "focus"
+    ],
+    "vector": [
+      0.729,
+      0.583,
+      0.624,
+      0.688,
+      0.636,
+      0.542,
+      0.653,
+      0.375
+    ]
+  },
+  {
+    "id": "fi_56189f5377",
+    "title": "Arrival: Toolkit",
+    "type": "film",
+    "description": "Arrival: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "discipline",
+      "analysis",
+      "cognitive"
+    ],
+    "vector": [
+      0.681,
+      0.522,
+      0.637,
+      0.571,
+      0.635,
+      0.667,
+      0.688,
+      0.281
+    ]
+  },
+  {
+    "id": "fi_d81e9ca631",
+    "title": "The Martian: Toolkit",
+    "type": "film",
+    "description": "The Martian: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "psychology",
+      "analysis",
+      "discipline"
+    ],
+    "vector": [
+      0.703,
+      0.544,
+      0.587,
+      0.636,
+      0.641,
+      0.658,
+      0.683,
+      0.392
+    ]
+  },
+  {
+    "id": "fi_a2a8eca6cc",
+    "title": "Soul: Toolkit",
+    "type": "film",
+    "description": "Soul: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "analysis",
+      "wellbeing",
+      "creativity"
+    ],
+    "vector": [
+      0.749,
+      0.54,
+      0.653,
+      0.575,
+      0.682,
+      0.592,
+      0.679,
+      0.315
+    ]
+  },
+  {
+    "id": "fi_becc8a0278",
+    "title": "Good Will Hunting: Toolkit",
+    "type": "film",
+    "description": "Good Will Hunting: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "learning",
+      "psychology",
+      "wellbeing"
+    ],
+    "vector": [
+      0.684,
+      0.503,
+      0.553,
+      0.683,
+      0.642,
+      0.596,
+      0.667,
+      0.385
+    ]
+  },
+  {
+    "id": "fi_72e8cb5c8c",
+    "title": "Moneyball: Toolkit",
+    "type": "film",
+    "description": "Moneyball: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "leadership",
+      "discipline",
+      "psychology"
+    ],
+    "vector": [
+      0.688,
+      0.483,
+      0.562,
+      0.674,
+      0.679,
+      0.576,
+      0.688,
+      0.388
+    ]
+  },
+  {
+    "id": "fi_5cb6b335a7",
+    "title": "Inception: Field Notes",
+    "type": "film",
+    "description": "Inception: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "focus",
+      "productivity",
+      "creativity"
+    ],
+    "vector": [
+      0.645,
+      0.596,
+      0.574,
+      0.638,
+      0.601,
+      0.605,
+      0.715,
+      0.303
+    ]
+  },
+  {
+    "id": "fi_dfd1923c11",
+    "title": "Interstellar: Field Notes",
+    "type": "film",
+    "description": "Interstellar: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "psychology",
+      "analysis",
+      "discipline"
+    ],
+    "vector": [
+      0.761,
+      0.537,
+      0.658,
+      0.647,
+      0.685,
+      0.543,
+      0.61,
+      0.32
+    ]
+  },
+  {
+    "id": "fi_6b990ccb5f",
+    "title": "The Social Network: Field Notes",
+    "type": "film",
+    "description": "The Social Network: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "leadership",
+      "strategy",
+      "focus"
+    ],
+    "vector": [
+      0.769,
+      0.505,
+      0.591,
+      0.646,
+      0.647,
+      0.634,
+      0.685,
+      0.315
+    ]
+  },
+  {
+    "id": "fi_de92cbd744",
+    "title": "Inside Out: Field Notes",
+    "type": "film",
+    "description": "Inside Out: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "psychology",
+      "focus",
+      "discipline"
+    ],
+    "vector": [
+      0.72,
+      0.567,
+      0.622,
+      0.654,
+      0.57,
+      0.54,
+      0.59,
+      0.335
+    ]
+  },
+  {
+    "id": "fi_64727fb9d7",
+    "title": "Whiplash: Field Notes",
+    "type": "film",
+    "description": "Whiplash: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "analysis",
+      "wellbeing",
+      "productivity"
+    ],
+    "vector": [
+      0.632,
+      0.531,
+      0.55,
+      0.566,
+      0.619,
+      0.666,
+      0.676,
+      0.318
+    ]
+  },
+  {
+    "id": "fi_8f66ab588e",
+    "title": "Arrival: Field Notes",
+    "type": "film",
+    "description": "Arrival: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "creativity",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.672,
+      0.537,
+      0.627,
+      0.612,
+      0.652,
+      0.543,
+      0.711,
+      0.328
+    ]
+  },
+  {
+    "id": "fi_f21f708d11",
+    "title": "The Martian: Field Notes",
+    "type": "film",
+    "description": "The Martian: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "psychology",
+      "strategy",
+      "analysis"
+    ],
+    "vector": [
+      0.645,
+      0.509,
+      0.579,
+      0.597,
+      0.637,
+      0.648,
+      0.59,
+      0.293
+    ]
+  },
+  {
+    "id": "fi_cb545b691d",
+    "title": "Soul: Field Notes",
+    "type": "film",
+    "description": "Soul: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "analysis",
+      "cognitive",
+      "leadership"
+    ],
+    "vector": [
+      0.723,
+      0.505,
+      0.55,
+      0.564,
+      0.688,
+      0.584,
+      0.671,
+      0.36
+    ]
+  },
+  {
+    "id": "fi_492d9a9de1",
+    "title": "Good Will Hunting: Field Notes",
+    "type": "film",
+    "description": "Good Will Hunting: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "psychology",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.632,
+      0.599,
+      0.548,
+      0.685,
+      0.601,
+      0.631,
+      0.599,
+      0.39
+    ]
+  },
+  {
+    "id": "fi_ee939ea970",
+    "title": "Moneyball: Field Notes",
+    "type": "film",
+    "description": "Moneyball: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "learning",
+      "wellbeing",
+      "creativity"
+    ],
+    "vector": [
+      0.703,
+      0.496,
+      0.565,
+      0.661,
+      0.59,
+      0.583,
+      0.687,
+      0.311
+    ]
+  },
+  {
+    "id": "fi_3de8ec30bc",
+    "title": "Inception: Intensive",
+    "type": "film",
+    "description": "Inception: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "analysis",
+      "strategy",
+      "learning"
+    ],
+    "vector": [
+      0.664,
+      0.605,
+      0.567,
+      0.551,
+      0.564,
+      0.583,
+      0.632,
+      0.319
+    ]
+  },
+  {
+    "id": "fi_66f904ec42",
+    "title": "Interstellar: Intensive",
+    "type": "film",
+    "description": "Interstellar: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "analysis",
+      "wellbeing",
+      "focus"
+    ],
+    "vector": [
+      0.645,
+      0.558,
+      0.599,
+      0.607,
+      0.618,
+      0.659,
+      0.707,
+      0.34
+    ]
+  },
+  {
+    "id": "fi_8a8dbca130",
+    "title": "The Social Network: Intensive",
+    "type": "film",
+    "description": "The Social Network: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "focus",
+      "discipline",
+      "wellbeing"
+    ],
+    "vector": [
+      0.667,
+      0.542,
+      0.563,
+      0.597,
+      0.558,
+      0.601,
+      0.648,
+      0.31
+    ]
+  },
+  {
+    "id": "fi_d048496f6d",
+    "title": "Inside Out: Intensive",
+    "type": "film",
+    "description": "Inside Out: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "strategy",
+      "focus",
+      "psychology"
+    ],
+    "vector": [
+      0.762,
+      0.553,
+      0.564,
+      0.574,
+      0.671,
+      0.56,
+      0.592,
+      0.317
+    ]
+  },
+  {
+    "id": "fi_8fa2a3a8e4",
+    "title": "Whiplash: Intensive",
+    "type": "film",
+    "description": "Whiplash: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "creativity",
+      "focus",
+      "analysis"
+    ],
+    "vector": [
+      0.718,
+      0.494,
+      0.569,
+      0.66,
+      0.56,
+      0.628,
+      0.646,
+      0.316
+    ]
+  },
+  {
+    "id": "fi_38e58afb62",
+    "title": "Arrival: Intensive",
+    "type": "film",
+    "description": "Arrival: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "psychology",
+      "analysis",
+      "wellbeing"
+    ],
+    "vector": [
+      0.72,
+      0.576,
+      0.535,
+      0.641,
+      0.658,
+      0.623,
+      0.6,
+      0.331
+    ]
+  },
+  {
+    "id": "fi_2de0014357",
+    "title": "The Martian: Intensive",
+    "type": "film",
+    "description": "The Martian: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "learning",
+      "psychology",
+      "wellbeing"
+    ],
+    "vector": [
+      0.722,
+      0.571,
+      0.628,
+      0.552,
+      0.614,
+      0.631,
+      0.643,
+      0.399
+    ]
+  },
+  {
+    "id": "fi_99f795ba26",
+    "title": "Soul: Intensive",
+    "type": "film",
+    "description": "Soul: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "empathy",
+      "creativity",
+      "discipline"
+    ],
+    "vector": [
+      0.673,
+      0.524,
+      0.558,
+      0.559,
+      0.554,
+      0.553,
+      0.63,
+      0.348
+    ]
+  },
+  {
+    "id": "fi_3b1bd0ecd6",
+    "title": "Good Will Hunting: Intensive",
+    "type": "film",
+    "description": "Good Will Hunting: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "empathy",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.749,
+      0.584,
+      0.624,
+      0.58,
+      0.677,
+      0.557,
+      0.646,
+      0.323
+    ]
+  },
+  {
+    "id": "fi_be7e25d335",
+    "title": "Moneyball: Intensive",
+    "type": "film",
+    "description": "Moneyball: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "leadership",
+      "discipline",
+      "learning"
+    ],
+    "vector": [
+      0.634,
+      0.505,
+      0.588,
+      0.649,
+      0.63,
+      0.638,
+      0.613,
+      0.397
+    ]
+  },
+  {
+    "id": "fi_78b1a426bf",
+    "title": "Inception: Studio",
+    "type": "film",
+    "description": "Inception: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "cognitive",
+      "leadership",
+      "empathy"
+    ],
+    "vector": [
+      0.697,
+      0.557,
+      0.584,
+      0.587,
+      0.629,
+      0.568,
+      0.638,
+      0.407
+    ]
+  },
+  {
+    "id": "fi_edfc0fa49d",
+    "title": "Interstellar: Studio",
+    "type": "film",
+    "description": "Interstellar: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "creativity",
+      "cognitive",
+      "learning"
+    ],
+    "vector": [
+      0.754,
+      0.488,
+      0.563,
+      0.573,
+      0.632,
+      0.593,
+      0.637,
+      0.404
+    ]
+  },
+  {
+    "id": "fi_46db008397",
+    "title": "The Social Network: Studio",
+    "type": "film",
+    "description": "The Social Network: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "discipline",
+      "creativity",
+      "leadership"
+    ],
+    "vector": [
+      0.765,
+      0.58,
+      0.543,
+      0.611,
+      0.665,
+      0.665,
+      0.707,
+      0.29
+    ]
+  },
+  {
+    "id": "fi_e6f89b14c0",
+    "title": "Inside Out: Studio",
+    "type": "film",
+    "description": "Inside Out: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "analysis",
+      "strategy",
+      "focus"
+    ],
+    "vector": [
+      0.704,
+      0.599,
+      0.643,
+      0.641,
+      0.622,
+      0.546,
+      0.614,
+      0.372
+    ]
+  },
+  {
+    "id": "fi_d372a8bfeb",
+    "title": "Whiplash: Studio",
+    "type": "film",
+    "description": "Whiplash: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "wellbeing",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.765,
+      0.507,
+      0.541,
+      0.676,
+      0.63,
+      0.555,
+      0.677,
+      0.316
+    ]
+  },
+  {
+    "id": "fi_cdc0752783",
+    "title": "Arrival: Studio",
+    "type": "film",
+    "description": "Arrival: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "strategy",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.666,
+      0.595,
+      0.628,
+      0.558,
+      0.646,
+      0.56,
+      0.626,
+      0.409
+    ]
+  },
+  {
+    "id": "fi_d46457454a",
+    "title": "The Martian: Studio",
+    "type": "film",
+    "description": "The Martian: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "analysis",
+      "learning",
+      "creativity"
+    ],
+    "vector": [
+      0.695,
+      0.525,
+      0.666,
+      0.687,
+      0.562,
+      0.666,
+      0.656,
+      0.336
+    ]
+  },
+  {
+    "id": "fi_cdb7d28753",
+    "title": "Soul: Studio",
+    "type": "film",
+    "description": "Soul: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "discipline",
+      "learning",
+      "cognitive"
+    ],
+    "vector": [
+      0.683,
+      0.549,
+      0.581,
+      0.69,
+      0.64,
+      0.653,
+      0.596,
+      0.351
+    ]
+  },
+  {
+    "id": "fi_1b2a16f714",
+    "title": "Good Will Hunting: Studio",
+    "type": "film",
+    "description": "Good Will Hunting: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "cognitive",
+      "analysis",
+      "focus"
+    ],
+    "vector": [
+      0.696,
+      0.544,
+      0.576,
+      0.626,
+      0.598,
+      0.636,
+      0.624,
+      0.394
+    ]
+  },
+  {
+    "id": "fi_5ff72c92d9",
+    "title": "Moneyball: Studio",
+    "type": "film",
+    "description": "Moneyball: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "psychology",
+      "creativity",
+      "strategy"
+    ],
+    "vector": [
+      0.682,
+      0.615,
+      0.637,
+      0.667,
+      0.64,
+      0.619,
+      0.679,
+      0.415
+    ]
+  },
+  {
+    "id": "fi_032b69e9cc",
+    "title": "Inception: Lab",
+    "type": "film",
+    "description": "Inception: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "learning",
+      "leadership",
+      "cognitive"
+    ],
+    "vector": [
+      0.653,
+      0.489,
+      0.594,
+      0.643,
+      0.657,
+      0.536,
+      0.706,
+      0.363
+    ]
+  },
+  {
+    "id": "fi_27fcf56274",
+    "title": "Interstellar: Lab",
+    "type": "film",
+    "description": "Interstellar: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "productivity",
+      "leadership",
+      "psychology"
+    ],
+    "vector": [
+      0.64,
+      0.481,
+      0.554,
+      0.647,
+      0.551,
+      0.562,
+      0.617,
+      0.38
+    ]
+  },
+  {
+    "id": "fi_80128172d3",
+    "title": "The Social Network: Lab",
+    "type": "film",
+    "description": "The Social Network: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "psychology",
+      "wellbeing",
+      "focus"
+    ],
+    "vector": [
+      0.642,
+      0.492,
+      0.558,
+      0.616,
+      0.56,
+      0.579,
+      0.621,
+      0.385
+    ]
+  },
+  {
+    "id": "fi_f2fc5a3631",
+    "title": "Inside Out: Lab",
+    "type": "film",
+    "description": "Inside Out: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "learning",
+      "psychology",
+      "focus"
+    ],
+    "vector": [
+      0.667,
+      0.517,
+      0.539,
+      0.557,
+      0.686,
+      0.548,
+      0.702,
+      0.326
+    ]
+  },
+  {
+    "id": "fi_93092519ca",
+    "title": "Whiplash: Lab",
+    "type": "film",
+    "description": "Whiplash: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "empathy",
+      "creativity",
+      "discipline"
+    ],
+    "vector": [
+      0.715,
+      0.619,
+      0.643,
+      0.655,
+      0.667,
+      0.589,
+      0.621,
+      0.282
+    ]
+  },
+  {
+    "id": "fi_966ae83d3e",
+    "title": "Arrival: Lab",
+    "type": "film",
+    "description": "Arrival: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "focus",
+      "empathy",
+      "wellbeing"
+    ],
+    "vector": [
+      0.639,
+      0.501,
+      0.641,
+      0.613,
+      0.616,
+      0.644,
+      0.667,
+      0.395
+    ]
+  },
+  {
+    "id": "fi_cf808a8dbb",
+    "title": "The Martian: Lab",
+    "type": "film",
+    "description": "The Martian: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "cognitive",
+      "strategy",
+      "creativity"
+    ],
+    "vector": [
+      0.632,
+      0.611,
+      0.56,
+      0.668,
+      0.614,
+      0.635,
+      0.65,
+      0.353
+    ]
+  },
+  {
+    "id": "fi_04b0595465",
+    "title": "Soul: Lab",
+    "type": "film",
+    "description": "Soul: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "psychology",
+      "wellbeing",
+      "discipline"
+    ],
+    "vector": [
+      0.731,
+      0.511,
+      0.571,
+      0.64,
+      0.647,
+      0.616,
+      0.706,
+      0.309
+    ]
+  },
+  {
+    "id": "fi_2fc2cdd05d",
+    "title": "Good Will Hunting: Lab",
+    "type": "film",
+    "description": "Good Will Hunting: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "wellbeing",
+      "analysis",
+      "creativity"
+    ],
+    "vector": [
+      0.652,
+      0.512,
+      0.638,
+      0.666,
+      0.65,
+      0.664,
+      0.691,
+      0.323
+    ]
+  },
+  {
+    "id": "fi_a53a8efcbf",
+    "title": "Moneyball: Lab",
+    "type": "film",
+    "description": "Moneyball: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "productivity",
+      "leadership",
+      "psychology"
+    ],
+    "vector": [
+      0.738,
+      0.524,
+      0.571,
+      0.596,
+      0.583,
+      0.555,
+      0.668,
+      0.314
+    ]
+  }
+]

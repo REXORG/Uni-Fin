@@ -1,0 +1,9 @@
+<!doctype html><html lang="tr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Uni-Fin Test</title></head><body>
+<h2>Uni-Fin Composite Test</h2><div>Kalan: <span id="timer">30</span></div><div id="progress">0/100</div><h3 id="q"></h3><div id="opts"></div><pre id="out"></pre><button id="start">Başlat</button>
+<script>
+let sid=null,tm=null,total=100;
+async function post(u,b){const r=await fetch(u,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(b||{})});return r.json();}
+async function next(){const d=await post('/get-question',{session_id:sid});if(d.done){return finish();}document.getElementById('timer').textContent=d.remaining_seconds;document.getElementById('progress').textContent=`${d.index}/${total}`;const q=d.question;const el=document.getElementById('q');el.textContent=q.text;el.style.color=q.type==='stroop'?(q.display_color||'black'):'black';const opts=document.getElementById('opts');opts.innerHTML='';q.options.forEach(o=>{const b=document.createElement('button');b.textContent=o.label;b.onclick=async()=>{await post('/submit-answer',{session_id:sid,question_id:q.id,answer:o.value});next();};opts.appendChild(b);});}
+async function finish(){clearInterval(tm);const d=await post('/finish-test',{session_id:sid});document.getElementById('out').textContent=JSON.stringify(d,null,2);}
+document.getElementById('start').onclick=async()=>{const s=await post('/start-test');sid=s.session_id;total=s.total_questions;let t=s.duration;tm=setInterval(()=>{t--;document.getElementById('timer').textContent=Math.max(0,t);if(t<=0)finish();},1000);next();};
+</script></body></html>

@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "co_d23d0d89ce",
+    "title": "CS50x",
+    "type": "course",
+    "description": "CS50x, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "analysis",
+      "cognitive",
+      "wellbeing"
+    ],
+    "vector": [
+      0.713,
+      0.812,
+      0.771,
+      0.578,
+      0.44,
+      0.835,
+      0.512,
+      0.312
+    ]
+  },
+  {
+    "id": "co_e8b8523516",
+    "title": "Machine Learning by Andrew Ng",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "learning",
+      "creativity",
+      "strategy"
+    ],
+    "vector": [
+      0.765,
+      0.753,
+      0.849,
+      0.617,
+      0.432,
+      0.801,
+      0.437,
+      0.366
+    ]
+  },
+  {
+    "id": "co_bdb682f29d",
+    "title": "Learning How to Learn",
+    "type": "course",
+    "description": "Learning How to Learn, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "leadership",
+      "creativity",
+      "productivity"
+    ],
+    "vector": [
+      0.697,
+      0.739,
+      0.867,
+      0.596,
+      0.428,
+      0.878,
+      0.57,
+      0.365
+    ]
+  },
+  {
+    "id": "co_e7afcdeaa5",
+    "title": "MIT 6.006 Algorithms",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "analysis",
+      "cognitive",
+      "discipline"
+    ],
+    "vector": [
+      0.669,
+      0.8,
+      0.868,
+      0.588,
+      0.447,
+      0.844,
+      0.535,
+      0.276
+    ]
+  },
+  {
+    "id": "co_6b6aa348c3",
+    "title": "HarvardX Data Science",
+    "type": "course",
+    "description": "HarvardX Data Science, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "focus",
+      "discipline",
+      "wellbeing"
+    ],
+    "vector": [
+      0.765,
+      0.787,
+      0.776,
+      0.515,
+      0.451,
+      0.789,
+      0.478,
+      0.361
+    ]
+  },
+  {
+    "id": "co_406f08c5aa",
+    "title": "Google Project Management",
+    "type": "course",
+    "description": "Google Project Management, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "cognitive",
+      "focus",
+      "analysis"
+    ],
+    "vector": [
+      0.653,
+      0.789,
+      0.851,
+      0.491,
+      0.498,
+      0.871,
+      0.457,
+      0.318
+    ]
+  },
+  {
+    "id": "co_f6de486f75",
+    "title": "AI for Everyone",
+    "type": "course",
+    "description": "AI for Everyone, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "learning",
+      "empathy",
+      "psychology"
+    ],
+    "vector": [
+      0.769,
+      0.753,
+      0.869,
+      0.587,
+      0.466,
+      0.859,
+      0.54,
+      0.327
+    ]
+  },
+  {
+    "id": "co_2b002b2e8e",
+    "title": "Financial Markets",
+    "type": "course",
+    "description": "Financial Markets, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "focus",
+      "discipline",
+      "learning"
+    ],
+    "vector": [
+      0.689,
+      0.748,
+      0.742,
+      0.618,
+      0.416,
+      0.836,
+      0.479,
+      0.276
+    ]
+  },
+  {
+    "id": "co_b3cfc6823f",
+    "title": "Python for Everybody",
+    "type": "course",
+    "description": "Python for Everybody, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "learning",
+      "leadership",
+      "discipline"
+    ],
+    "vector": [
+      0.738,
+      0.831,
+      0.864,
+      0.552,
+      0.451,
+      0.831,
+      0.555,
+      0.327
+    ]
+  },
+  {
+    "id": "co_ea1fe96ed5",
+    "title": "Public Speaking Foundations",
+    "type": "course",
+    "description": "Public Speaking Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "discipline",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.722,
+      0.729,
+      0.863,
+      0.539,
+      0.491,
+      0.773,
+      0.482,
+      0.262
+    ]
+  },
+  {
+    "id": "co_54b860ff69",
+    "title": "CS50x: Advanced",
+    "type": "course",
+    "description": "CS50x: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "learning",
+      "creativity",
+      "psychology"
+    ],
+    "vector": [
+      0.734,
+      0.819,
+      0.748,
+      0.521,
+      0.529,
+      0.846,
+      0.445,
+      0.346
+    ]
+  },
+  {
+    "id": "co_3dae0aaf58",
+    "title": "Machine Learning by Andrew Ng: Advanced",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "wellbeing",
+      "creativity",
+      "productivity"
+    ],
+    "vector": [
+      0.742,
+      0.755,
+      0.749,
+      0.503,
+      0.466,
+      0.768,
+      0.484,
+      0.327
+    ]
+  },
+  {
+    "id": "co_23d7b724c7",
+    "title": "Learning How to Learn: Advanced",
+    "type": "course",
+    "description": "Learning How to Learn: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "discipline",
+      "strategy",
+      "learning"
+    ],
+    "vector": [
+      0.762,
+      0.722,
+      0.776,
+      0.611,
+      0.531,
+      0.879,
+      0.537,
+      0.325
+    ]
+  },
+  {
+    "id": "co_375e50bea3",
+    "title": "MIT 6.006 Algorithms: Advanced",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "cognitive",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.735,
+      0.731,
+      0.776,
+      0.601,
+      0.413,
+      0.764,
+      0.455,
+      0.381
+    ]
+  },
+  {
+    "id": "co_7d55531ec8",
+    "title": "HarvardX Data Science: Advanced",
+    "type": "course",
+    "description": "HarvardX Data Science: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "leadership",
+      "learning",
+      "psychology"
+    ],
+    "vector": [
+      0.67,
+      0.817,
+      0.827,
+      0.532,
+      0.458,
+      0.772,
+      0.546,
+      0.314
+    ]
+  },
+  {
+    "id": "co_8a1fbca65e",
+    "title": "Google Project Management: Advanced",
+    "type": "course",
+    "description": "Google Project Management: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "learning",
+      "leadership",
+      "wellbeing"
+    ],
+    "vector": [
+      0.749,
+      0.724,
+      0.774,
+      0.488,
+      0.51,
+      0.824,
+      0.526,
+      0.3
+    ]
+  },
+  {
+    "id": "co_51ab8be9ce",
+    "title": "AI for Everyone: Advanced",
+    "type": "course",
+    "description": "AI for Everyone: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "analysis",
+      "cognitive",
+      "learning"
+    ],
+    "vector": [
+      0.713,
+      0.729,
+      0.74,
+      0.602,
+      0.498,
+      0.847,
+      0.522,
+      0.31
+    ]
+  },
+  {
+    "id": "co_7db3e6da3f",
+    "title": "Financial Markets: Advanced",
+    "type": "course",
+    "description": "Financial Markets: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "productivity",
+      "leadership",
+      "wellbeing"
+    ],
+    "vector": [
+      0.778,
+      0.735,
+      0.858,
+      0.555,
+      0.429,
+      0.785,
+      0.525,
+      0.384
+    ]
+  },
+  {
+    "id": "co_4c2755332a",
+    "title": "Python for Everybody: Advanced",
+    "type": "course",
+    "description": "Python for Everybody: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "wellbeing",
+      "cognitive",
+      "psychology"
+    ],
+    "vector": [
+      0.78,
+      0.717,
+      0.731,
+      0.513,
+      0.519,
+      0.771,
+      0.504,
+      0.358
+    ]
+  },
+  {
+    "id": "co_33e77f48d8",
+    "title": "Public Speaking Foundations: Advanced",
+    "type": "course",
+    "description": "Public Speaking Foundations: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "productivity",
+      "cognitive",
+      "strategy"
+    ],
+    "vector": [
+      0.786,
+      0.823,
+      0.731,
+      0.597,
+      0.442,
+      0.794,
+      0.508,
+      0.36
+    ]
+  },
+  {
+    "id": "co_38f222b736",
+    "title": "CS50x: Practical Guide",
+    "type": "course",
+    "description": "CS50x: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "learning",
+      "strategy",
+      "creativity"
+    ],
+    "vector": [
+      0.746,
+      0.773,
+      0.809,
+      0.593,
+      0.484,
+      0.884,
+      0.431,
+      0.376
+    ]
+  },
+  {
+    "id": "co_d51acba7d3",
+    "title": "Machine Learning by Andrew Ng: Practical Guide",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "empathy",
+      "productivity",
+      "cognitive"
+    ],
+    "vector": [
+      0.671,
+      0.757,
+      0.83,
+      0.595,
+      0.462,
+      0.889,
+      0.521,
+      0.256
+    ]
+  },
+  {
+    "id": "co_7be98d25ec",
+    "title": "Learning How to Learn: Practical Guide",
+    "type": "course",
+    "description": "Learning How to Learn: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "empathy",
+      "analysis",
+      "cognitive"
+    ],
+    "vector": [
+      0.73,
+      0.755,
+      0.767,
+      0.543,
+      0.421,
+      0.877,
+      0.547,
+      0.328
+    ]
+  },
+  {
+    "id": "co_67d068692f",
+    "title": "MIT 6.006 Algorithms: Practical Guide",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "cognitive",
+      "leadership",
+      "productivity"
+    ],
+    "vector": [
+      0.734,
+      0.759,
+      0.867,
+      0.614,
+      0.512,
+      0.866,
+      0.441,
+      0.267
+    ]
+  },
+  {
+    "id": "co_011be6eb2d",
+    "title": "HarvardX Data Science: Practical Guide",
+    "type": "course",
+    "description": "HarvardX Data Science: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "creativity",
+      "productivity",
+      "strategy"
+    ],
+    "vector": [
+      0.779,
+      0.803,
+      0.759,
+      0.513,
+      0.444,
+      0.798,
+      0.486,
+      0.29
+    ]
+  },
+  {
+    "id": "co_abe39b48fc",
+    "title": "Google Project Management: Practical Guide",
+    "type": "course",
+    "description": "Google Project Management: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "productivity",
+      "strategy",
+      "leadership"
+    ],
+    "vector": [
+      0.779,
+      0.82,
+      0.785,
+      0.582,
+      0.516,
+      0.83,
+      0.518,
+      0.274
+    ]
+  },
+  {
+    "id": "co_65d814f259",
+    "title": "AI for Everyone: Practical Guide",
+    "type": "course",
+    "description": "AI for Everyone: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "analysis",
+      "leadership",
+      "strategy"
+    ],
+    "vector": [
+      0.656,
+      0.775,
+      0.816,
+      0.506,
+      0.53,
+      0.873,
+      0.55,
+      0.364
+    ]
+  },
+  {
+    "id": "co_b14fb870b4",
+    "title": "Financial Markets: Practical Guide",
+    "type": "course",
+    "description": "Financial Markets: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "creativity",
+      "discipline",
+      "leadership"
+    ],
+    "vector": [
+      0.702,
+      0.796,
+      0.814,
+      0.526,
+      0.491,
+      0.878,
+      0.484,
+      0.355
+    ]
+  },
+  {
+    "id": "co_ab74e6b1c1",
+    "title": "Python for Everybody: Practical Guide",
+    "type": "course",
+    "description": "Python for Everybody: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "analysis",
+      "wellbeing",
+      "leadership"
+    ],
+    "vector": [
+      0.67,
+      0.821,
+      0.733,
+      0.599,
+      0.53,
+      0.815,
+      0.568,
+      0.294
+    ]
+  },
+  {
+    "id": "co_5ab7095c17",
+    "title": "Public Speaking Foundations: Practical Guide",
+    "type": "course",
+    "description": "Public Speaking Foundations: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "productivity",
+      "focus",
+      "psychology"
+    ],
+    "vector": [
+      0.702,
+      0.85,
+      0.805,
+      0.614,
+      0.445,
+      0.754,
+      0.562,
+      0.287
+    ]
+  },
+  {
+    "id": "co_a94f86a327",
+    "title": "CS50x: Applied Playbook",
+    "type": "course",
+    "description": "CS50x: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "wellbeing",
+      "learning",
+      "focus"
+    ],
+    "vector": [
+      0.731,
+      0.841,
+      0.863,
+      0.603,
+      0.446,
+      0.865,
+      0.433,
+      0.308
+    ]
+  },
+  {
+    "id": "co_5551cb15da",
+    "title": "Machine Learning by Andrew Ng: Applied Playbook",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "analysis",
+      "psychology",
+      "learning"
+    ],
+    "vector": [
+      0.657,
+      0.718,
+      0.807,
+      0.554,
+      0.474,
+      0.833,
+      0.477,
+      0.325
+    ]
+  },
+  {
+    "id": "co_52e5362e67",
+    "title": "Learning How to Learn: Applied Playbook",
+    "type": "course",
+    "description": "Learning How to Learn: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "learning",
+      "focus",
+      "creativity"
+    ],
+    "vector": [
+      0.784,
+      0.814,
+      0.84,
+      0.599,
+      0.473,
+      0.783,
+      0.455,
+      0.35
+    ]
+  },
+  {
+    "id": "co_4a688e5136",
+    "title": "MIT 6.006 Algorithms: Applied Playbook",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "productivity",
+      "learning",
+      "empathy"
+    ],
+    "vector": [
+      0.744,
+      0.828,
+      0.787,
+      0.558,
+      0.529,
+      0.778,
+      0.55,
+      0.253
+    ]
+  },
+  {
+    "id": "co_8324a53506",
+    "title": "HarvardX Data Science: Applied Playbook",
+    "type": "course",
+    "description": "HarvardX Data Science: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "cognitive",
+      "psychology",
+      "creativity"
+    ],
+    "vector": [
+      0.762,
+      0.826,
+      0.778,
+      0.537,
+      0.529,
+      0.791,
+      0.457,
+      0.346
+    ]
+  },
+  {
+    "id": "co_84f16f8343",
+    "title": "Google Project Management: Applied Playbook",
+    "type": "course",
+    "description": "Google Project Management: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "productivity",
+      "creativity",
+      "cognitive"
+    ],
+    "vector": [
+      0.686,
+      0.823,
+      0.851,
+      0.603,
+      0.434,
+      0.751,
+      0.536,
+      0.334
+    ]
+  },
+  {
+    "id": "co_496cef6d61",
+    "title": "AI for Everyone: Applied Playbook",
+    "type": "course",
+    "description": "AI for Everyone: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "analysis",
+      "psychology",
+      "cognitive"
+    ],
+    "vector": [
+      0.71,
+      0.743,
+      0.812,
+      0.617,
+      0.439,
+      0.761,
+      0.527,
+      0.265
+    ]
+  },
+  {
+    "id": "co_cd1926e8de",
+    "title": "Financial Markets: Applied Playbook",
+    "type": "course",
+    "description": "Financial Markets: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "focus",
+      "empathy",
+      "wellbeing"
+    ],
+    "vector": [
+      0.695,
+      0.754,
+      0.797,
+      0.503,
+      0.466,
+      0.848,
+      0.475,
+      0.361
+    ]
+  },
+  {
+    "id": "co_7221a842e2",
+    "title": "Python for Everybody: Applied Playbook",
+    "type": "course",
+    "description": "Python for Everybody: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "productivity",
+      "focus",
+      "cognitive"
+    ],
+    "vector": [
+      0.713,
+      0.839,
+      0.745,
+      0.584,
+      0.504,
+      0.802,
+      0.448,
+      0.336
+    ]
+  },
+  {
+    "id": "co_be837e398b",
+    "title": "Public Speaking Foundations: Applied Playbook",
+    "type": "course",
+    "description": "Public Speaking Foundations: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "empathy",
+      "wellbeing",
+      "analysis"
+    ],
+    "vector": [
+      0.746,
+      0.795,
+      0.789,
+      0.506,
+      0.475,
+      0.827,
+      0.556,
+      0.389
+    ]
+  },
+  {
+    "id": "co_c41818442d",
+    "title": "CS50x: Masterclass",
+    "type": "course",
+    "description": "CS50x: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "creativity",
+      "learning",
+      "cognitive"
+    ],
+    "vector": [
+      0.681,
+      0.798,
+      0.833,
+      0.515,
+      0.507,
+      0.89,
+      0.485,
+      0.381
+    ]
+  },
+  {
+    "id": "co_19372b56fa",
+    "title": "Machine Learning by Andrew Ng: Masterclass",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "productivity",
+      "creativity",
+      "discipline"
+    ],
+    "vector": [
+      0.682,
+      0.827,
+      0.776,
+      0.49,
+      0.426,
+      0.775,
+      0.495,
+      0.385
+    ]
+  },
+  {
+    "id": "co_0415f128dd",
+    "title": "Learning How to Learn: Masterclass",
+    "type": "course",
+    "description": "Learning How to Learn: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "empathy",
+      "psychology",
+      "strategy"
+    ],
+    "vector": [
+      0.66,
+      0.715,
+      0.79,
+      0.484,
+      0.484,
+      0.839,
+      0.458,
+      0.37
+    ]
+  },
+  {
+    "id": "co_ec3abc90ba",
+    "title": "MIT 6.006 Algorithms: Masterclass",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "learning",
+      "discipline",
+      "wellbeing"
+    ],
+    "vector": [
+      0.741,
+      0.737,
+      0.86,
+      0.508,
+      0.536,
+      0.882,
+      0.564,
+      0.354
+    ]
+  },
+  {
+    "id": "co_53f4571358",
+    "title": "HarvardX Data Science: Masterclass",
+    "type": "course",
+    "description": "HarvardX Data Science: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "psychology",
+      "wellbeing",
+      "leadership"
+    ],
+    "vector": [
+      0.652,
+      0.809,
+      0.863,
+      0.483,
+      0.545,
+      0.886,
+      0.547,
+      0.354
+    ]
+  },
+  {
+    "id": "co_f3f8a57fe5",
+    "title": "Google Project Management: Masterclass",
+    "type": "course",
+    "description": "Google Project Management: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "psychology",
+      "cognitive",
+      "empathy"
+    ],
+    "vector": [
+      0.67,
+      0.715,
+      0.846,
+      0.574,
+      0.498,
+      0.794,
+      0.467,
+      0.379
+    ]
+  },
+  {
+    "id": "co_c6298a34d1",
+    "title": "AI for Everyone: Masterclass",
+    "type": "course",
+    "description": "AI for Everyone: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "empathy",
+      "psychology",
+      "leadership"
+    ],
+    "vector": [
+      0.698,
+      0.759,
+      0.739,
+      0.617,
+      0.536,
+      0.864,
+      0.431,
+      0.308
+    ]
+  },
+  {
+    "id": "co_c7fdeec2f1",
+    "title": "Financial Markets: Masterclass",
+    "type": "course",
+    "description": "Financial Markets: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "empathy",
+      "analysis",
+      "cognitive"
+    ],
+    "vector": [
+      0.688,
+      0.765,
+      0.853,
+      0.554,
+      0.498,
+      0.884,
+      0.485,
+      0.281
+    ]
+  },
+  {
+    "id": "co_c821bf0f99",
+    "title": "Python for Everybody: Masterclass",
+    "type": "course",
+    "description": "Python for Everybody: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "learning",
+      "cognitive",
+      "psychology"
+    ],
+    "vector": [
+      0.746,
+      0.783,
+      0.827,
+      0.615,
+      0.49,
+      0.773,
+      0.504,
+      0.339
+    ]
+  },
+  {
+    "id": "co_5561e15376",
+    "title": "Public Speaking Foundations: Masterclass",
+    "type": "course",
+    "description": "Public Speaking Foundations: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "psychology",
+      "focus",
+      "creativity"
+    ],
+    "vector": [
+      0.755,
+      0.742,
+      0.775,
+      0.528,
+      0.548,
+      0.758,
+      0.491,
+      0.268
+    ]
+  },
+  {
+    "id": "co_084ffd914e",
+    "title": "CS50x: Toolkit",
+    "type": "course",
+    "description": "CS50x: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "discipline",
+      "leadership",
+      "productivity"
+    ],
+    "vector": [
+      0.651,
+      0.738,
+      0.867,
+      0.509,
+      0.473,
+      0.881,
+      0.463,
+      0.256
+    ]
+  },
+  {
+    "id": "co_d368ab991c",
+    "title": "Machine Learning by Andrew Ng: Toolkit",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "strategy",
+      "cognitive",
+      "discipline"
+    ],
+    "vector": [
+      0.707,
+      0.789,
+      0.741,
+      0.494,
+      0.454,
+      0.767,
+      0.437,
+      0.35
+    ]
+  },
+  {
+    "id": "co_a2735dd18e",
+    "title": "Learning How to Learn: Toolkit",
+    "type": "course",
+    "description": "Learning How to Learn: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "cognitive",
+      "psychology",
+      "discipline"
+    ],
+    "vector": [
+      0.655,
+      0.728,
+      0.854,
+      0.554,
+      0.497,
+      0.809,
+      0.463,
+      0.298
+    ]
+  },
+  {
+    "id": "co_0169959d7f",
+    "title": "MIT 6.006 Algorithms: Toolkit",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "learning",
+      "empathy",
+      "creativity"
+    ],
+    "vector": [
+      0.713,
+      0.845,
+      0.795,
+      0.6,
+      0.441,
+      0.782,
+      0.472,
+      0.377
+    ]
+  },
+  {
+    "id": "co_a28bc8c112",
+    "title": "HarvardX Data Science: Toolkit",
+    "type": "course",
+    "description": "HarvardX Data Science: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "analysis",
+      "cognitive",
+      "productivity"
+    ],
+    "vector": [
+      0.701,
+      0.71,
+      0.867,
+      0.591,
+      0.428,
+      0.766,
+      0.461,
+      0.342
+    ]
+  },
+  {
+    "id": "co_8247375a64",
+    "title": "Google Project Management: Toolkit",
+    "type": "course",
+    "description": "Google Project Management: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "psychology",
+      "analysis",
+      "empathy"
+    ],
+    "vector": [
+      0.672,
+      0.786,
+      0.781,
+      0.595,
+      0.478,
+      0.864,
+      0.526,
+      0.37
+    ]
+  },
+  {
+    "id": "co_d3f52e3b36",
+    "title": "AI for Everyone: Toolkit",
+    "type": "course",
+    "description": "AI for Everyone: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "strategy",
+      "leadership",
+      "learning"
+    ],
+    "vector": [
+      0.696,
+      0.731,
+      0.801,
+      0.523,
+      0.493,
+      0.843,
+      0.521,
+      0.261
+    ]
+  },
+  {
+    "id": "co_fca4d24b05",
+    "title": "Financial Markets: Toolkit",
+    "type": "course",
+    "description": "Financial Markets: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "analysis",
+      "discipline",
+      "wellbeing"
+    ],
+    "vector": [
+      0.775,
+      0.727,
+      0.8,
+      0.559,
+      0.426,
+      0.795,
+      0.517,
+      0.344
+    ]
+  },
+  {
+    "id": "co_51a34afb80",
+    "title": "Python for Everybody: Toolkit",
+    "type": "course",
+    "description": "Python for Everybody: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "cognitive",
+      "analysis",
+      "strategy"
+    ],
+    "vector": [
+      0.724,
+      0.802,
+      0.757,
+      0.56,
+      0.528,
+      0.792,
+      0.554,
+      0.266
+    ]
+  },
+  {
+    "id": "co_137de931ff",
+    "title": "Public Speaking Foundations: Toolkit",
+    "type": "course",
+    "description": "Public Speaking Foundations: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "learning",
+      "focus",
+      "discipline"
+    ],
+    "vector": [
+      0.729,
+      0.846,
+      0.861,
+      0.617,
+      0.449,
+      0.778,
+      0.487,
+      0.266
+    ]
+  },
+  {
+    "id": "co_0cecdb3970",
+    "title": "CS50x: Field Notes",
+    "type": "course",
+    "description": "CS50x: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "discipline",
+      "leadership",
+      "analysis"
+    ],
+    "vector": [
+      0.708,
+      0.769,
+      0.804,
+      0.503,
+      0.531,
+      0.771,
+      0.523,
+      0.27
+    ]
+  },
+  {
+    "id": "co_a11954214c",
+    "title": "Machine Learning by Andrew Ng: Field Notes",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "discipline",
+      "empathy",
+      "productivity"
+    ],
+    "vector": [
+      0.783,
+      0.739,
+      0.756,
+      0.535,
+      0.476,
+      0.847,
+      0.475,
+      0.343
+    ]
+  },
+  {
+    "id": "co_1e02876949",
+    "title": "Learning How to Learn: Field Notes",
+    "type": "course",
+    "description": "Learning How to Learn: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "focus",
+      "cognitive",
+      "productivity"
+    ],
+    "vector": [
+      0.652,
+      0.804,
+      0.81,
+      0.614,
+      0.516,
+      0.765,
+      0.482,
+      0.381
+    ]
+  },
+  {
+    "id": "co_61bcfda6ed",
+    "title": "MIT 6.006 Algorithms: Field Notes",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "productivity",
+      "learning",
+      "cognitive"
+    ],
+    "vector": [
+      0.782,
+      0.765,
+      0.789,
+      0.556,
+      0.528,
+      0.888,
+      0.538,
+      0.325
+    ]
+  },
+  {
+    "id": "co_1123a68794",
+    "title": "HarvardX Data Science: Field Notes",
+    "type": "course",
+    "description": "HarvardX Data Science: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "wellbeing",
+      "psychology",
+      "leadership"
+    ],
+    "vector": [
+      0.756,
+      0.74,
+      0.81,
+      0.542,
+      0.442,
+      0.859,
+      0.461,
+      0.349
+    ]
+  },
+  {
+    "id": "co_b96a9828bb",
+    "title": "Google Project Management: Field Notes",
+    "type": "course",
+    "description": "Google Project Management: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "strategy",
+      "wellbeing",
+      "leadership"
+    ],
+    "vector": [
+      0.751,
+      0.849,
+      0.87,
+      0.592,
+      0.447,
+      0.844,
+      0.499,
+      0.382
+    ]
+  },
+  {
+    "id": "co_29765d7afd",
+    "title": "AI for Everyone: Field Notes",
+    "type": "course",
+    "description": "AI for Everyone: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "analysis",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.654,
+      0.776,
+      0.805,
+      0.523,
+      0.425,
+      0.818,
+      0.44,
+      0.274
+    ]
+  },
+  {
+    "id": "co_1d232e3d87",
+    "title": "Financial Markets: Field Notes",
+    "type": "course",
+    "description": "Financial Markets: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "learning",
+      "analysis",
+      "productivity"
+    ],
+    "vector": [
+      0.689,
+      0.757,
+      0.817,
+      0.544,
+      0.498,
+      0.762,
+      0.481,
+      0.271
+    ]
+  },
+  {
+    "id": "co_7a3164122c",
+    "title": "Python for Everybody: Field Notes",
+    "type": "course",
+    "description": "Python for Everybody: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "analysis",
+      "strategy",
+      "empathy"
+    ],
+    "vector": [
+      0.735,
+      0.825,
+      0.751,
+      0.615,
+      0.537,
+      0.781,
+      0.476,
+      0.268
+    ]
+  },
+  {
+    "id": "co_8d4a90430a",
+    "title": "Public Speaking Foundations: Field Notes",
+    "type": "course",
+    "description": "Public Speaking Foundations: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "empathy",
+      "analysis",
+      "productivity"
+    ],
+    "vector": [
+      0.785,
+      0.8,
+      0.813,
+      0.596,
+      0.457,
+      0.755,
+      0.564,
+      0.325
+    ]
+  },
+  {
+    "id": "co_05766e3f7f",
+    "title": "CS50x: Intensive",
+    "type": "course",
+    "description": "CS50x: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "analysis",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.702,
+      0.8,
+      0.77,
+      0.609,
+      0.462,
+      0.789,
+      0.555,
+      0.281
+    ]
+  },
+  {
+    "id": "co_f5d3067570",
+    "title": "Machine Learning by Andrew Ng: Intensive",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "creativity",
+      "empathy",
+      "productivity"
+    ],
+    "vector": [
+      0.666,
+      0.739,
+      0.841,
+      0.491,
+      0.468,
+      0.86,
+      0.53,
+      0.361
+    ]
+  },
+  {
+    "id": "co_c983141345",
+    "title": "Learning How to Learn: Intensive",
+    "type": "course",
+    "description": "Learning How to Learn: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "analysis",
+      "learning",
+      "empathy"
+    ],
+    "vector": [
+      0.764,
+      0.776,
+      0.855,
+      0.547,
+      0.446,
+      0.771,
+      0.5,
+      0.257
+    ]
+  },
+  {
+    "id": "co_ec5937fa44",
+    "title": "MIT 6.006 Algorithms: Intensive",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "discipline",
+      "cognitive",
+      "empathy"
+    ],
+    "vector": [
+      0.771,
+      0.731,
+      0.797,
+      0.546,
+      0.425,
+      0.787,
+      0.559,
+      0.351
+    ]
+  },
+  {
+    "id": "co_6d634f725e",
+    "title": "HarvardX Data Science: Intensive",
+    "type": "course",
+    "description": "HarvardX Data Science: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "cognitive",
+      "leadership",
+      "focus"
+    ],
+    "vector": [
+      0.784,
+      0.793,
+      0.737,
+      0.602,
+      0.433,
+      0.784,
+      0.449,
+      0.322
+    ]
+  },
+  {
+    "id": "co_191ad8d21a",
+    "title": "Google Project Management: Intensive",
+    "type": "course",
+    "description": "Google Project Management: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "empathy",
+      "creativity",
+      "wellbeing"
+    ],
+    "vector": [
+      0.651,
+      0.739,
+      0.84,
+      0.528,
+      0.45,
+      0.88,
+      0.437,
+      0.294
+    ]
+  },
+  {
+    "id": "co_56c1e017aa",
+    "title": "AI for Everyone: Intensive",
+    "type": "course",
+    "description": "AI for Everyone: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "focus",
+      "discipline",
+      "strategy"
+    ],
+    "vector": [
+      0.686,
+      0.732,
+      0.839,
+      0.602,
+      0.426,
+      0.785,
+      0.566,
+      0.28
+    ]
+  },
+  {
+    "id": "co_afa0e1d978",
+    "title": "Financial Markets: Intensive",
+    "type": "course",
+    "description": "Financial Markets: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "creativity",
+      "focus",
+      "learning"
+    ],
+    "vector": [
+      0.714,
+      0.782,
+      0.84,
+      0.506,
+      0.449,
+      0.888,
+      0.432,
+      0.336
+    ]
+  },
+  {
+    "id": "co_fe64f049f2",
+    "title": "Python for Everybody: Intensive",
+    "type": "course",
+    "description": "Python for Everybody: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "analysis",
+      "wellbeing",
+      "strategy"
+    ],
+    "vector": [
+      0.789,
+      0.732,
+      0.834,
+      0.495,
+      0.443,
+      0.795,
+      0.521,
+      0.358
+    ]
+  },
+  {
+    "id": "co_d37cbe6864",
+    "title": "Public Speaking Foundations: Intensive",
+    "type": "course",
+    "description": "Public Speaking Foundations: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "learning",
+      "focus",
+      "psychology"
+    ],
+    "vector": [
+      0.765,
+      0.728,
+      0.801,
+      0.546,
+      0.514,
+      0.867,
+      0.443,
+      0.296
+    ]
+  },
+  {
+    "id": "co_0785efe15c",
+    "title": "CS50x: Studio",
+    "type": "course",
+    "description": "CS50x: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "analysis",
+      "strategy",
+      "wellbeing"
+    ],
+    "vector": [
+      0.697,
+      0.743,
+      0.813,
+      0.558,
+      0.417,
+      0.797,
+      0.479,
+      0.338
+    ]
+  },
+  {
+    "id": "co_7b86e71f80",
+    "title": "Machine Learning by Andrew Ng: Studio",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "discipline",
+      "cognitive",
+      "analysis"
+    ],
+    "vector": [
+      0.667,
+      0.74,
+      0.748,
+      0.565,
+      0.497,
+      0.87,
+      0.431,
+      0.251
+    ]
+  },
+  {
+    "id": "co_f6d9dbf0f4",
+    "title": "Learning How to Learn: Studio",
+    "type": "course",
+    "description": "Learning How to Learn: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "leadership",
+      "cognitive",
+      "wellbeing"
+    ],
+    "vector": [
+      0.679,
+      0.838,
+      0.743,
+      0.527,
+      0.443,
+      0.887,
+      0.546,
+      0.275
+    ]
+  },
+  {
+    "id": "co_01931b2ba6",
+    "title": "MIT 6.006 Algorithms: Studio",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "cognitive",
+      "strategy",
+      "productivity"
+    ],
+    "vector": [
+      0.722,
+      0.726,
+      0.761,
+      0.571,
+      0.421,
+      0.765,
+      0.465,
+      0.361
+    ]
+  },
+  {
+    "id": "co_d00a16be60",
+    "title": "HarvardX Data Science: Studio",
+    "type": "course",
+    "description": "HarvardX Data Science: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "strategy",
+      "learning",
+      "empathy"
+    ],
+    "vector": [
+      0.785,
+      0.791,
+      0.763,
+      0.559,
+      0.53,
+      0.802,
+      0.491,
+      0.331
+    ]
+  },
+  {
+    "id": "co_57becb73d8",
+    "title": "Google Project Management: Studio",
+    "type": "course",
+    "description": "Google Project Management: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "wellbeing",
+      "strategy",
+      "creativity"
+    ],
+    "vector": [
+      0.657,
+      0.828,
+      0.812,
+      0.482,
+      0.431,
+      0.872,
+      0.467,
+      0.325
+    ]
+  },
+  {
+    "id": "co_eb65cc93c4",
+    "title": "AI for Everyone: Studio",
+    "type": "course",
+    "description": "AI for Everyone: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "analysis",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.666,
+      0.728,
+      0.734,
+      0.601,
+      0.464,
+      0.864,
+      0.464,
+      0.296
+    ]
+  },
+  {
+    "id": "co_c797c58e1b",
+    "title": "Financial Markets: Studio",
+    "type": "course",
+    "description": "Financial Markets: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "leadership",
+      "learning",
+      "discipline"
+    ],
+    "vector": [
+      0.693,
+      0.792,
+      0.817,
+      0.484,
+      0.534,
+      0.792,
+      0.516,
+      0.287
+    ]
+  },
+  {
+    "id": "co_29c54f6895",
+    "title": "Python for Everybody: Studio",
+    "type": "course",
+    "description": "Python for Everybody: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "creativity",
+      "strategy",
+      "learning"
+    ],
+    "vector": [
+      0.682,
+      0.722,
+      0.794,
+      0.59,
+      0.426,
+      0.822,
+      0.55,
+      0.292
+    ]
+  },
+  {
+    "id": "co_ea6782331e",
+    "title": "Public Speaking Foundations: Studio",
+    "type": "course",
+    "description": "Public Speaking Foundations: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "cognitive",
+      "empathy",
+      "analysis"
+    ],
+    "vector": [
+      0.728,
+      0.839,
+      0.796,
+      0.552,
+      0.449,
+      0.815,
+      0.561,
+      0.318
+    ]
+  },
+  {
+    "id": "co_2667acc50a",
+    "title": "CS50x: Lab",
+    "type": "course",
+    "description": "CS50x: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "learning",
+      "wellbeing",
+      "discipline"
+    ],
+    "vector": [
+      0.662,
+      0.713,
+      0.807,
+      0.53,
+      0.445,
+      0.772,
+      0.485,
+      0.302
+    ]
+  },
+  {
+    "id": "co_14a8d200e8",
+    "title": "Machine Learning by Andrew Ng: Lab",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "cognitive",
+      "focus",
+      "productivity"
+    ],
+    "vector": [
+      0.656,
+      0.764,
+      0.803,
+      0.483,
+      0.431,
+      0.798,
+      0.525,
+      0.262
+    ]
+  },
+  {
+    "id": "co_f0de4ba2df",
+    "title": "Learning How to Learn: Lab",
+    "type": "course",
+    "description": "Learning How to Learn: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "discipline",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.715,
+      0.823,
+      0.778,
+      0.5,
+      0.531,
+      0.849,
+      0.431,
+      0.259
+    ]
+  },
+  {
+    "id": "co_f8212e852e",
+    "title": "MIT 6.006 Algorithms: Lab",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "cognitive",
+      "empathy",
+      "focus"
+    ],
+    "vector": [
+      0.735,
+      0.756,
+      0.835,
+      0.608,
+      0.536,
+      0.85,
+      0.555,
+      0.369
+    ]
+  },
+  {
+    "id": "co_c8744fccd2",
+    "title": "HarvardX Data Science: Lab",
+    "type": "course",
+    "description": "HarvardX Data Science: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "creativity",
+      "focus",
+      "cognitive"
+    ],
+    "vector": [
+      0.76,
+      0.791,
+      0.783,
+      0.53,
+      0.548,
+      0.795,
+      0.557,
+      0.36
+    ]
+  },
+  {
+    "id": "co_b6777cffa9",
+    "title": "Google Project Management: Lab",
+    "type": "course",
+    "description": "Google Project Management: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "creativity",
+      "empathy",
+      "analysis"
+    ],
+    "vector": [
+      0.696,
+      0.803,
+      0.829,
+      0.544,
+      0.449,
+      0.809,
+      0.53,
+      0.282
+    ]
+  },
+  {
+    "id": "co_543789e499",
+    "title": "AI for Everyone: Lab",
+    "type": "course",
+    "description": "AI for Everyone: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "leadership",
+      "empathy",
+      "learning"
+    ],
+    "vector": [
+      0.742,
+      0.719,
+      0.768,
+      0.616,
+      0.447,
+      0.858,
+      0.473,
+      0.262
+    ]
+  },
+  {
+    "id": "co_e571d36390",
+    "title": "Financial Markets: Lab",
+    "type": "course",
+    "description": "Financial Markets: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "creativity",
+      "learning",
+      "psychology"
+    ],
+    "vector": [
+      0.79,
+      0.843,
+      0.79,
+      0.592,
+      0.439,
+      0.832,
+      0.44,
+      0.316
+    ]
+  },
+  {
+    "id": "co_e8ab5e3d26",
+    "title": "Python for Everybody: Lab",
+    "type": "course",
+    "description": "Python for Everybody: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "leadership",
+      "analysis",
+      "focus"
+    ],
+    "vector": [
+      0.73,
+      0.782,
+      0.829,
+      0.549,
+      0.464,
+      0.827,
+      0.433,
+      0.299
+    ]
+  },
+  {
+    "id": "co_588cbc6544",
+    "title": "Public Speaking Foundations: Lab",
+    "type": "course",
+    "description": "Public Speaking Foundations: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "leadership",
+      "productivity",
+      "focus"
+    ],
+    "vector": [
+      0.742,
+      0.732,
+      0.85,
+      0.52,
+      0.523,
+      0.841,
+      0.515,
+      0.354
+    ]
+  },
+  {
+    "id": "co_2fa21e2d30",
+    "title": "CS50x: Foundations",
+    "type": "course",
+    "description": "CS50x: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "analysis",
+      "productivity",
+      "discipline"
+    ],
+    "vector": [
+      0.686,
+      0.767,
+      0.781,
+      0.491,
+      0.533,
+      0.846,
+      0.499,
+      0.326
+    ]
+  },
+  {
+    "id": "co_958b9bea7c",
+    "title": "Machine Learning by Andrew Ng: Foundations",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "focus",
+      "psychology",
+      "learning"
+    ],
+    "vector": [
+      0.66,
+      0.73,
+      0.739,
+      0.574,
+      0.528,
+      0.862,
+      0.439,
+      0.253
+    ]
+  },
+  {
+    "id": "co_f5ef65bcbc",
+    "title": "Learning How to Learn: Foundations",
+    "type": "course",
+    "description": "Learning How to Learn: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "learning",
+      "leadership",
+      "productivity"
+    ],
+    "vector": [
+      0.678,
+      0.724,
+      0.771,
+      0.556,
+      0.427,
+      0.815,
+      0.464,
+      0.384
+    ]
+  },
+  {
+    "id": "co_3452b0c4b1",
+    "title": "MIT 6.006 Algorithms: Foundations",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "cognitive",
+      "discipline",
+      "focus"
+    ],
+    "vector": [
+      0.745,
+      0.807,
+      0.76,
+      0.618,
+      0.453,
+      0.802,
+      0.54,
+      0.301
+    ]
+  },
+  {
+    "id": "co_676cfdd835",
+    "title": "HarvardX Data Science: Foundations",
+    "type": "course",
+    "description": "HarvardX Data Science: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "learning",
+      "discipline",
+      "psychology"
+    ],
+    "vector": [
+      0.76,
+      0.788,
+      0.832,
+      0.561,
+      0.479,
+      0.776,
+      0.531,
+      0.32
+    ]
+  },
+  {
+    "id": "co_ad2ccdc7d1",
+    "title": "Google Project Management: Foundations",
+    "type": "course",
+    "description": "Google Project Management: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "discipline",
+      "cognitive",
+      "wellbeing"
+    ],
+    "vector": [
+      0.659,
+      0.789,
+      0.833,
+      0.502,
+      0.516,
+      0.886,
+      0.546,
+      0.361
+    ]
+  },
+  {
+    "id": "co_d78a337d89",
+    "title": "AI for Everyone: Foundations",
+    "type": "course",
+    "description": "AI for Everyone: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "discipline",
+      "productivity",
+      "empathy"
+    ],
+    "vector": [
+      0.765,
+      0.823,
+      0.818,
+      0.574,
+      0.435,
+      0.797,
+      0.476,
+      0.37
+    ]
+  },
+  {
+    "id": "co_3ad220ae89",
+    "title": "Financial Markets: Foundations",
+    "type": "course",
+    "description": "Financial Markets: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "leadership",
+      "empathy",
+      "productivity"
+    ],
+    "vector": [
+      0.658,
+      0.719,
+      0.776,
+      0.491,
+      0.543,
+      0.8,
+      0.484,
+      0.37
+    ]
+  },
+  {
+    "id": "co_a30f9cb698",
+    "title": "Python for Everybody: Foundations",
+    "type": "course",
+    "description": "Python for Everybody: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "discipline",
+      "empathy",
+      "analysis"
+    ],
+    "vector": [
+      0.714,
+      0.844,
+      0.769,
+      0.554,
+      0.477,
+      0.77,
+      0.45,
+      0.321
+    ]
+  },
+  {
+    "id": "co_72c3cdd29e",
+    "title": "Public Speaking Foundations: Foundations",
+    "type": "course",
+    "description": "Public Speaking Foundations: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "analysis",
+      "psychology",
+      "cognitive"
+    ],
+    "vector": [
+      0.707,
+      0.837,
+      0.85,
+      0.579,
+      0.547,
+      0.827,
+      0.55,
+      0.32
+    ]
+  },
+  {
+    "id": "co_54b860ff69",
+    "title": "CS50x: Advanced",
+    "type": "course",
+    "description": "CS50x: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "empathy",
+      "strategy",
+      "cognitive"
+    ],
+    "vector": [
+      0.696,
+      0.822,
+      0.849,
+      0.489,
+      0.482,
+      0.849,
+      0.539,
+      0.379
+    ]
+  },
+  {
+    "id": "co_3dae0aaf58",
+    "title": "Machine Learning by Andrew Ng: Advanced",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "learning",
+      "psychology",
+      "wellbeing"
+    ],
+    "vector": [
+      0.745,
+      0.761,
+      0.86,
+      0.522,
+      0.471,
+      0.794,
+      0.505,
+      0.289
+    ]
+  },
+  {
+    "id": "co_23d7b724c7",
+    "title": "Learning How to Learn: Advanced",
+    "type": "course",
+    "description": "Learning How to Learn: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "empathy",
+      "strategy",
+      "learning"
+    ],
+    "vector": [
+      0.691,
+      0.774,
+      0.808,
+      0.581,
+      0.501,
+      0.81,
+      0.442,
+      0.266
+    ]
+  },
+  {
+    "id": "co_375e50bea3",
+    "title": "MIT 6.006 Algorithms: Advanced",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "learning",
+      "analysis",
+      "cognitive"
+    ],
+    "vector": [
+      0.774,
+      0.816,
+      0.763,
+      0.598,
+      0.522,
+      0.867,
+      0.495,
+      0.348
+    ]
+  },
+  {
+    "id": "co_7d55531ec8",
+    "title": "HarvardX Data Science: Advanced",
+    "type": "course",
+    "description": "HarvardX Data Science: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "cognitive",
+      "leadership",
+      "focus"
+    ],
+    "vector": [
+      0.763,
+      0.805,
+      0.79,
+      0.565,
+      0.502,
+      0.812,
+      0.443,
+      0.301
+    ]
+  },
+  {
+    "id": "co_8a1fbca65e",
+    "title": "Google Project Management: Advanced",
+    "type": "course",
+    "description": "Google Project Management: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "focus",
+      "wellbeing",
+      "cognitive"
+    ],
+    "vector": [
+      0.706,
+      0.719,
+      0.857,
+      0.524,
+      0.549,
+      0.889,
+      0.433,
+      0.371
+    ]
+  },
+  {
+    "id": "co_51ab8be9ce",
+    "title": "AI for Everyone: Advanced",
+    "type": "course",
+    "description": "AI for Everyone: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "wellbeing",
+      "productivity",
+      "discipline"
+    ],
+    "vector": [
+      0.784,
+      0.845,
+      0.852,
+      0.612,
+      0.527,
+      0.753,
+      0.448,
+      0.387
+    ]
+  },
+  {
+    "id": "co_7db3e6da3f",
+    "title": "Financial Markets: Advanced",
+    "type": "course",
+    "description": "Financial Markets: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "cognitive",
+      "analysis",
+      "learning"
+    ],
+    "vector": [
+      0.711,
+      0.769,
+      0.75,
+      0.557,
+      0.448,
+      0.767,
+      0.552,
+      0.33
+    ]
+  },
+  {
+    "id": "co_4c2755332a",
+    "title": "Python for Everybody: Advanced",
+    "type": "course",
+    "description": "Python for Everybody: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "cognitive",
+      "analysis",
+      "psychology"
+    ],
+    "vector": [
+      0.766,
+      0.739,
+      0.821,
+      0.558,
+      0.456,
+      0.761,
+      0.498,
+      0.323
+    ]
+  },
+  {
+    "id": "co_33e77f48d8",
+    "title": "Public Speaking Foundations: Advanced",
+    "type": "course",
+    "description": "Public Speaking Foundations: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "discipline",
+      "strategy",
+      "creativity"
+    ],
+    "vector": [
+      0.722,
+      0.737,
+      0.737,
+      0.51,
+      0.429,
+      0.822,
+      0.567,
+      0.326
+    ]
+  },
+  {
+    "id": "co_38f222b736",
+    "title": "CS50x: Practical Guide",
+    "type": "course",
+    "description": "CS50x: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "focus",
+      "productivity",
+      "empathy"
+    ],
+    "vector": [
+      0.695,
+      0.847,
+      0.829,
+      0.485,
+      0.507,
+      0.827,
+      0.484,
+      0.349
+    ]
+  },
+  {
+    "id": "co_d51acba7d3",
+    "title": "Machine Learning by Andrew Ng: Practical Guide",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "psychology",
+      "leadership",
+      "creativity"
+    ],
+    "vector": [
+      0.758,
+      0.802,
+      0.837,
+      0.61,
+      0.418,
+      0.843,
+      0.506,
+      0.269
+    ]
+  },
+  {
+    "id": "co_7be98d25ec",
+    "title": "Learning How to Learn: Practical Guide",
+    "type": "course",
+    "description": "Learning How to Learn: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "cognitive",
+      "productivity",
+      "psychology"
+    ],
+    "vector": [
+      0.704,
+      0.827,
+      0.761,
+      0.615,
+      0.426,
+      0.828,
+      0.491,
+      0.275
+    ]
+  },
+  {
+    "id": "co_67d068692f",
+    "title": "MIT 6.006 Algorithms: Practical Guide",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "empathy",
+      "psychology",
+      "discipline"
+    ],
+    "vector": [
+      0.767,
+      0.777,
+      0.76,
+      0.537,
+      0.421,
+      0.831,
+      0.461,
+      0.348
+    ]
+  },
+  {
+    "id": "co_011be6eb2d",
+    "title": "HarvardX Data Science: Practical Guide",
+    "type": "course",
+    "description": "HarvardX Data Science: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "strategy",
+      "empathy",
+      "focus"
+    ],
+    "vector": [
+      0.75,
+      0.843,
+      0.771,
+      0.576,
+      0.466,
+      0.875,
+      0.546,
+      0.357
+    ]
+  },
+  {
+    "id": "co_abe39b48fc",
+    "title": "Google Project Management: Practical Guide",
+    "type": "course",
+    "description": "Google Project Management: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "discipline",
+      "leadership",
+      "empathy"
+    ],
+    "vector": [
+      0.777,
+      0.846,
+      0.863,
+      0.527,
+      0.525,
+      0.845,
+      0.548,
+      0.362
+    ]
+  },
+  {
+    "id": "co_65d814f259",
+    "title": "AI for Everyone: Practical Guide",
+    "type": "course",
+    "description": "AI for Everyone: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "strategy",
+      "leadership",
+      "wellbeing"
+    ],
+    "vector": [
+      0.742,
+      0.786,
+      0.852,
+      0.484,
+      0.412,
+      0.815,
+      0.444,
+      0.368
+    ]
+  },
+  {
+    "id": "co_b14fb870b4",
+    "title": "Financial Markets: Practical Guide",
+    "type": "course",
+    "description": "Financial Markets: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "psychology",
+      "cognitive",
+      "discipline"
+    ],
+    "vector": [
+      0.663,
+      0.762,
+      0.837,
+      0.61,
+      0.521,
+      0.754,
+      0.48,
+      0.353
+    ]
+  },
+  {
+    "id": "co_ab74e6b1c1",
+    "title": "Python for Everybody: Practical Guide",
+    "type": "course",
+    "description": "Python for Everybody: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "productivity",
+      "strategy",
+      "empathy"
+    ],
+    "vector": [
+      0.676,
+      0.736,
+      0.83,
+      0.589,
+      0.472,
+      0.838,
+      0.443,
+      0.318
+    ]
+  },
+  {
+    "id": "co_5ab7095c17",
+    "title": "Public Speaking Foundations: Practical Guide",
+    "type": "course",
+    "description": "Public Speaking Foundations: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "focus",
+      "cognitive",
+      "wellbeing"
+    ],
+    "vector": [
+      0.724,
+      0.816,
+      0.827,
+      0.564,
+      0.461,
+      0.815,
+      0.458,
+      0.27
+    ]
+  },
+  {
+    "id": "co_a94f86a327",
+    "title": "CS50x: Applied Playbook",
+    "type": "course",
+    "description": "CS50x: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "creativity",
+      "discipline",
+      "learning"
+    ],
+    "vector": [
+      0.735,
+      0.847,
+      0.764,
+      0.538,
+      0.526,
+      0.82,
+      0.432,
+      0.306
+    ]
+  },
+  {
+    "id": "co_5551cb15da",
+    "title": "Machine Learning by Andrew Ng: Applied Playbook",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "strategy",
+      "analysis",
+      "learning"
+    ],
+    "vector": [
+      0.77,
+      0.815,
+      0.838,
+      0.51,
+      0.459,
+      0.86,
+      0.47,
+      0.273
+    ]
+  },
+  {
+    "id": "co_52e5362e67",
+    "title": "Learning How to Learn: Applied Playbook",
+    "type": "course",
+    "description": "Learning How to Learn: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "analysis",
+      "discipline",
+      "learning"
+    ],
+    "vector": [
+      0.671,
+      0.829,
+      0.802,
+      0.486,
+      0.448,
+      0.822,
+      0.454,
+      0.293
+    ]
+  },
+  {
+    "id": "co_4a688e5136",
+    "title": "MIT 6.006 Algorithms: Applied Playbook",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "productivity",
+      "discipline",
+      "focus"
+    ],
+    "vector": [
+      0.666,
+      0.783,
+      0.821,
+      0.492,
+      0.487,
+      0.793,
+      0.534,
+      0.336
+    ]
+  },
+  {
+    "id": "co_8324a53506",
+    "title": "HarvardX Data Science: Applied Playbook",
+    "type": "course",
+    "description": "HarvardX Data Science: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "productivity",
+      "creativity",
+      "strategy"
+    ],
+    "vector": [
+      0.676,
+      0.809,
+      0.843,
+      0.489,
+      0.468,
+      0.79,
+      0.495,
+      0.372
+    ]
+  },
+  {
+    "id": "co_84f16f8343",
+    "title": "Google Project Management: Applied Playbook",
+    "type": "course",
+    "description": "Google Project Management: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "psychology",
+      "analysis",
+      "leadership"
+    ],
+    "vector": [
+      0.66,
+      0.823,
+      0.767,
+      0.491,
+      0.509,
+      0.771,
+      0.497,
+      0.362
+    ]
+  },
+  {
+    "id": "co_496cef6d61",
+    "title": "AI for Everyone: Applied Playbook",
+    "type": "course",
+    "description": "AI for Everyone: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "learning",
+      "wellbeing",
+      "productivity"
+    ],
+    "vector": [
+      0.655,
+      0.844,
+      0.758,
+      0.485,
+      0.517,
+      0.773,
+      0.535,
+      0.251
+    ]
+  },
+  {
+    "id": "co_cd1926e8de",
+    "title": "Financial Markets: Applied Playbook",
+    "type": "course",
+    "description": "Financial Markets: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "discipline",
+      "learning",
+      "cognitive"
+    ],
+    "vector": [
+      0.662,
+      0.776,
+      0.778,
+      0.583,
+      0.479,
+      0.885,
+      0.548,
+      0.274
+    ]
+  },
+  {
+    "id": "co_7221a842e2",
+    "title": "Python for Everybody: Applied Playbook",
+    "type": "course",
+    "description": "Python for Everybody: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "discipline",
+      "cognitive",
+      "productivity"
+    ],
+    "vector": [
+      0.672,
+      0.74,
+      0.747,
+      0.581,
+      0.457,
+      0.753,
+      0.439,
+      0.302
+    ]
+  },
+  {
+    "id": "co_be837e398b",
+    "title": "Public Speaking Foundations: Applied Playbook",
+    "type": "course",
+    "description": "Public Speaking Foundations: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "focus",
+      "analysis",
+      "leadership"
+    ],
+    "vector": [
+      0.721,
+      0.798,
+      0.763,
+      0.577,
+      0.467,
+      0.851,
+      0.512,
+      0.27
+    ]
+  },
+  {
+    "id": "co_c41818442d",
+    "title": "CS50x: Masterclass",
+    "type": "course",
+    "description": "CS50x: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "psychology",
+      "creativity",
+      "productivity"
+    ],
+    "vector": [
+      0.687,
+      0.722,
+      0.731,
+      0.552,
+      0.488,
+      0.858,
+      0.569,
+      0.272
+    ]
+  },
+  {
+    "id": "co_19372b56fa",
+    "title": "Machine Learning by Andrew Ng: Masterclass",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "leadership",
+      "empathy",
+      "discipline"
+    ],
+    "vector": [
+      0.673,
+      0.775,
+      0.817,
+      0.585,
+      0.411,
+      0.885,
+      0.467,
+      0.355
+    ]
+  },
+  {
+    "id": "co_0415f128dd",
+    "title": "Learning How to Learn: Masterclass",
+    "type": "course",
+    "description": "Learning How to Learn: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "wellbeing",
+      "focus",
+      "productivity"
+    ],
+    "vector": [
+      0.785,
+      0.776,
+      0.837,
+      0.551,
+      0.488,
+      0.812,
+      0.454,
+      0.32
+    ]
+  },
+  {
+    "id": "co_ec3abc90ba",
+    "title": "MIT 6.006 Algorithms: Masterclass",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "leadership",
+      "wellbeing",
+      "focus"
+    ],
+    "vector": [
+      0.77,
+      0.833,
+      0.74,
+      0.597,
+      0.445,
+      0.862,
+      0.526,
+      0.315
+    ]
+  },
+  {
+    "id": "co_53f4571358",
+    "title": "HarvardX Data Science: Masterclass",
+    "type": "course",
+    "description": "HarvardX Data Science: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "cognitive",
+      "creativity",
+      "productivity"
+    ],
+    "vector": [
+      0.744,
+      0.766,
+      0.8,
+      0.551,
+      0.44,
+      0.787,
+      0.548,
+      0.368
+    ]
+  },
+  {
+    "id": "co_f3f8a57fe5",
+    "title": "Google Project Management: Masterclass",
+    "type": "course",
+    "description": "Google Project Management: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "leadership",
+      "focus",
+      "productivity"
+    ],
+    "vector": [
+      0.739,
+      0.735,
+      0.803,
+      0.608,
+      0.451,
+      0.811,
+      0.479,
+      0.259
+    ]
+  },
+  {
+    "id": "co_c6298a34d1",
+    "title": "AI for Everyone: Masterclass",
+    "type": "course",
+    "description": "AI for Everyone: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "analysis",
+      "empathy",
+      "creativity"
+    ],
+    "vector": [
+      0.655,
+      0.822,
+      0.842,
+      0.602,
+      0.446,
+      0.88,
+      0.482,
+      0.313
+    ]
+  },
+  {
+    "id": "co_c7fdeec2f1",
+    "title": "Financial Markets: Masterclass",
+    "type": "course",
+    "description": "Financial Markets: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "learning",
+      "psychology",
+      "focus"
+    ],
+    "vector": [
+      0.662,
+      0.811,
+      0.788,
+      0.491,
+      0.523,
+      0.828,
+      0.52,
+      0.36
+    ]
+  },
+  {
+    "id": "co_c821bf0f99",
+    "title": "Python for Everybody: Masterclass",
+    "type": "course",
+    "description": "Python for Everybody: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "learning",
+      "productivity",
+      "focus"
+    ],
+    "vector": [
+      0.752,
+      0.716,
+      0.742,
+      0.514,
+      0.53,
+      0.782,
+      0.551,
+      0.363
+    ]
+  },
+  {
+    "id": "co_5561e15376",
+    "title": "Public Speaking Foundations: Masterclass",
+    "type": "course",
+    "description": "Public Speaking Foundations: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "cognitive",
+      "creativity",
+      "wellbeing"
+    ],
+    "vector": [
+      0.663,
+      0.838,
+      0.741,
+      0.558,
+      0.426,
+      0.843,
+      0.467,
+      0.355
+    ]
+  },
+  {
+    "id": "co_084ffd914e",
+    "title": "CS50x: Toolkit",
+    "type": "course",
+    "description": "CS50x: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "analysis",
+      "productivity",
+      "psychology"
+    ],
+    "vector": [
+      0.736,
+      0.764,
+      0.867,
+      0.516,
+      0.544,
+      0.793,
+      0.489,
+      0.294
+    ]
+  },
+  {
+    "id": "co_d368ab991c",
+    "title": "Machine Learning by Andrew Ng: Toolkit",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "focus",
+      "creativity",
+      "productivity"
+    ],
+    "vector": [
+      0.785,
+      0.83,
+      0.77,
+      0.532,
+      0.512,
+      0.8,
+      0.538,
+      0.265
+    ]
+  },
+  {
+    "id": "co_a2735dd18e",
+    "title": "Learning How to Learn: Toolkit",
+    "type": "course",
+    "description": "Learning How to Learn: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "cognitive",
+      "wellbeing",
+      "strategy"
+    ],
+    "vector": [
+      0.696,
+      0.728,
+      0.844,
+      0.576,
+      0.472,
+      0.79,
+      0.556,
+      0.339
+    ]
+  },
+  {
+    "id": "co_0169959d7f",
+    "title": "MIT 6.006 Algorithms: Toolkit",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "psychology",
+      "discipline",
+      "creativity"
+    ],
+    "vector": [
+      0.749,
+      0.712,
+      0.849,
+      0.555,
+      0.455,
+      0.79,
+      0.5,
+      0.368
+    ]
+  },
+  {
+    "id": "co_a28bc8c112",
+    "title": "HarvardX Data Science: Toolkit",
+    "type": "course",
+    "description": "HarvardX Data Science: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "productivity",
+      "psychology",
+      "leadership"
+    ],
+    "vector": [
+      0.768,
+      0.789,
+      0.837,
+      0.595,
+      0.481,
+      0.879,
+      0.449,
+      0.348
+    ]
+  },
+  {
+    "id": "co_8247375a64",
+    "title": "Google Project Management: Toolkit",
+    "type": "course",
+    "description": "Google Project Management: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "psychology",
+      "analysis",
+      "empathy"
+    ],
+    "vector": [
+      0.768,
+      0.801,
+      0.772,
+      0.595,
+      0.421,
+      0.757,
+      0.564,
+      0.281
+    ]
+  },
+  {
+    "id": "co_d3f52e3b36",
+    "title": "AI for Everyone: Toolkit",
+    "type": "course",
+    "description": "AI for Everyone: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "psychology",
+      "cognitive",
+      "focus"
+    ],
+    "vector": [
+      0.709,
+      0.821,
+      0.835,
+      0.521,
+      0.478,
+      0.806,
+      0.565,
+      0.304
+    ]
+  },
+  {
+    "id": "co_fca4d24b05",
+    "title": "Financial Markets: Toolkit",
+    "type": "course",
+    "description": "Financial Markets: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "analysis",
+      "cognitive",
+      "creativity"
+    ],
+    "vector": [
+      0.659,
+      0.834,
+      0.839,
+      0.552,
+      0.493,
+      0.819,
+      0.536,
+      0.325
+    ]
+  },
+  {
+    "id": "co_51a34afb80",
+    "title": "Python for Everybody: Toolkit",
+    "type": "course",
+    "description": "Python for Everybody: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "discipline",
+      "productivity",
+      "wellbeing"
+    ],
+    "vector": [
+      0.714,
+      0.765,
+      0.823,
+      0.595,
+      0.431,
+      0.824,
+      0.529,
+      0.349
+    ]
+  },
+  {
+    "id": "co_137de931ff",
+    "title": "Public Speaking Foundations: Toolkit",
+    "type": "course",
+    "description": "Public Speaking Foundations: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "empathy",
+      "productivity",
+      "wellbeing"
+    ],
+    "vector": [
+      0.773,
+      0.782,
+      0.84,
+      0.575,
+      0.427,
+      0.786,
+      0.474,
+      0.3
+    ]
+  },
+  {
+    "id": "co_0cecdb3970",
+    "title": "CS50x: Field Notes",
+    "type": "course",
+    "description": "CS50x: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "leadership",
+      "analysis",
+      "discipline"
+    ],
+    "vector": [
+      0.753,
+      0.762,
+      0.828,
+      0.609,
+      0.432,
+      0.838,
+      0.564,
+      0.303
+    ]
+  },
+  {
+    "id": "co_a11954214c",
+    "title": "Machine Learning by Andrew Ng: Field Notes",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "learning",
+      "creativity",
+      "empathy"
+    ],
+    "vector": [
+      0.763,
+      0.768,
+      0.779,
+      0.545,
+      0.512,
+      0.875,
+      0.558,
+      0.357
+    ]
+  },
+  {
+    "id": "co_1e02876949",
+    "title": "Learning How to Learn: Field Notes",
+    "type": "course",
+    "description": "Learning How to Learn: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "learning",
+      "analysis",
+      "psychology"
+    ],
+    "vector": [
+      0.658,
+      0.754,
+      0.858,
+      0.573,
+      0.479,
+      0.85,
+      0.522,
+      0.282
+    ]
+  },
+  {
+    "id": "co_61bcfda6ed",
+    "title": "MIT 6.006 Algorithms: Field Notes",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "wellbeing",
+      "psychology",
+      "analysis"
+    ],
+    "vector": [
+      0.689,
+      0.826,
+      0.759,
+      0.58,
+      0.516,
+      0.876,
+      0.465,
+      0.307
+    ]
+  },
+  {
+    "id": "co_1123a68794",
+    "title": "HarvardX Data Science: Field Notes",
+    "type": "course",
+    "description": "HarvardX Data Science: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "wellbeing",
+      "analysis",
+      "productivity"
+    ],
+    "vector": [
+      0.682,
+      0.721,
+      0.851,
+      0.569,
+      0.513,
+      0.837,
+      0.52,
+      0.358
+    ]
+  },
+  {
+    "id": "co_b96a9828bb",
+    "title": "Google Project Management: Field Notes",
+    "type": "course",
+    "description": "Google Project Management: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "creativity",
+      "wellbeing",
+      "analysis"
+    ],
+    "vector": [
+      0.684,
+      0.715,
+      0.807,
+      0.491,
+      0.436,
+      0.774,
+      0.559,
+      0.361
+    ]
+  },
+  {
+    "id": "co_29765d7afd",
+    "title": "AI for Everyone: Field Notes",
+    "type": "course",
+    "description": "AI for Everyone: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "creativity",
+      "focus",
+      "wellbeing"
+    ],
+    "vector": [
+      0.743,
+      0.722,
+      0.817,
+      0.522,
+      0.528,
+      0.75,
+      0.47,
+      0.374
+    ]
+  },
+  {
+    "id": "co_1d232e3d87",
+    "title": "Financial Markets: Field Notes",
+    "type": "course",
+    "description": "Financial Markets: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "psychology",
+      "wellbeing",
+      "focus"
+    ],
+    "vector": [
+      0.727,
+      0.728,
+      0.833,
+      0.616,
+      0.463,
+      0.846,
+      0.542,
+      0.348
+    ]
+  },
+  {
+    "id": "co_7a3164122c",
+    "title": "Python for Everybody: Field Notes",
+    "type": "course",
+    "description": "Python for Everybody: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "creativity",
+      "wellbeing",
+      "psychology"
+    ],
+    "vector": [
+      0.733,
+      0.812,
+      0.752,
+      0.555,
+      0.54,
+      0.753,
+      0.466,
+      0.316
+    ]
+  },
+  {
+    "id": "co_8d4a90430a",
+    "title": "Public Speaking Foundations: Field Notes",
+    "type": "course",
+    "description": "Public Speaking Foundations: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "empathy",
+      "psychology",
+      "creativity"
+    ],
+    "vector": [
+      0.767,
+      0.836,
+      0.781,
+      0.553,
+      0.501,
+      0.88,
+      0.521,
+      0.322
+    ]
+  },
+  {
+    "id": "co_05766e3f7f",
+    "title": "CS50x: Intensive",
+    "type": "course",
+    "description": "CS50x: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "psychology",
+      "discipline",
+      "productivity"
+    ],
+    "vector": [
+      0.719,
+      0.739,
+      0.843,
+      0.484,
+      0.53,
+      0.862,
+      0.46,
+      0.345
+    ]
+  },
+  {
+    "id": "co_f5d3067570",
+    "title": "Machine Learning by Andrew Ng: Intensive",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "productivity",
+      "creativity",
+      "focus"
+    ],
+    "vector": [
+      0.722,
+      0.814,
+      0.839,
+      0.534,
+      0.434,
+      0.885,
+      0.515,
+      0.341
+    ]
+  },
+  {
+    "id": "co_c983141345",
+    "title": "Learning How to Learn: Intensive",
+    "type": "course",
+    "description": "Learning How to Learn: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "focus",
+      "psychology",
+      "creativity"
+    ],
+    "vector": [
+      0.707,
+      0.835,
+      0.823,
+      0.586,
+      0.49,
+      0.855,
+      0.449,
+      0.389
+    ]
+  },
+  {
+    "id": "co_ec5937fa44",
+    "title": "MIT 6.006 Algorithms: Intensive",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "analysis",
+      "wellbeing",
+      "creativity"
+    ],
+    "vector": [
+      0.677,
+      0.723,
+      0.829,
+      0.582,
+      0.503,
+      0.786,
+      0.498,
+      0.358
+    ]
+  },
+  {
+    "id": "co_6d634f725e",
+    "title": "HarvardX Data Science: Intensive",
+    "type": "course",
+    "description": "HarvardX Data Science: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "strategy",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.758,
+      0.712,
+      0.818,
+      0.555,
+      0.42,
+      0.809,
+      0.524,
+      0.371
+    ]
+  },
+  {
+    "id": "co_191ad8d21a",
+    "title": "Google Project Management: Intensive",
+    "type": "course",
+    "description": "Google Project Management: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "productivity",
+      "cognitive",
+      "analysis"
+    ],
+    "vector": [
+      0.739,
+      0.816,
+      0.806,
+      0.554,
+      0.523,
+      0.775,
+      0.552,
+      0.27
+    ]
+  },
+  {
+    "id": "co_56c1e017aa",
+    "title": "AI for Everyone: Intensive",
+    "type": "course",
+    "description": "AI for Everyone: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "productivity",
+      "creativity",
+      "strategy"
+    ],
+    "vector": [
+      0.71,
+      0.802,
+      0.73,
+      0.539,
+      0.413,
+      0.769,
+      0.543,
+      0.266
+    ]
+  },
+  {
+    "id": "co_afa0e1d978",
+    "title": "Financial Markets: Intensive",
+    "type": "course",
+    "description": "Financial Markets: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "cognitive",
+      "productivity",
+      "learning"
+    ],
+    "vector": [
+      0.724,
+      0.714,
+      0.745,
+      0.575,
+      0.467,
+      0.763,
+      0.497,
+      0.302
+    ]
+  },
+  {
+    "id": "co_fe64f049f2",
+    "title": "Python for Everybody: Intensive",
+    "type": "course",
+    "description": "Python for Everybody: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "cognitive",
+      "creativity",
+      "focus"
+    ],
+    "vector": [
+      0.66,
+      0.787,
+      0.864,
+      0.589,
+      0.426,
+      0.826,
+      0.48,
+      0.387
+    ]
+  },
+  {
+    "id": "co_d37cbe6864",
+    "title": "Public Speaking Foundations: Intensive",
+    "type": "course",
+    "description": "Public Speaking Foundations: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "psychology",
+      "cognitive",
+      "empathy"
+    ],
+    "vector": [
+      0.686,
+      0.771,
+      0.804,
+      0.533,
+      0.489,
+      0.763,
+      0.489,
+      0.388
+    ]
+  },
+  {
+    "id": "co_0785efe15c",
+    "title": "CS50x: Studio",
+    "type": "course",
+    "description": "CS50x: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "productivity",
+      "cognitive",
+      "leadership"
+    ],
+    "vector": [
+      0.764,
+      0.813,
+      0.783,
+      0.58,
+      0.438,
+      0.836,
+      0.432,
+      0.277
+    ]
+  },
+  {
+    "id": "co_7b86e71f80",
+    "title": "Machine Learning by Andrew Ng: Studio",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "leadership",
+      "learning",
+      "focus"
+    ],
+    "vector": [
+      0.653,
+      0.833,
+      0.743,
+      0.613,
+      0.543,
+      0.836,
+      0.548,
+      0.382
+    ]
+  },
+  {
+    "id": "co_f6d9dbf0f4",
+    "title": "Learning How to Learn: Studio",
+    "type": "course",
+    "description": "Learning How to Learn: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "psychology",
+      "wellbeing",
+      "discipline"
+    ],
+    "vector": [
+      0.759,
+      0.801,
+      0.839,
+      0.501,
+      0.422,
+      0.823,
+      0.515,
+      0.346
+    ]
+  },
+  {
+    "id": "co_01931b2ba6",
+    "title": "MIT 6.006 Algorithms: Studio",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "cognitive",
+      "learning",
+      "discipline"
+    ],
+    "vector": [
+      0.685,
+      0.825,
+      0.865,
+      0.574,
+      0.472,
+      0.809,
+      0.495,
+      0.267
+    ]
+  },
+  {
+    "id": "co_d00a16be60",
+    "title": "HarvardX Data Science: Studio",
+    "type": "course",
+    "description": "HarvardX Data Science: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "cognitive",
+      "leadership",
+      "creativity"
+    ],
+    "vector": [
+      0.78,
+      0.777,
+      0.807,
+      0.548,
+      0.509,
+      0.866,
+      0.558,
+      0.371
+    ]
+  },
+  {
+    "id": "co_57becb73d8",
+    "title": "Google Project Management: Studio",
+    "type": "course",
+    "description": "Google Project Management: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "discipline",
+      "psychology",
+      "leadership"
+    ],
+    "vector": [
+      0.679,
+      0.83,
+      0.786,
+      0.613,
+      0.447,
+      0.853,
+      0.451,
+      0.372
+    ]
+  },
+  {
+    "id": "co_eb65cc93c4",
+    "title": "AI for Everyone: Studio",
+    "type": "course",
+    "description": "AI for Everyone: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "learning",
+      "strategy",
+      "analysis"
+    ],
+    "vector": [
+      0.784,
+      0.784,
+      0.809,
+      0.508,
+      0.52,
+      0.818,
+      0.537,
+      0.379
+    ]
+  },
+  {
+    "id": "co_c797c58e1b",
+    "title": "Financial Markets: Studio",
+    "type": "course",
+    "description": "Financial Markets: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "learning",
+      "psychology",
+      "productivity"
+    ],
+    "vector": [
+      0.68,
+      0.792,
+      0.823,
+      0.493,
+      0.54,
+      0.88,
+      0.53,
+      0.369
+    ]
+  },
+  {
+    "id": "co_29c54f6895",
+    "title": "Python for Everybody: Studio",
+    "type": "course",
+    "description": "Python for Everybody: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "psychology",
+      "cognitive",
+      "leadership"
+    ],
+    "vector": [
+      0.682,
+      0.74,
+      0.819,
+      0.61,
+      0.412,
+      0.85,
+      0.511,
+      0.318
+    ]
+  },
+  {
+    "id": "co_ea6782331e",
+    "title": "Public Speaking Foundations: Studio",
+    "type": "course",
+    "description": "Public Speaking Foundations: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "learning",
+      "psychology",
+      "wellbeing"
+    ],
+    "vector": [
+      0.707,
+      0.779,
+      0.757,
+      0.603,
+      0.507,
+      0.775,
+      0.462,
+      0.295
+    ]
+  },
+  {
+    "id": "co_2667acc50a",
+    "title": "CS50x: Lab",
+    "type": "course",
+    "description": "CS50x: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "empathy",
+      "focus",
+      "strategy"
+    ],
+    "vector": [
+      0.681,
+      0.712,
+      0.799,
+      0.543,
+      0.544,
+      0.88,
+      0.487,
+      0.319
+    ]
+  },
+  {
+    "id": "co_14a8d200e8",
+    "title": "Machine Learning by Andrew Ng: Lab",
+    "type": "course",
+    "description": "Machine Learning by Andrew Ng: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "learning",
+      "productivity",
+      "creativity"
+    ],
+    "vector": [
+      0.736,
+      0.841,
+      0.791,
+      0.518,
+      0.461,
+      0.775,
+      0.541,
+      0.359
+    ]
+  },
+  {
+    "id": "co_f0de4ba2df",
+    "title": "Learning How to Learn: Lab",
+    "type": "course",
+    "description": "Learning How to Learn: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "analysis",
+      "cognitive",
+      "wellbeing"
+    ],
+    "vector": [
+      0.653,
+      0.743,
+      0.773,
+      0.599,
+      0.424,
+      0.844,
+      0.554,
+      0.386
+    ]
+  },
+  {
+    "id": "co_f8212e852e",
+    "title": "MIT 6.006 Algorithms: Lab",
+    "type": "course",
+    "description": "MIT 6.006 Algorithms: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "empathy",
+      "strategy",
+      "discipline"
+    ],
+    "vector": [
+      0.675,
+      0.772,
+      0.789,
+      0.599,
+      0.492,
+      0.763,
+      0.449,
+      0.351
+    ]
+  },
+  {
+    "id": "co_c8744fccd2",
+    "title": "HarvardX Data Science: Lab",
+    "type": "course",
+    "description": "HarvardX Data Science: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "psychology",
+      "creativity",
+      "analysis"
+    ],
+    "vector": [
+      0.679,
+      0.746,
+      0.757,
+      0.568,
+      0.493,
+      0.823,
+      0.538,
+      0.324
+    ]
+  },
+  {
+    "id": "co_b6777cffa9",
+    "title": "Google Project Management: Lab",
+    "type": "course",
+    "description": "Google Project Management: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "wellbeing",
+      "psychology",
+      "cognitive"
+    ],
+    "vector": [
+      0.774,
+      0.725,
+      0.817,
+      0.505,
+      0.413,
+      0.758,
+      0.465,
+      0.277
+    ]
+  },
+  {
+    "id": "co_543789e499",
+    "title": "AI for Everyone: Lab",
+    "type": "course",
+    "description": "AI for Everyone: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "empathy",
+      "learning",
+      "analysis"
+    ],
+    "vector": [
+      0.664,
+      0.839,
+      0.739,
+      0.609,
+      0.541,
+      0.843,
+      0.563,
+      0.335
+    ]
+  },
+  {
+    "id": "co_e571d36390",
+    "title": "Financial Markets: Lab",
+    "type": "course",
+    "description": "Financial Markets: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "psychology",
+      "cognitive",
+      "learning"
+    ],
+    "vector": [
+      0.681,
+      0.721,
+      0.834,
+      0.543,
+      0.427,
+      0.828,
+      0.467,
+      0.287
+    ]
+  },
+  {
+    "id": "co_e8ab5e3d26",
+    "title": "Python for Everybody: Lab",
+    "type": "course",
+    "description": "Python for Everybody: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "cognitive",
+      "productivity",
+      "strategy"
+    ],
+    "vector": [
+      0.686,
+      0.809,
+      0.762,
+      0.527,
+      0.419,
+      0.804,
+      0.537,
+      0.344
+    ]
+  },
+  {
+    "id": "co_588cbc6544",
+    "title": "Public Speaking Foundations: Lab",
+    "type": "course",
+    "description": "Public Speaking Foundations: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "psychology",
+      "creativity",
+      "leadership"
+    ],
+    "vector": [
+      0.759,
+      0.756,
+      0.869,
+      0.581,
+      0.455,
+      0.856,
+      0.548,
+      0.27
+    ]
+  }
+]

@@ -1,5 +1,14 @@
-from flask import Blueprint, current_app, jsonify, request
+from flask import Blueprint, current_app, jsonify, request, redirect
 bp = Blueprint("api", __name__)
+
+
+@bp.get("/")
+def root():
+    return current_app.send_static_file("index.html")
+
+@bp.get("/health")
+def health():
+    return jsonify({"status": "ok"})
 
 @bp.post("/user/profile")
 def set_profile():

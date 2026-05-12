@@ -14,7 +14,7 @@ from .utils.logger import configure_logging
 
 def create_app() -> Flask:
     configure_logging()
-    app = Flask(__name__)
+    app = Flask(__name__, static_folder="static", static_url_path="/static")
 
     content_items = load_content()
     users = load_users()

@@ -1,0 +1,3881 @@
+[
+  {
+    "user_id": "u_001",
+    "big_five_scores": {
+      "openness": 0.203,
+      "conscientiousness": 0.802,
+      "extraversion": 0.67,
+      "agreeableness": 0.445,
+      "neuroticism": 0.111
+    },
+    "mbti_type": "ESFJ",
+    "attention_score": 0.508,
+    "motivation_score": 0.776,
+    "response_time_ms": 809.5,
+    "history": [
+      "c_1099",
+      "c_1166",
+      "c_0352"
+    ]
+  },
+  {
+    "user_id": "u_002",
+    "big_five_scores": {
+      "openness": 0.352,
+      "conscientiousness": 0.226,
+      "extraversion": 0.409,
+      "agreeableness": 0.655,
+      "neuroticism": 0.4
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.449,
+    "motivation_score": 0.677,
+    "response_time_ms": 1263.1,
+    "history": [
+      "c_0988",
+      "c_0139",
+      "c_0687",
+      "c_0037",
+      "c_1199",
+      "c_0920",
+      "c_0784",
+      "c_1047",
+      "c_0477",
+      "c_1032"
+    ]
+  },
+  {
+    "user_id": "u_003",
+    "big_five_scores": {
+      "openness": 0.62,
+      "conscientiousness": 0.941,
+      "extraversion": 0.336,
+      "agreeableness": 0.643,
+      "neuroticism": 0.857
+    },
+    "mbti_type": "INTP",
+    "attention_score": 0.377,
+    "motivation_score": 0.521,
+    "response_time_ms": 507.4,
+    "history": [
+      "c_0123",
+      "c_0282"
+    ]
+  },
+  {
+    "user_id": "u_004",
+    "big_five_scores": {
+      "openness": 0.45,
+      "conscientiousness": 0.387,
+      "extraversion": 0.271,
+      "agreeableness": 0.314,
+      "neuroticism": 0.084
+    },
+    "mbti_type": "ISFJ",
+    "attention_score": 0.754,
+    "motivation_score": 0.447,
+    "response_time_ms": 548.2,
+    "history": [
+      "c_0082",
+      "c_1067",
+      "c_0850",
+      "c_0591",
+      "c_0049",
+      "c_0470",
+      "c_0679",
+      "c_0702",
+      "c_0497",
+      "c_0422",
+      "c_1105",
+      "c_0111",
+      "c_0509",
+      "c_0456",
+      "c_0782",
+      "c_1068",
+      "c_0659",
+      "c_0376",
+      "c_0906",
+      "c_0013"
+    ]
+  },
+  {
+    "user_id": "u_005",
+    "big_five_scores": {
+      "openness": 0.202,
+      "conscientiousness": 0.543,
+      "extraversion": 0.913,
+      "agreeableness": 0.192,
+      "neuroticism": 0.943
+    },
+    "mbti_type": "ESFJ",
+    "attention_score": 0.294,
+    "motivation_score": 0.33,
+    "response_time_ms": 867.6,
+    "history": [
+      "c_0484",
+      "c_1040",
+      "c_0161",
+      "c_0873",
+      "c_0957",
+      "c_0638"
+    ]
+  },
+  {
+    "user_id": "u_006",
+    "big_five_scores": {
+      "openness": 0.281,
+      "conscientiousness": 0.308,
+      "extraversion": 0.489,
+      "agreeableness": 0.635,
+      "neuroticism": 0.323
+    },
+    "mbti_type": "ISFJ",
+    "attention_score": 0.926,
+    "motivation_score": 0.351,
+    "response_time_ms": 1237.7,
+    "history": [
+      "c_0164",
+      "c_0737",
+      "c_0816",
+      "c_0774",
+      "c_0344",
+      "c_0965",
+      "c_0904",
+      "c_0866",
+      "c_1035",
+      "c_0888",
+      "c_0320",
+      "c_0988",
+      "c_0041",
+      "c_0782",
+      "c_0876"
+    ]
+  },
+  {
+    "user_id": "u_007",
+    "big_five_scores": {
+      "openness": 0.833,
+      "conscientiousness": 0.757,
+      "extraversion": 0.887,
+      "agreeableness": 0.626,
+      "neuroticism": 0.188
+    },
+    "mbti_type": "ESTP",
+    "attention_score": 0.393,
+    "motivation_score": 0.548,
+    "response_time_ms": 755.3,
+    "history": [
+      "c_1152",
+      "c_0985",
+      "c_0148",
+      "c_0683",
+      "c_0280",
+      "c_0962",
+      "c_0401",
+      "c_0317",
+      "c_0389",
+      "c_0009",
+      "c_0027",
+      "c_1026"
+    ]
+  },
+  {
+    "user_id": "u_008",
+    "big_five_scores": {
+      "openness": 0.734,
+      "conscientiousness": 0.449,
+      "extraversion": 0.474,
+      "agreeableness": 0.483,
+      "neuroticism": 0.405
+    },
+    "mbti_type": "INFP",
+    "attention_score": 0.488,
+    "motivation_score": 0.431,
+    "response_time_ms": 1385.3,
+    "history": [
+      "c_0838",
+      "c_0080"
+    ]
+  },
+  {
+    "user_id": "u_009",
+    "big_five_scores": {
+      "openness": 0.944,
+      "conscientiousness": 0.25,
+      "extraversion": 0.896,
+      "agreeableness": 0.28,
+      "neuroticism": 0.737
+    },
+    "mbti_type": "INTJ",
+    "attention_score": 0.778,
+    "motivation_score": 0.764,
+    "response_time_ms": 631.3,
+    "history": [
+      "c_0755",
+      "c_0119",
+      "c_0790",
+      "c_0869",
+      "c_0506",
+      "c_0497",
+      "c_0979",
+      "c_0071",
+      "c_0741",
+      "c_0058",
+      "c_0303",
+      "c_0536",
+      "c_0933",
+      "c_0302",
+      "c_0521"
+    ]
+  },
+  {
+    "user_id": "u_010",
+    "big_five_scores": {
+      "openness": 0.348,
+      "conscientiousness": 0.613,
+      "extraversion": 0.68,
+      "agreeableness": 0.279,
+      "neuroticism": 0.155
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.683,
+    "motivation_score": 0.888,
+    "response_time_ms": 689.2,
+    "history": [
+      "c_0165",
+      "c_1062",
+      "c_0387",
+      "c_0867",
+      "c_0340",
+      "c_0875",
+      "c_0518",
+      "c_0619",
+      "c_1026",
+      "c_1092",
+      "c_0784",
+      "c_0631",
+      "c_0843",
+      "c_0183",
+      "c_0224",
+      "c_1173",
+      "c_0706",
+      "c_0293"
+    ]
+  },
+  {
+    "user_id": "u_011",
+    "big_five_scores": {
+      "openness": 0.365,
+      "conscientiousness": 0.318,
+      "extraversion": 0.749,
+      "agreeableness": 0.709,
+      "neuroticism": 0.056
+    },
+    "mbti_type": "ESTP",
+    "attention_score": 0.812,
+    "motivation_score": 0.201,
+    "response_time_ms": 302.4,
+    "history": [
+      "c_1076",
+      "c_0854",
+      "c_0591",
+      "c_0883",
+      "c_0350",
+      "c_0362",
+      "c_0768",
+      "c_0382",
+      "c_0276",
+      "c_0406",
+      "c_0997",
+      "c_0373",
+      "c_1030"
+    ]
+  },
+  {
+    "user_id": "u_012",
+    "big_five_scores": {
+      "openness": 0.909,
+      "conscientiousness": 0.511,
+      "extraversion": 0.801,
+      "agreeableness": 0.299,
+      "neuroticism": 0.103
+    },
+    "mbti_type": "ESTP",
+    "attention_score": 0.807,
+    "motivation_score": 0.344,
+    "response_time_ms": 1379.9,
+    "history": [
+      "c_0903",
+      "c_0224",
+      "c_0341",
+      "c_0164",
+      "c_0601",
+      "c_0176",
+      "c_0774",
+      "c_0256",
+      "c_0567",
+      "c_0132",
+      "c_0701",
+      "c_0061",
+      "c_1200"
+    ]
+  },
+  {
+    "user_id": "u_013",
+    "big_five_scores": {
+      "openness": 0.338,
+      "conscientiousness": 0.538,
+      "extraversion": 0.758,
+      "agreeableness": 0.158,
+      "neuroticism": 0.289
+    },
+    "mbti_type": "ENTJ",
+    "attention_score": 0.699,
+    "motivation_score": 0.792,
+    "response_time_ms": 269.4,
+    "history": [
+      "c_1070",
+      "c_0015",
+      "c_0770",
+      "c_1066",
+      "c_0545",
+      "c_0996"
+    ]
+  },
+  {
+    "user_id": "u_014",
+    "big_five_scores": {
+      "openness": 0.529,
+      "conscientiousness": 0.42,
+      "extraversion": 0.494,
+      "agreeableness": 0.447,
+      "neuroticism": 0.851
+    },
+    "mbti_type": "INFJ",
+    "attention_score": 0.813,
+    "motivation_score": 0.906,
+    "response_time_ms": 1004.8,
+    "history": [
+      "c_0118",
+      "c_0730",
+      "c_0677",
+      "c_0206",
+      "c_0007",
+      "c_0936",
+      "c_0823",
+      "c_0285",
+      "c_0053",
+      "c_0252",
+      "c_1087",
+      "c_0573"
+    ]
+  },
+  {
+    "user_id": "u_015",
+    "big_five_scores": {
+      "openness": 0.911,
+      "conscientiousness": 0.751,
+      "extraversion": 0.349,
+      "agreeableness": 0.512,
+      "neuroticism": 0.668
+    },
+    "mbti_type": "ISFP",
+    "attention_score": 0.586,
+    "motivation_score": 0.695,
+    "response_time_ms": 223.7,
+    "history": [
+      "c_0660",
+      "c_0035",
+      "c_0738",
+      "c_0094",
+      "c_0667",
+      "c_0910",
+      "c_0479",
+      "c_0993",
+      "c_0820",
+      "c_0167",
+      "c_0714",
+      "c_0877",
+      "c_0976",
+      "c_0206",
+      "c_0789",
+      "c_0602",
+      "c_0400",
+      "c_0294",
+      "c_1066",
+      "c_1172"
+    ]
+  },
+  {
+    "user_id": "u_016",
+    "big_five_scores": {
+      "openness": 0.778,
+      "conscientiousness": 0.723,
+      "extraversion": 0.175,
+      "agreeableness": 0.548,
+      "neuroticism": 0.128
+    },
+    "mbti_type": "ISFJ",
+    "attention_score": 0.326,
+    "motivation_score": 0.535,
+    "response_time_ms": 356.5,
+    "history": [
+      "c_0494",
+      "c_0499",
+      "c_0434",
+      "c_0350",
+      "c_0184",
+      "c_0217",
+      "c_0891",
+      "c_0060",
+      "c_0329",
+      "c_0669",
+      "c_0786",
+      "c_0575",
+      "c_0452",
+      "c_0528",
+      "c_0976",
+      "c_0253",
+      "c_0279"
+    ]
+  },
+  {
+    "user_id": "u_017",
+    "big_five_scores": {
+      "openness": 0.888,
+      "conscientiousness": 0.657,
+      "extraversion": 0.544,
+      "agreeableness": 0.786,
+      "neuroticism": 0.35
+    },
+    "mbti_type": "ESFP",
+    "attention_score": 0.899,
+    "motivation_score": 0.775,
+    "response_time_ms": 928.8,
+    "history": [
+      "c_0703",
+      "c_0773",
+      "c_0782",
+      "c_1151",
+      "c_0895",
+      "c_0478",
+      "c_0458",
+      "c_0531",
+      "c_0237",
+      "c_0596",
+      "c_0180",
+      "c_0229",
+      "c_0183",
+      "c_0697",
+      "c_0386",
+      "c_0238",
+      "c_1174",
+      "c_0754",
+      "c_0261",
+      "c_0642"
+    ]
+  },
+  {
+    "user_id": "u_018",
+    "big_five_scores": {
+      "openness": 0.913,
+      "conscientiousness": 0.612,
+      "extraversion": 0.151,
+      "agreeableness": 0.2,
+      "neuroticism": 0.532
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.935,
+    "motivation_score": 0.44,
+    "response_time_ms": 650.7,
+    "history": [
+      "c_1065",
+      "c_0455",
+      "c_0219",
+      "c_0810"
+    ]
+  },
+  {
+    "user_id": "u_019",
+    "big_five_scores": {
+      "openness": 0.157,
+      "conscientiousness": 0.832,
+      "extraversion": 0.403,
+      "agreeableness": 0.803,
+      "neuroticism": 0.317
+    },
+    "mbti_type": "ESFP",
+    "attention_score": 0.575,
+    "motivation_score": 0.542,
+    "response_time_ms": 929.7,
+    "history": [
+      "c_0071",
+      "c_0656",
+      "c_0633",
+      "c_1029"
+    ]
+  },
+  {
+    "user_id": "u_020",
+    "big_five_scores": {
+      "openness": 0.942,
+      "conscientiousness": 0.249,
+      "extraversion": 0.947,
+      "agreeableness": 0.715,
+      "neuroticism": 0.48
+    },
+    "mbti_type": "ESFJ",
+    "attention_score": 0.571,
+    "motivation_score": 0.728,
+    "response_time_ms": 664.5,
+    "history": [
+      "c_0313",
+      "c_0432",
+      "c_0461",
+      "c_0108",
+      "c_0367",
+      "c_0999",
+      "c_0803",
+      "c_0613",
+      "c_0327",
+      "c_0045"
+    ]
+  },
+  {
+    "user_id": "u_021",
+    "big_five_scores": {
+      "openness": 0.588,
+      "conscientiousness": 0.42,
+      "extraversion": 0.692,
+      "agreeableness": 0.942,
+      "neuroticism": 0.732
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.254,
+    "motivation_score": 0.745,
+    "response_time_ms": 553.2,
+    "history": [
+      "c_1123",
+      "c_0807",
+      "c_0200",
+      "c_0269",
+      "c_0663",
+      "c_1189"
+    ]
+  },
+  {
+    "user_id": "u_022",
+    "big_five_scores": {
+      "openness": 0.843,
+      "conscientiousness": 0.193,
+      "extraversion": 0.898,
+      "agreeableness": 0.393,
+      "neuroticism": 0.639
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.531,
+    "motivation_score": 0.562,
+    "response_time_ms": 1278.7,
+    "history": [
+      "c_0447",
+      "c_0401",
+      "c_0019",
+      "c_0742",
+      "c_1179",
+      "c_0209"
+    ]
+  },
+  {
+    "user_id": "u_023",
+    "big_five_scores": {
+      "openness": 0.693,
+      "conscientiousness": 0.941,
+      "extraversion": 0.268,
+      "agreeableness": 0.91,
+      "neuroticism": 0.434
+    },
+    "mbti_type": "ESTP",
+    "attention_score": 0.894,
+    "motivation_score": 0.272,
+    "response_time_ms": 1369.5,
+    "history": [
+      "c_0108",
+      "c_0241",
+      "c_1056",
+      "c_0694",
+      "c_0889"
+    ]
+  },
+  {
+    "user_id": "u_024",
+    "big_five_scores": {
+      "openness": 0.926,
+      "conscientiousness": 0.652,
+      "extraversion": 0.473,
+      "agreeableness": 0.177,
+      "neuroticism": 0.267
+    },
+    "mbti_type": "ISFP",
+    "attention_score": 0.427,
+    "motivation_score": 0.647,
+    "response_time_ms": 423.5,
+    "history": [
+      "c_0184",
+      "c_0950",
+      "c_0783",
+      "c_0564",
+      "c_0912",
+      "c_0753",
+      "c_0024",
+      "c_0246",
+      "c_0239",
+      "c_0170",
+      "c_0250",
+      "c_1002"
+    ]
+  },
+  {
+    "user_id": "u_025",
+    "big_five_scores": {
+      "openness": 0.663,
+      "conscientiousness": 0.877,
+      "extraversion": 0.33,
+      "agreeableness": 0.619,
+      "neuroticism": 0.939
+    },
+    "mbti_type": "ISFP",
+    "attention_score": 0.405,
+    "motivation_score": 0.759,
+    "response_time_ms": 1157.3,
+    "history": [
+      "c_0787",
+      "c_0992",
+      "c_0889",
+      "c_0612",
+      "c_1171"
+    ]
+  },
+  {
+    "user_id": "u_026",
+    "big_five_scores": {
+      "openness": 0.25,
+      "conscientiousness": 0.41,
+      "extraversion": 0.721,
+      "agreeableness": 0.84,
+      "neuroticism": 0.534
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.81,
+    "motivation_score": 0.215,
+    "response_time_ms": 876.2,
+    "history": [
+      "c_1086",
+      "c_1001",
+      "c_0131",
+      "c_1063",
+      "c_1198",
+      "c_1104",
+      "c_0255",
+      "c_0425",
+      "c_0241",
+      "c_0371",
+      "c_0369",
+      "c_0011",
+      "c_1137",
+      "c_0916",
+      "c_0644",
+      "c_0252",
+      "c_0081"
+    ]
+  },
+  {
+    "user_id": "u_027",
+    "big_five_scores": {
+      "openness": 0.253,
+      "conscientiousness": 0.315,
+      "extraversion": 0.279,
+      "agreeableness": 0.6,
+      "neuroticism": 0.816
+    },
+    "mbti_type": "ENTP",
+    "attention_score": 0.263,
+    "motivation_score": 0.294,
+    "response_time_ms": 572.3,
+    "history": [
+      "c_0352",
+      "c_0867",
+      "c_0001",
+      "c_0509",
+      "c_0616",
+      "c_0095",
+      "c_1064",
+      "c_0601",
+      "c_1094",
+      "c_0912",
+      "c_0287",
+      "c_1182",
+      "c_1005",
+      "c_0641",
+      "c_1071",
+      "c_0722",
+      "c_1103"
+    ]
+  },
+  {
+    "user_id": "u_028",
+    "big_five_scores": {
+      "openness": 0.558,
+      "conscientiousness": 0.7,
+      "extraversion": 0.68,
+      "agreeableness": 0.186,
+      "neuroticism": 0.083
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.425,
+    "motivation_score": 0.824,
+    "response_time_ms": 1349.8,
+    "history": [
+      "c_1131",
+      "c_0443",
+      "c_0736",
+      "c_0569",
+      "c_0264",
+      "c_0865",
+      "c_0153",
+      "c_1127",
+      "c_0523",
+      "c_0534",
+      "c_0782",
+      "c_0335",
+      "c_0820",
+      "c_0935",
+      "c_0171",
+      "c_0521",
+      "c_0872",
+      "c_0294",
+      "c_1098"
+    ]
+  },
+  {
+    "user_id": "u_029",
+    "big_five_scores": {
+      "openness": 0.313,
+      "conscientiousness": 0.654,
+      "extraversion": 0.366,
+      "agreeableness": 0.656,
+      "neuroticism": 0.631
+    },
+    "mbti_type": "INFP",
+    "attention_score": 0.623,
+    "motivation_score": 0.686,
+    "response_time_ms": 823.5,
+    "history": [
+      "c_0860",
+      "c_0315",
+      "c_0648",
+      "c_0889",
+      "c_0777"
+    ]
+  },
+  {
+    "user_id": "u_030",
+    "big_five_scores": {
+      "openness": 0.171,
+      "conscientiousness": 0.633,
+      "extraversion": 0.212,
+      "agreeableness": 0.25,
+      "neuroticism": 0.149
+    },
+    "mbti_type": "ISTP",
+    "attention_score": 0.249,
+    "motivation_score": 0.68,
+    "response_time_ms": 648.1,
+    "history": [
+      "c_0560",
+      "c_0300",
+      "c_0463",
+      "c_0561",
+      "c_0021",
+      "c_0201",
+      "c_0773",
+      "c_0456",
+      "c_0776",
+      "c_0216"
+    ]
+  },
+  {
+    "user_id": "u_031",
+    "big_five_scores": {
+      "openness": 0.776,
+      "conscientiousness": 0.249,
+      "extraversion": 0.571,
+      "agreeableness": 0.85,
+      "neuroticism": 0.58
+    },
+    "mbti_type": "ISFP",
+    "attention_score": 0.272,
+    "motivation_score": 0.462,
+    "response_time_ms": 895.1,
+    "history": [
+      "c_1130",
+      "c_0556",
+      "c_0203",
+      "c_0099",
+      "c_0350",
+      "c_0652",
+      "c_0798",
+      "c_0371",
+      "c_0707"
+    ]
+  },
+  {
+    "user_id": "u_032",
+    "big_five_scores": {
+      "openness": 0.795,
+      "conscientiousness": 0.692,
+      "extraversion": 0.781,
+      "agreeableness": 0.591,
+      "neuroticism": 0.844
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.558,
+    "motivation_score": 0.296,
+    "response_time_ms": 231.2,
+    "history": [
+      "c_0319",
+      "c_0259",
+      "c_0293",
+      "c_0776",
+      "c_1163",
+      "c_0548",
+      "c_0109",
+      "c_0759",
+      "c_0511",
+      "c_0857",
+      "c_0938",
+      "c_0375",
+      "c_0899",
+      "c_0725",
+      "c_0960",
+      "c_1029"
+    ]
+  },
+  {
+    "user_id": "u_033",
+    "big_five_scores": {
+      "openness": 0.379,
+      "conscientiousness": 0.912,
+      "extraversion": 0.566,
+      "agreeableness": 0.725,
+      "neuroticism": 0.881
+    },
+    "mbti_type": "ESFP",
+    "attention_score": 0.429,
+    "motivation_score": 0.843,
+    "response_time_ms": 1338.0,
+    "history": [
+      "c_0641",
+      "c_0185",
+      "c_0163",
+      "c_0158",
+      "c_0492",
+      "c_0192",
+      "c_0339",
+      "c_1179",
+      "c_0118",
+      "c_0174",
+      "c_0586",
+      "c_1135",
+      "c_1010"
+    ]
+  },
+  {
+    "user_id": "u_034",
+    "big_five_scores": {
+      "openness": 0.797,
+      "conscientiousness": 0.159,
+      "extraversion": 0.909,
+      "agreeableness": 0.692,
+      "neuroticism": 0.889
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.56,
+    "motivation_score": 0.586,
+    "response_time_ms": 1397.6,
+    "history": [
+      "c_0256",
+      "c_0831",
+      "c_0029",
+      "c_0390",
+      "c_0015",
+      "c_0871",
+      "c_1095",
+      "c_0707",
+      "c_0501",
+      "c_1082",
+      "c_0087",
+      "c_0919",
+      "c_0346",
+      "c_1073",
+      "c_0461",
+      "c_0359",
+      "c_0154"
+    ]
+  },
+  {
+    "user_id": "u_035",
+    "big_five_scores": {
+      "openness": 0.444,
+      "conscientiousness": 0.257,
+      "extraversion": 0.433,
+      "agreeableness": 0.191,
+      "neuroticism": 0.496
+    },
+    "mbti_type": "ESTP",
+    "attention_score": 0.48,
+    "motivation_score": 0.285,
+    "response_time_ms": 1298.6,
+    "history": [
+      "c_1105",
+      "c_0242",
+      "c_0595",
+      "c_0613",
+      "c_0990",
+      "c_0602",
+      "c_0543"
+    ]
+  },
+  {
+    "user_id": "u_036",
+    "big_five_scores": {
+      "openness": 0.32,
+      "conscientiousness": 0.74,
+      "extraversion": 0.605,
+      "agreeableness": 0.324,
+      "neuroticism": 0.324
+    },
+    "mbti_type": "ENTP",
+    "attention_score": 0.902,
+    "motivation_score": 0.869,
+    "response_time_ms": 1221.1,
+    "history": [
+      "c_0729"
+    ]
+  },
+  {
+    "user_id": "u_037",
+    "big_five_scores": {
+      "openness": 0.155,
+      "conscientiousness": 0.518,
+      "extraversion": 0.389,
+      "agreeableness": 0.236,
+      "neuroticism": 0.365
+    },
+    "mbti_type": "ESTP",
+    "attention_score": 0.502,
+    "motivation_score": 0.207,
+    "response_time_ms": 728.3,
+    "history": [
+      "c_0174",
+      "c_1084",
+      "c_1054",
+      "c_0315",
+      "c_0842",
+      "c_0254"
+    ]
+  },
+  {
+    "user_id": "u_038",
+    "big_five_scores": {
+      "openness": 0.88,
+      "conscientiousness": 0.156,
+      "extraversion": 0.766,
+      "agreeableness": 0.35,
+      "neuroticism": 0.474
+    },
+    "mbti_type": "INFP",
+    "attention_score": 0.424,
+    "motivation_score": 0.521,
+    "response_time_ms": 435.0,
+    "history": [
+      "c_0223",
+      "c_0899",
+      "c_0900",
+      "c_0332",
+      "c_0287",
+      "c_0725",
+      "c_0889",
+      "c_0012"
+    ]
+  },
+  {
+    "user_id": "u_039",
+    "big_five_scores": {
+      "openness": 0.437,
+      "conscientiousness": 0.846,
+      "extraversion": 0.309,
+      "agreeableness": 0.302,
+      "neuroticism": 0.086
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.516,
+    "motivation_score": 0.448,
+    "response_time_ms": 257.3,
+    "history": [
+      "c_0982",
+      "c_0545",
+      "c_0244",
+      "c_0863",
+      "c_1002",
+      "c_1127"
+    ]
+  },
+  {
+    "user_id": "u_040",
+    "big_five_scores": {
+      "openness": 0.546,
+      "conscientiousness": 0.695,
+      "extraversion": 0.252,
+      "agreeableness": 0.751,
+      "neuroticism": 0.752
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.576,
+    "motivation_score": 0.893,
+    "response_time_ms": 1214.8,
+    "history": [
+      "c_0270",
+      "c_0225",
+      "c_0221",
+      "c_0044",
+      "c_0259",
+      "c_0319",
+      "c_0705",
+      "c_1025",
+      "c_0028",
+      "c_0485",
+      "c_0107",
+      "c_0701"
+    ]
+  },
+  {
+    "user_id": "u_041",
+    "big_five_scores": {
+      "openness": 0.494,
+      "conscientiousness": 0.628,
+      "extraversion": 0.156,
+      "agreeableness": 0.534,
+      "neuroticism": 0.304
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.771,
+    "motivation_score": 0.386,
+    "response_time_ms": 399.9,
+    "history": [
+      "c_0383",
+      "c_0511",
+      "c_0576",
+      "c_0236",
+      "c_0540",
+      "c_0507",
+      "c_0879",
+      "c_0407",
+      "c_0971",
+      "c_0212",
+      "c_1029",
+      "c_0372",
+      "c_0387",
+      "c_0305",
+      "c_0470",
+      "c_0247"
+    ]
+  },
+  {
+    "user_id": "u_042",
+    "big_five_scores": {
+      "openness": 0.256,
+      "conscientiousness": 0.181,
+      "extraversion": 0.942,
+      "agreeableness": 0.893,
+      "neuroticism": 0.434
+    },
+    "mbti_type": "ESFJ",
+    "attention_score": 0.268,
+    "motivation_score": 0.238,
+    "response_time_ms": 700.6,
+    "history": [
+      "c_0474",
+      "c_0455",
+      "c_0689",
+      "c_0873",
+      "c_0982",
+      "c_0126",
+      "c_1045",
+      "c_0875",
+      "c_0106"
+    ]
+  },
+  {
+    "user_id": "u_043",
+    "big_five_scores": {
+      "openness": 0.393,
+      "conscientiousness": 0.365,
+      "extraversion": 0.374,
+      "agreeableness": 0.431,
+      "neuroticism": 0.426
+    },
+    "mbti_type": "INFJ",
+    "attention_score": 0.871,
+    "motivation_score": 0.336,
+    "response_time_ms": 220.6,
+    "history": [
+      "c_0435",
+      "c_0585",
+      "c_0967",
+      "c_0574",
+      "c_0207",
+      "c_0883",
+      "c_0379",
+      "c_0517",
+      "c_1007",
+      "c_0745"
+    ]
+  },
+  {
+    "user_id": "u_044",
+    "big_five_scores": {
+      "openness": 0.417,
+      "conscientiousness": 0.239,
+      "extraversion": 0.685,
+      "agreeableness": 0.696,
+      "neuroticism": 0.743
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.448,
+    "motivation_score": 0.756,
+    "response_time_ms": 646.4,
+    "history": [
+      "c_1084",
+      "c_0762",
+      "c_0488",
+      "c_0566",
+      "c_0431",
+      "c_1197",
+      "c_0787",
+      "c_0179",
+      "c_0218",
+      "c_0268",
+      "c_0247",
+      "c_0085",
+      "c_0391",
+      "c_0396",
+      "c_0913",
+      "c_0203",
+      "c_0154",
+      "c_1120"
+    ]
+  },
+  {
+    "user_id": "u_045",
+    "big_five_scores": {
+      "openness": 0.645,
+      "conscientiousness": 0.391,
+      "extraversion": 0.529,
+      "agreeableness": 0.759,
+      "neuroticism": 0.53
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.233,
+    "motivation_score": 0.344,
+    "response_time_ms": 869.6,
+    "history": [
+      "c_1148",
+      "c_0712",
+      "c_0750",
+      "c_0919",
+      "c_0241",
+      "c_0894",
+      "c_0139",
+      "c_0989"
+    ]
+  },
+  {
+    "user_id": "u_046",
+    "big_five_scores": {
+      "openness": 0.485,
+      "conscientiousness": 0.895,
+      "extraversion": 0.553,
+      "agreeableness": 0.167,
+      "neuroticism": 0.589
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.417,
+    "motivation_score": 0.917,
+    "response_time_ms": 291.7,
+    "history": [
+      "c_0815",
+      "c_1014",
+      "c_1091",
+      "c_1052",
+      "c_0154",
+      "c_0339"
+    ]
+  },
+  {
+    "user_id": "u_047",
+    "big_five_scores": {
+      "openness": 0.5,
+      "conscientiousness": 0.557,
+      "extraversion": 0.6,
+      "agreeableness": 0.462,
+      "neuroticism": 0.596
+    },
+    "mbti_type": "ESFJ",
+    "attention_score": 0.338,
+    "motivation_score": 0.32,
+    "response_time_ms": 477.0,
+    "history": []
+  },
+  {
+    "user_id": "u_048",
+    "big_five_scores": {
+      "openness": 0.853,
+      "conscientiousness": 0.783,
+      "extraversion": 0.514,
+      "agreeableness": 0.716,
+      "neuroticism": 0.523
+    },
+    "mbti_type": "INTP",
+    "attention_score": 0.839,
+    "motivation_score": 0.422,
+    "response_time_ms": 536.8,
+    "history": [
+      "c_0351",
+      "c_0459",
+      "c_0094"
+    ]
+  },
+  {
+    "user_id": "u_049",
+    "big_five_scores": {
+      "openness": 0.577,
+      "conscientiousness": 0.383,
+      "extraversion": 0.662,
+      "agreeableness": 0.904,
+      "neuroticism": 0.3
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.403,
+    "motivation_score": 0.793,
+    "response_time_ms": 978.0,
+    "history": [
+      "c_0431",
+      "c_1095",
+      "c_0238",
+      "c_0003",
+      "c_0712",
+      "c_0756",
+      "c_0665"
+    ]
+  },
+  {
+    "user_id": "u_050",
+    "big_five_scores": {
+      "openness": 0.217,
+      "conscientiousness": 0.714,
+      "extraversion": 0.589,
+      "agreeableness": 0.728,
+      "neuroticism": 0.418
+    },
+    "mbti_type": "INTP",
+    "attention_score": 0.443,
+    "motivation_score": 0.243,
+    "response_time_ms": 1182.8,
+    "history": [
+      "c_0450",
+      "c_0573",
+      "c_0362",
+      "c_0525",
+      "c_0033",
+      "c_1101",
+      "c_1195",
+      "c_0218",
+      "c_0783",
+      "c_0528",
+      "c_1129"
+    ]
+  },
+  {
+    "user_id": "u_051",
+    "big_five_scores": {
+      "openness": 0.315,
+      "conscientiousness": 0.504,
+      "extraversion": 0.409,
+      "agreeableness": 0.313,
+      "neuroticism": 0.617
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.317,
+    "motivation_score": 0.374,
+    "response_time_ms": 1077.0,
+    "history": [
+      "c_0304",
+      "c_0982",
+      "c_0192",
+      "c_1016",
+      "c_0372",
+      "c_0941",
+      "c_0379",
+      "c_0361",
+      "c_0387",
+      "c_1167",
+      "c_1005"
+    ]
+  },
+  {
+    "user_id": "u_052",
+    "big_five_scores": {
+      "openness": 0.905,
+      "conscientiousness": 0.294,
+      "extraversion": 0.376,
+      "agreeableness": 0.398,
+      "neuroticism": 0.847
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.716,
+    "motivation_score": 0.341,
+    "response_time_ms": 389.4,
+    "history": [
+      "c_0503",
+      "c_0932",
+      "c_0825",
+      "c_0206",
+      "c_1079",
+      "c_0282",
+      "c_0025",
+      "c_0205",
+      "c_0774",
+      "c_0787",
+      "c_0043",
+      "c_0226",
+      "c_0028"
+    ]
+  },
+  {
+    "user_id": "u_053",
+    "big_five_scores": {
+      "openness": 0.761,
+      "conscientiousness": 0.666,
+      "extraversion": 0.185,
+      "agreeableness": 0.349,
+      "neuroticism": 0.125
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.904,
+    "motivation_score": 0.65,
+    "response_time_ms": 1155.0,
+    "history": []
+  },
+  {
+    "user_id": "u_054",
+    "big_five_scores": {
+      "openness": 0.916,
+      "conscientiousness": 0.235,
+      "extraversion": 0.739,
+      "agreeableness": 0.421,
+      "neuroticism": 0.687
+    },
+    "mbti_type": "ESFJ",
+    "attention_score": 0.304,
+    "motivation_score": 0.77,
+    "response_time_ms": 1273.0,
+    "history": [
+      "c_0630",
+      "c_0680",
+      "c_0981",
+      "c_0317",
+      "c_0500"
+    ]
+  },
+  {
+    "user_id": "u_055",
+    "big_five_scores": {
+      "openness": 0.195,
+      "conscientiousness": 0.704,
+      "extraversion": 0.652,
+      "agreeableness": 0.248,
+      "neuroticism": 0.792
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.608,
+    "motivation_score": 0.277,
+    "response_time_ms": 1266.0,
+    "history": [
+      "c_0291",
+      "c_0003",
+      "c_0460",
+      "c_0050",
+      "c_0465",
+      "c_0875",
+      "c_0790",
+      "c_0302",
+      "c_0724",
+      "c_0588",
+      "c_0463",
+      "c_0788",
+      "c_0231"
+    ]
+  },
+  {
+    "user_id": "u_056",
+    "big_five_scores": {
+      "openness": 0.543,
+      "conscientiousness": 0.943,
+      "extraversion": 0.33,
+      "agreeableness": 0.915,
+      "neuroticism": 0.304
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.662,
+    "motivation_score": 0.289,
+    "response_time_ms": 1309.5,
+    "history": [
+      "c_0089",
+      "c_0310"
+    ]
+  },
+  {
+    "user_id": "u_057",
+    "big_five_scores": {
+      "openness": 0.292,
+      "conscientiousness": 0.574,
+      "extraversion": 0.63,
+      "agreeableness": 0.694,
+      "neuroticism": 0.185
+    },
+    "mbti_type": "INTP",
+    "attention_score": 0.669,
+    "motivation_score": 0.415,
+    "response_time_ms": 1253.0,
+    "history": [
+      "c_1023",
+      "c_0756",
+      "c_0544",
+      "c_0157",
+      "c_0005",
+      "c_0305",
+      "c_0301",
+      "c_0656"
+    ]
+  },
+  {
+    "user_id": "u_058",
+    "big_five_scores": {
+      "openness": 0.268,
+      "conscientiousness": 0.507,
+      "extraversion": 0.787,
+      "agreeableness": 0.931,
+      "neuroticism": 0.783
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.633,
+    "motivation_score": 0.92,
+    "response_time_ms": 548.6,
+    "history": [
+      "c_0662",
+      "c_0262"
+    ]
+  },
+  {
+    "user_id": "u_059",
+    "big_five_scores": {
+      "openness": 0.295,
+      "conscientiousness": 0.458,
+      "extraversion": 0.405,
+      "agreeableness": 0.489,
+      "neuroticism": 0.674
+    },
+    "mbti_type": "ISTP",
+    "attention_score": 0.651,
+    "motivation_score": 0.677,
+    "response_time_ms": 383.1,
+    "history": [
+      "c_0504",
+      "c_0785",
+      "c_0858",
+      "c_1126",
+      "c_1019",
+      "c_1104",
+      "c_1094",
+      "c_1009",
+      "c_1091",
+      "c_1099",
+      "c_0472",
+      "c_0788",
+      "c_0172",
+      "c_1190",
+      "c_0864",
+      "c_1080",
+      "c_1184",
+      "c_0450",
+      "c_0179",
+      "c_0482"
+    ]
+  },
+  {
+    "user_id": "u_060",
+    "big_five_scores": {
+      "openness": 0.439,
+      "conscientiousness": 0.313,
+      "extraversion": 0.83,
+      "agreeableness": 0.44,
+      "neuroticism": 0.477
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.891,
+    "motivation_score": 0.245,
+    "response_time_ms": 632.2,
+    "history": [
+      "c_0604",
+      "c_0943",
+      "c_0296",
+      "c_1130"
+    ]
+  },
+  {
+    "user_id": "u_061",
+    "big_five_scores": {
+      "openness": 0.927,
+      "conscientiousness": 0.88,
+      "extraversion": 0.344,
+      "agreeableness": 0.812,
+      "neuroticism": 0.1
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.288,
+    "motivation_score": 0.722,
+    "response_time_ms": 388.8,
+    "history": []
+  },
+  {
+    "user_id": "u_062",
+    "big_five_scores": {
+      "openness": 0.707,
+      "conscientiousness": 0.49,
+      "extraversion": 0.193,
+      "agreeableness": 0.235,
+      "neuroticism": 0.573
+    },
+    "mbti_type": "ISFP",
+    "attention_score": 0.828,
+    "motivation_score": 0.853,
+    "response_time_ms": 255.6,
+    "history": [
+      "c_0290",
+      "c_0162",
+      "c_0502",
+      "c_0158",
+      "c_0026",
+      "c_1166",
+      "c_0853",
+      "c_0307",
+      "c_0374",
+      "c_0963",
+      "c_0287"
+    ]
+  },
+  {
+    "user_id": "u_063",
+    "big_five_scores": {
+      "openness": 0.748,
+      "conscientiousness": 0.709,
+      "extraversion": 0.39,
+      "agreeableness": 0.479,
+      "neuroticism": 0.354
+    },
+    "mbti_type": "ENTJ",
+    "attention_score": 0.415,
+    "motivation_score": 0.317,
+    "response_time_ms": 1259.8,
+    "history": [
+      "c_0356"
+    ]
+  },
+  {
+    "user_id": "u_064",
+    "big_five_scores": {
+      "openness": 0.553,
+      "conscientiousness": 0.159,
+      "extraversion": 0.816,
+      "agreeableness": 0.694,
+      "neuroticism": 0.838
+    },
+    "mbti_type": "INTJ",
+    "attention_score": 0.889,
+    "motivation_score": 0.576,
+    "response_time_ms": 1057.0,
+    "history": [
+      "c_0322",
+      "c_0557",
+      "c_0189",
+      "c_1069",
+      "c_0774",
+      "c_0257",
+      "c_0434",
+      "c_0821",
+      "c_0115",
+      "c_0449",
+      "c_0804",
+      "c_0377",
+      "c_1146"
+    ]
+  },
+  {
+    "user_id": "u_065",
+    "big_five_scores": {
+      "openness": 0.634,
+      "conscientiousness": 0.212,
+      "extraversion": 0.704,
+      "agreeableness": 0.532,
+      "neuroticism": 0.637
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.82,
+    "motivation_score": 0.324,
+    "response_time_ms": 1167.9,
+    "history": [
+      "c_0869",
+      "c_0399",
+      "c_0553",
+      "c_0223",
+      "c_0214",
+      "c_0160",
+      "c_0743",
+      "c_0688",
+      "c_0058",
+      "c_0491",
+      "c_0578",
+      "c_0334",
+      "c_1110",
+      "c_0219",
+      "c_0134",
+      "c_0434",
+      "c_0023",
+      "c_0634",
+      "c_0385",
+      "c_1130"
+    ]
+  },
+  {
+    "user_id": "u_066",
+    "big_five_scores": {
+      "openness": 0.311,
+      "conscientiousness": 0.893,
+      "extraversion": 0.342,
+      "agreeableness": 0.218,
+      "neuroticism": 0.563
+    },
+    "mbti_type": "ENTP",
+    "attention_score": 0.623,
+    "motivation_score": 0.793,
+    "response_time_ms": 273.9,
+    "history": [
+      "c_0191",
+      "c_0633",
+      "c_0018",
+      "c_0731",
+      "c_0579",
+      "c_0816",
+      "c_1025",
+      "c_0400",
+      "c_0645",
+      "c_0801"
+    ]
+  },
+  {
+    "user_id": "u_067",
+    "big_five_scores": {
+      "openness": 0.731,
+      "conscientiousness": 0.929,
+      "extraversion": 0.712,
+      "agreeableness": 0.228,
+      "neuroticism": 0.417
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.577,
+    "motivation_score": 0.781,
+    "response_time_ms": 247.9,
+    "history": [
+      "c_0977",
+      "c_0077",
+      "c_0595",
+      "c_0331",
+      "c_0311",
+      "c_0949",
+      "c_0162",
+      "c_0192",
+      "c_0475",
+      "c_0442",
+      "c_0289",
+      "c_0330"
+    ]
+  },
+  {
+    "user_id": "u_068",
+    "big_five_scores": {
+      "openness": 0.945,
+      "conscientiousness": 0.551,
+      "extraversion": 0.944,
+      "agreeableness": 0.637,
+      "neuroticism": 0.521
+    },
+    "mbti_type": "INFJ",
+    "attention_score": 0.536,
+    "motivation_score": 0.298,
+    "response_time_ms": 563.2,
+    "history": [
+      "c_0883",
+      "c_0082",
+      "c_0794",
+      "c_0490",
+      "c_0428",
+      "c_0154",
+      "c_0313",
+      "c_1162",
+      "c_1019",
+      "c_0200",
+      "c_0031",
+      "c_0293",
+      "c_0634",
+      "c_1121",
+      "c_0179",
+      "c_1022",
+      "c_0193",
+      "c_0932",
+      "c_0643"
+    ]
+  },
+  {
+    "user_id": "u_069",
+    "big_five_scores": {
+      "openness": 0.286,
+      "conscientiousness": 0.386,
+      "extraversion": 0.205,
+      "agreeableness": 0.611,
+      "neuroticism": 0.368
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.334,
+    "motivation_score": 0.779,
+    "response_time_ms": 524.4,
+    "history": [
+      "c_0525",
+      "c_0906",
+      "c_0288",
+      "c_0254",
+      "c_1165",
+      "c_1000",
+      "c_0082",
+      "c_0745",
+      "c_0588",
+      "c_0822",
+      "c_0838",
+      "c_0265",
+      "c_0903",
+      "c_0752",
+      "c_1050"
+    ]
+  },
+  {
+    "user_id": "u_070",
+    "big_five_scores": {
+      "openness": 0.826,
+      "conscientiousness": 0.912,
+      "extraversion": 0.449,
+      "agreeableness": 0.696,
+      "neuroticism": 0.505
+    },
+    "mbti_type": "INTJ",
+    "attention_score": 0.858,
+    "motivation_score": 0.943,
+    "response_time_ms": 270.4,
+    "history": [
+      "c_0117",
+      "c_0502",
+      "c_1149",
+      "c_0017",
+      "c_0317",
+      "c_0216",
+      "c_0596",
+      "c_0770",
+      "c_0325",
+      "c_1168",
+      "c_0818",
+      "c_0150",
+      "c_0457",
+      "c_0796",
+      "c_0947",
+      "c_0192",
+      "c_0715",
+      "c_0955",
+      "c_0960",
+      "c_1096"
+    ]
+  },
+  {
+    "user_id": "u_071",
+    "big_five_scores": {
+      "openness": 0.87,
+      "conscientiousness": 0.522,
+      "extraversion": 0.219,
+      "agreeableness": 0.735,
+      "neuroticism": 0.876
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.776,
+    "motivation_score": 0.35,
+    "response_time_ms": 607.9,
+    "history": [
+      "c_0702",
+      "c_0996",
+      "c_0436",
+      "c_0976",
+      "c_0235",
+      "c_0571",
+      "c_0931",
+      "c_0079",
+      "c_1117",
+      "c_0319"
+    ]
+  },
+  {
+    "user_id": "u_072",
+    "big_five_scores": {
+      "openness": 0.909,
+      "conscientiousness": 0.266,
+      "extraversion": 0.321,
+      "agreeableness": 0.605,
+      "neuroticism": 0.939
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.247,
+    "motivation_score": 0.806,
+    "response_time_ms": 1151.7,
+    "history": [
+      "c_0438",
+      "c_0111",
+      "c_0434",
+      "c_0047",
+      "c_0867",
+      "c_0553",
+      "c_0517",
+      "c_0361",
+      "c_0172",
+      "c_0291",
+      "c_0142",
+      "c_0561",
+      "c_0830",
+      "c_0168",
+      "c_0611"
+    ]
+  },
+  {
+    "user_id": "u_073",
+    "big_five_scores": {
+      "openness": 0.849,
+      "conscientiousness": 0.511,
+      "extraversion": 0.486,
+      "agreeableness": 0.321,
+      "neuroticism": 0.854
+    },
+    "mbti_type": "ESTP",
+    "attention_score": 0.823,
+    "motivation_score": 0.269,
+    "response_time_ms": 1283.9,
+    "history": [
+      "c_0609",
+      "c_0337",
+      "c_0407",
+      "c_0716",
+      "c_0859",
+      "c_0987",
+      "c_0974",
+      "c_1097",
+      "c_0330",
+      "c_0895"
+    ]
+  },
+  {
+    "user_id": "u_074",
+    "big_five_scores": {
+      "openness": 0.434,
+      "conscientiousness": 0.704,
+      "extraversion": 0.461,
+      "agreeableness": 0.158,
+      "neuroticism": 0.755
+    },
+    "mbti_type": "ESFJ",
+    "attention_score": 0.258,
+    "motivation_score": 0.701,
+    "response_time_ms": 947.5,
+    "history": [
+      "c_0649",
+      "c_0030",
+      "c_0309",
+      "c_0940",
+      "c_0303",
+      "c_1023",
+      "c_0233",
+      "c_0833",
+      "c_0539",
+      "c_1067"
+    ]
+  },
+  {
+    "user_id": "u_075",
+    "big_five_scores": {
+      "openness": 0.728,
+      "conscientiousness": 0.941,
+      "extraversion": 0.905,
+      "agreeableness": 0.836,
+      "neuroticism": 0.621
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.227,
+    "motivation_score": 0.759,
+    "response_time_ms": 441.4,
+    "history": [
+      "c_0341",
+      "c_0774",
+      "c_0443",
+      "c_0713",
+      "c_0430",
+      "c_0392",
+      "c_1182",
+      "c_0030",
+      "c_0759",
+      "c_0746",
+      "c_0034",
+      "c_0619",
+      "c_0629",
+      "c_1029",
+      "c_0256",
+      "c_1023",
+      "c_0934"
+    ]
+  },
+  {
+    "user_id": "u_076",
+    "big_five_scores": {
+      "openness": 0.481,
+      "conscientiousness": 0.431,
+      "extraversion": 0.813,
+      "agreeableness": 0.491,
+      "neuroticism": 0.927
+    },
+    "mbti_type": "INFJ",
+    "attention_score": 0.285,
+    "motivation_score": 0.332,
+    "response_time_ms": 725.5,
+    "history": [
+      "c_1133",
+      "c_0334",
+      "c_1112",
+      "c_0893",
+      "c_0782"
+    ]
+  },
+  {
+    "user_id": "u_077",
+    "big_five_scores": {
+      "openness": 0.378,
+      "conscientiousness": 0.678,
+      "extraversion": 0.694,
+      "agreeableness": 0.657,
+      "neuroticism": 0.682
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.947,
+    "motivation_score": 0.804,
+    "response_time_ms": 342.5,
+    "history": [
+      "c_0034",
+      "c_0843",
+      "c_0213",
+      "c_1017",
+      "c_1116",
+      "c_0205",
+      "c_0910",
+      "c_1031",
+      "c_1191",
+      "c_0067",
+      "c_0594",
+      "c_0862",
+      "c_0434",
+      "c_0457",
+      "c_0932",
+      "c_1130",
+      "c_0781",
+      "c_0235",
+      "c_0401",
+      "c_0962"
+    ]
+  },
+  {
+    "user_id": "u_078",
+    "big_five_scores": {
+      "openness": 0.91,
+      "conscientiousness": 0.43,
+      "extraversion": 0.785,
+      "agreeableness": 0.521,
+      "neuroticism": 0.867
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.206,
+    "motivation_score": 0.481,
+    "response_time_ms": 484.2,
+    "history": [
+      "c_0549",
+      "c_0542",
+      "c_0630",
+      "c_0850",
+      "c_0495",
+      "c_0009",
+      "c_0067",
+      "c_0032",
+      "c_0054"
+    ]
+  },
+  {
+    "user_id": "u_079",
+    "big_five_scores": {
+      "openness": 0.273,
+      "conscientiousness": 0.45,
+      "extraversion": 0.803,
+      "agreeableness": 0.806,
+      "neuroticism": 0.59
+    },
+    "mbti_type": "INFJ",
+    "attention_score": 0.328,
+    "motivation_score": 0.629,
+    "response_time_ms": 727.4,
+    "history": [
+      "c_0802",
+      "c_0395",
+      "c_0806",
+      "c_0106",
+      "c_1184",
+      "c_0879",
+      "c_0264",
+      "c_0800",
+      "c_0356",
+      "c_0826",
+      "c_0652",
+      "c_1060",
+      "c_0325",
+      "c_0896",
+      "c_0474",
+      "c_0204",
+      "c_0259"
+    ]
+  },
+  {
+    "user_id": "u_080",
+    "big_five_scores": {
+      "openness": 0.553,
+      "conscientiousness": 0.655,
+      "extraversion": 0.777,
+      "agreeableness": 0.824,
+      "neuroticism": 0.615
+    },
+    "mbti_type": "INTJ",
+    "attention_score": 0.828,
+    "motivation_score": 0.319,
+    "response_time_ms": 600.4,
+    "history": [
+      "c_0192",
+      "c_0053"
+    ]
+  },
+  {
+    "user_id": "u_081",
+    "big_five_scores": {
+      "openness": 0.5,
+      "conscientiousness": 0.653,
+      "extraversion": 0.625,
+      "agreeableness": 0.172,
+      "neuroticism": 0.687
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.629,
+    "motivation_score": 0.219,
+    "response_time_ms": 1086.3,
+    "history": [
+      "c_0734",
+      "c_0383",
+      "c_0491",
+      "c_0455",
+      "c_0609",
+      "c_0397",
+      "c_1097",
+      "c_0503",
+      "c_0775",
+      "c_0534",
+      "c_0106",
+      "c_0564",
+      "c_0170",
+      "c_0295"
+    ]
+  },
+  {
+    "user_id": "u_082",
+    "big_five_scores": {
+      "openness": 0.652,
+      "conscientiousness": 0.661,
+      "extraversion": 0.613,
+      "agreeableness": 0.233,
+      "neuroticism": 0.463
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.28,
+    "motivation_score": 0.412,
+    "response_time_ms": 1275.6,
+    "history": [
+      "c_0159",
+      "c_1013"
+    ]
+  },
+  {
+    "user_id": "u_083",
+    "big_five_scores": {
+      "openness": 0.826,
+      "conscientiousness": 0.88,
+      "extraversion": 0.316,
+      "agreeableness": 0.231,
+      "neuroticism": 0.766
+    },
+    "mbti_type": "ISTP",
+    "attention_score": 0.255,
+    "motivation_score": 0.919,
+    "response_time_ms": 310.0,
+    "history": [
+      "c_0769",
+      "c_0643",
+      "c_0924",
+      "c_0330",
+      "c_0369",
+      "c_0612",
+      "c_0021",
+      "c_0366",
+      "c_1162",
+      "c_0065",
+      "c_0241",
+      "c_0703",
+      "c_0711"
+    ]
+  },
+  {
+    "user_id": "u_084",
+    "big_five_scores": {
+      "openness": 0.537,
+      "conscientiousness": 0.641,
+      "extraversion": 0.587,
+      "agreeableness": 0.277,
+      "neuroticism": 0.718
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.345,
+    "motivation_score": 0.222,
+    "response_time_ms": 247.2,
+    "history": [
+      "c_0313",
+      "c_0443",
+      "c_0748",
+      "c_0236",
+      "c_0445",
+      "c_0061",
+      "c_0671",
+      "c_0284",
+      "c_0451",
+      "c_0171",
+      "c_0260",
+      "c_0549",
+      "c_0561",
+      "c_0987",
+      "c_0409",
+      "c_0189"
+    ]
+  },
+  {
+    "user_id": "u_085",
+    "big_five_scores": {
+      "openness": 0.429,
+      "conscientiousness": 0.591,
+      "extraversion": 0.385,
+      "agreeableness": 0.746,
+      "neuroticism": 0.496
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.892,
+    "motivation_score": 0.388,
+    "response_time_ms": 453.5,
+    "history": [
+      "c_0805",
+      "c_0211",
+      "c_1196",
+      "c_0639",
+      "c_0340",
+      "c_0422",
+      "c_1000",
+      "c_0888"
+    ]
+  },
+  {
+    "user_id": "u_086",
+    "big_five_scores": {
+      "openness": 0.856,
+      "conscientiousness": 0.489,
+      "extraversion": 0.748,
+      "agreeableness": 0.803,
+      "neuroticism": 0.611
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.522,
+    "motivation_score": 0.625,
+    "response_time_ms": 661.3,
+    "history": [
+      "c_0132",
+      "c_0921",
+      "c_0343",
+      "c_0070",
+      "c_1048",
+      "c_0519",
+      "c_0840",
+      "c_0602",
+      "c_1087",
+      "c_0722",
+      "c_0816",
+      "c_0062",
+      "c_0235",
+      "c_0369",
+      "c_0661",
+      "c_0880",
+      "c_0381",
+      "c_0733",
+      "c_0503",
+      "c_0149"
+    ]
+  },
+  {
+    "user_id": "u_087",
+    "big_five_scores": {
+      "openness": 0.322,
+      "conscientiousness": 0.447,
+      "extraversion": 0.266,
+      "agreeableness": 0.402,
+      "neuroticism": 0.059
+    },
+    "mbti_type": "ENTJ",
+    "attention_score": 0.738,
+    "motivation_score": 0.36,
+    "response_time_ms": 889.6,
+    "history": [
+      "c_0477",
+      "c_1151",
+      "c_0136",
+      "c_0790",
+      "c_0581",
+      "c_0435",
+      "c_1080",
+      "c_0446",
+      "c_0211",
+      "c_1149"
+    ]
+  },
+  {
+    "user_id": "u_088",
+    "big_five_scores": {
+      "openness": 0.372,
+      "conscientiousness": 0.636,
+      "extraversion": 0.857,
+      "agreeableness": 0.838,
+      "neuroticism": 0.117
+    },
+    "mbti_type": "ISTP",
+    "attention_score": 0.712,
+    "motivation_score": 0.526,
+    "response_time_ms": 1179.8,
+    "history": [
+      "c_0404",
+      "c_0102",
+      "c_1012",
+      "c_1022",
+      "c_0096",
+      "c_0563"
+    ]
+  },
+  {
+    "user_id": "u_089",
+    "big_five_scores": {
+      "openness": 0.487,
+      "conscientiousness": 0.249,
+      "extraversion": 0.287,
+      "agreeableness": 0.411,
+      "neuroticism": 0.395
+    },
+    "mbti_type": "ENTJ",
+    "attention_score": 0.414,
+    "motivation_score": 0.683,
+    "response_time_ms": 1230.2,
+    "history": []
+  },
+  {
+    "user_id": "u_090",
+    "big_five_scores": {
+      "openness": 0.879,
+      "conscientiousness": 0.377,
+      "extraversion": 0.823,
+      "agreeableness": 0.472,
+      "neuroticism": 0.856
+    },
+    "mbti_type": "ENTP",
+    "attention_score": 0.453,
+    "motivation_score": 0.212,
+    "response_time_ms": 774.5,
+    "history": [
+      "c_0617",
+      "c_0563",
+      "c_0650",
+      "c_0709",
+      "c_0820",
+      "c_0164",
+      "c_1140",
+      "c_0642",
+      "c_1012",
+      "c_0097",
+      "c_0806",
+      "c_0612",
+      "c_0931"
+    ]
+  },
+  {
+    "user_id": "u_091",
+    "big_five_scores": {
+      "openness": 0.545,
+      "conscientiousness": 0.663,
+      "extraversion": 0.878,
+      "agreeableness": 0.824,
+      "neuroticism": 0.894
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.222,
+    "motivation_score": 0.236,
+    "response_time_ms": 232.3,
+    "history": [
+      "c_0662",
+      "c_0893",
+      "c_0464"
+    ]
+  },
+  {
+    "user_id": "u_092",
+    "big_five_scores": {
+      "openness": 0.286,
+      "conscientiousness": 0.303,
+      "extraversion": 0.872,
+      "agreeableness": 0.445,
+      "neuroticism": 0.863
+    },
+    "mbti_type": "ENTJ",
+    "attention_score": 0.901,
+    "motivation_score": 0.851,
+    "response_time_ms": 526.4,
+    "history": [
+      "c_0227"
+    ]
+  },
+  {
+    "user_id": "u_093",
+    "big_five_scores": {
+      "openness": 0.188,
+      "conscientiousness": 0.393,
+      "extraversion": 0.361,
+      "agreeableness": 0.7,
+      "neuroticism": 0.762
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.402,
+    "motivation_score": 0.328,
+    "response_time_ms": 382.6,
+    "history": [
+      "c_0246",
+      "c_0259",
+      "c_0654",
+      "c_0304",
+      "c_1197",
+      "c_0847",
+      "c_0916",
+      "c_0251",
+      "c_1069",
+      "c_1081",
+      "c_0493",
+      "c_1184",
+      "c_0979",
+      "c_1004"
+    ]
+  },
+  {
+    "user_id": "u_094",
+    "big_five_scores": {
+      "openness": 0.931,
+      "conscientiousness": 0.408,
+      "extraversion": 0.735,
+      "agreeableness": 0.331,
+      "neuroticism": 0.287
+    },
+    "mbti_type": "INTP",
+    "attention_score": 0.734,
+    "motivation_score": 0.465,
+    "response_time_ms": 1205.9,
+    "history": [
+      "c_0422",
+      "c_0160",
+      "c_0154",
+      "c_1013",
+      "c_0124",
+      "c_0436",
+      "c_0027"
+    ]
+  },
+  {
+    "user_id": "u_095",
+    "big_five_scores": {
+      "openness": 0.686,
+      "conscientiousness": 0.525,
+      "extraversion": 0.458,
+      "agreeableness": 0.54,
+      "neuroticism": 0.356
+    },
+    "mbti_type": "INFJ",
+    "attention_score": 0.77,
+    "motivation_score": 0.434,
+    "response_time_ms": 755.7,
+    "history": [
+      "c_1034",
+      "c_0217",
+      "c_0267",
+      "c_0449"
+    ]
+  },
+  {
+    "user_id": "u_096",
+    "big_five_scores": {
+      "openness": 0.883,
+      "conscientiousness": 0.458,
+      "extraversion": 0.512,
+      "agreeableness": 0.646,
+      "neuroticism": 0.233
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.341,
+    "motivation_score": 0.408,
+    "response_time_ms": 413.8,
+    "history": [
+      "c_1183",
+      "c_0210",
+      "c_0302",
+      "c_0945",
+      "c_0220",
+      "c_0226",
+      "c_0493",
+      "c_0034",
+      "c_0944"
+    ]
+  },
+  {
+    "user_id": "u_097",
+    "big_five_scores": {
+      "openness": 0.3,
+      "conscientiousness": 0.173,
+      "extraversion": 0.68,
+      "agreeableness": 0.512,
+      "neuroticism": 0.289
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.466,
+    "motivation_score": 0.359,
+    "response_time_ms": 688.4,
+    "history": [
+      "c_1041",
+      "c_0684",
+      "c_0109",
+      "c_0904",
+      "c_0559",
+      "c_0758",
+      "c_0201",
+      "c_0101",
+      "c_0784",
+      "c_0866",
+      "c_0398",
+      "c_0603",
+      "c_0388"
+    ]
+  },
+  {
+    "user_id": "u_098",
+    "big_five_scores": {
+      "openness": 0.472,
+      "conscientiousness": 0.625,
+      "extraversion": 0.574,
+      "agreeableness": 0.545,
+      "neuroticism": 0.44
+    },
+    "mbti_type": "ENTP",
+    "attention_score": 0.685,
+    "motivation_score": 0.919,
+    "response_time_ms": 479.1,
+    "history": [
+      "c_0074"
+    ]
+  },
+  {
+    "user_id": "u_099",
+    "big_five_scores": {
+      "openness": 0.61,
+      "conscientiousness": 0.341,
+      "extraversion": 0.576,
+      "agreeableness": 0.37,
+      "neuroticism": 0.844
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.494,
+    "motivation_score": 0.276,
+    "response_time_ms": 1086.0,
+    "history": [
+      "c_1015",
+      "c_0422",
+      "c_0351",
+      "c_0417",
+      "c_0712",
+      "c_0590",
+      "c_0007",
+      "c_0194"
+    ]
+  },
+  {
+    "user_id": "u_100",
+    "big_five_scores": {
+      "openness": 0.298,
+      "conscientiousness": 0.876,
+      "extraversion": 0.648,
+      "agreeableness": 0.741,
+      "neuroticism": 0.817
+    },
+    "mbti_type": "ESFP",
+    "attention_score": 0.328,
+    "motivation_score": 0.711,
+    "response_time_ms": 416.6,
+    "history": [
+      "c_0933",
+      "c_0291",
+      "c_0027",
+      "c_0972",
+      "c_0877",
+      "c_0685",
+      "c_0043",
+      "c_0364",
+      "c_0541",
+      "c_0158"
+    ]
+  },
+  {
+    "user_id": "u_101",
+    "big_five_scores": {
+      "openness": 0.287,
+      "conscientiousness": 0.758,
+      "extraversion": 0.158,
+      "agreeableness": 0.432,
+      "neuroticism": 0.476
+    },
+    "mbti_type": "ENTJ",
+    "attention_score": 0.566,
+    "motivation_score": 0.386,
+    "response_time_ms": 349.1,
+    "history": []
+  },
+  {
+    "user_id": "u_102",
+    "big_five_scores": {
+      "openness": 0.604,
+      "conscientiousness": 0.942,
+      "extraversion": 0.818,
+      "agreeableness": 0.57,
+      "neuroticism": 0.201
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.781,
+    "motivation_score": 0.275,
+    "response_time_ms": 1168.6,
+    "history": [
+      "c_0927",
+      "c_1005",
+      "c_0719",
+      "c_1118",
+      "c_0528",
+      "c_0997",
+      "c_0520",
+      "c_0747",
+      "c_0940",
+      "c_0028"
+    ]
+  },
+  {
+    "user_id": "u_103",
+    "big_five_scores": {
+      "openness": 0.812,
+      "conscientiousness": 0.391,
+      "extraversion": 0.417,
+      "agreeableness": 0.564,
+      "neuroticism": 0.648
+    },
+    "mbti_type": "ISFP",
+    "attention_score": 0.285,
+    "motivation_score": 0.714,
+    "response_time_ms": 1079.3,
+    "history": []
+  },
+  {
+    "user_id": "u_104",
+    "big_five_scores": {
+      "openness": 0.268,
+      "conscientiousness": 0.478,
+      "extraversion": 0.326,
+      "agreeableness": 0.945,
+      "neuroticism": 0.371
+    },
+    "mbti_type": "ENTJ",
+    "attention_score": 0.383,
+    "motivation_score": 0.756,
+    "response_time_ms": 1368.5,
+    "history": [
+      "c_0423",
+      "c_0183",
+      "c_0397",
+      "c_0774",
+      "c_0222",
+      "c_0561",
+      "c_1116",
+      "c_0921",
+      "c_1080",
+      "c_0359",
+      "c_0544"
+    ]
+  },
+  {
+    "user_id": "u_105",
+    "big_five_scores": {
+      "openness": 0.878,
+      "conscientiousness": 0.429,
+      "extraversion": 0.415,
+      "agreeableness": 0.621,
+      "neuroticism": 0.901
+    },
+    "mbti_type": "INTJ",
+    "attention_score": 0.432,
+    "motivation_score": 0.231,
+    "response_time_ms": 833.7,
+    "history": [
+      "c_0252",
+      "c_0888",
+      "c_0932",
+      "c_1161",
+      "c_0711",
+      "c_0591",
+      "c_0226",
+      "c_0018",
+      "c_1022",
+      "c_0302"
+    ]
+  },
+  {
+    "user_id": "u_106",
+    "big_five_scores": {
+      "openness": 0.523,
+      "conscientiousness": 0.27,
+      "extraversion": 0.923,
+      "agreeableness": 0.649,
+      "neuroticism": 0.648
+    },
+    "mbti_type": "INTP",
+    "attention_score": 0.565,
+    "motivation_score": 0.248,
+    "response_time_ms": 567.8,
+    "history": [
+      "c_0084",
+      "c_0446",
+      "c_0580",
+      "c_0253",
+      "c_0109",
+      "c_1001",
+      "c_0627",
+      "c_0011",
+      "c_0882",
+      "c_0722",
+      "c_0002",
+      "c_0103",
+      "c_0515",
+      "c_0283"
+    ]
+  },
+  {
+    "user_id": "u_107",
+    "big_five_scores": {
+      "openness": 0.43,
+      "conscientiousness": 0.377,
+      "extraversion": 0.837,
+      "agreeableness": 0.682,
+      "neuroticism": 0.742
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.915,
+    "motivation_score": 0.735,
+    "response_time_ms": 388.3,
+    "history": [
+      "c_0885",
+      "c_1199",
+      "c_0166",
+      "c_0596",
+      "c_0449",
+      "c_0066"
+    ]
+  },
+  {
+    "user_id": "u_108",
+    "big_five_scores": {
+      "openness": 0.529,
+      "conscientiousness": 0.434,
+      "extraversion": 0.799,
+      "agreeableness": 0.66,
+      "neuroticism": 0.43
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.87,
+    "motivation_score": 0.89,
+    "response_time_ms": 924.5,
+    "history": [
+      "c_1155",
+      "c_0893",
+      "c_0661",
+      "c_1185",
+      "c_0286"
+    ]
+  },
+  {
+    "user_id": "u_109",
+    "big_five_scores": {
+      "openness": 0.697,
+      "conscientiousness": 0.31,
+      "extraversion": 0.259,
+      "agreeableness": 0.593,
+      "neuroticism": 0.321
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.423,
+    "motivation_score": 0.895,
+    "response_time_ms": 764.2,
+    "history": [
+      "c_0770",
+      "c_0895",
+      "c_0197",
+      "c_0284",
+      "c_1079"
+    ]
+  },
+  {
+    "user_id": "u_110",
+    "big_five_scores": {
+      "openness": 0.504,
+      "conscientiousness": 0.401,
+      "extraversion": 0.898,
+      "agreeableness": 0.72,
+      "neuroticism": 0.472
+    },
+    "mbti_type": "ISTP",
+    "attention_score": 0.55,
+    "motivation_score": 0.921,
+    "response_time_ms": 764.3,
+    "history": [
+      "c_0055",
+      "c_0863",
+      "c_0182",
+      "c_0288",
+      "c_0620",
+      "c_0497",
+      "c_1189",
+      "c_1049",
+      "c_0765",
+      "c_0261",
+      "c_1113",
+      "c_1159",
+      "c_0601",
+      "c_0110",
+      "c_0805",
+      "c_0258",
+      "c_0826"
+    ]
+  },
+  {
+    "user_id": "u_111",
+    "big_five_scores": {
+      "openness": 0.686,
+      "conscientiousness": 0.52,
+      "extraversion": 0.76,
+      "agreeableness": 0.564,
+      "neuroticism": 0.805
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.241,
+    "motivation_score": 0.822,
+    "response_time_ms": 986.9,
+    "history": [
+      "c_0200",
+      "c_0596",
+      "c_1159",
+      "c_0987",
+      "c_0679",
+      "c_0125",
+      "c_0249",
+      "c_1198",
+      "c_1047",
+      "c_0109"
+    ]
+  },
+  {
+    "user_id": "u_112",
+    "big_five_scores": {
+      "openness": 0.711,
+      "conscientiousness": 0.563,
+      "extraversion": 0.6,
+      "agreeableness": 0.924,
+      "neuroticism": 0.173
+    },
+    "mbti_type": "ESTJ",
+    "attention_score": 0.426,
+    "motivation_score": 0.433,
+    "response_time_ms": 1387.2,
+    "history": []
+  },
+  {
+    "user_id": "u_113",
+    "big_five_scores": {
+      "openness": 0.794,
+      "conscientiousness": 0.649,
+      "extraversion": 0.311,
+      "agreeableness": 0.204,
+      "neuroticism": 0.188
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.59,
+    "motivation_score": 0.385,
+    "response_time_ms": 342.3,
+    "history": []
+  },
+  {
+    "user_id": "u_114",
+    "big_five_scores": {
+      "openness": 0.816,
+      "conscientiousness": 0.505,
+      "extraversion": 0.195,
+      "agreeableness": 0.247,
+      "neuroticism": 0.414
+    },
+    "mbti_type": "ESTP",
+    "attention_score": 0.815,
+    "motivation_score": 0.831,
+    "response_time_ms": 865.1,
+    "history": [
+      "c_0900",
+      "c_0253",
+      "c_0886",
+      "c_0300",
+      "c_0045",
+      "c_0379",
+      "c_0291",
+      "c_0493",
+      "c_0350",
+      "c_1048",
+      "c_1120",
+      "c_0411",
+      "c_0976",
+      "c_0984",
+      "c_0594",
+      "c_0593",
+      "c_0205",
+      "c_1010",
+      "c_0753"
+    ]
+  },
+  {
+    "user_id": "u_115",
+    "big_five_scores": {
+      "openness": 0.684,
+      "conscientiousness": 0.463,
+      "extraversion": 0.708,
+      "agreeableness": 0.236,
+      "neuroticism": 0.425
+    },
+    "mbti_type": "ISTP",
+    "attention_score": 0.311,
+    "motivation_score": 0.413,
+    "response_time_ms": 361.7,
+    "history": [
+      "c_0023",
+      "c_1189",
+      "c_0621",
+      "c_0070",
+      "c_0911",
+      "c_0088",
+      "c_0727",
+      "c_0286",
+      "c_0959",
+      "c_0939",
+      "c_0568",
+      "c_0019"
+    ]
+  },
+  {
+    "user_id": "u_116",
+    "big_five_scores": {
+      "openness": 0.935,
+      "conscientiousness": 0.436,
+      "extraversion": 0.835,
+      "agreeableness": 0.553,
+      "neuroticism": 0.364
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.585,
+    "motivation_score": 0.331,
+    "response_time_ms": 398.7,
+    "history": [
+      "c_1154",
+      "c_0695",
+      "c_0942",
+      "c_0287",
+      "c_0571",
+      "c_0621",
+      "c_0807",
+      "c_0140",
+      "c_0991",
+      "c_0772",
+      "c_0967",
+      "c_0370",
+      "c_1180",
+      "c_1039",
+      "c_1077",
+      "c_0531",
+      "c_0266",
+      "c_0664",
+      "c_1190",
+      "c_0713"
+    ]
+  },
+  {
+    "user_id": "u_117",
+    "big_five_scores": {
+      "openness": 0.618,
+      "conscientiousness": 0.814,
+      "extraversion": 0.204,
+      "agreeableness": 0.174,
+      "neuroticism": 0.71
+    },
+    "mbti_type": "ESFP",
+    "attention_score": 0.272,
+    "motivation_score": 0.28,
+    "response_time_ms": 1322.4,
+    "history": [
+      "c_0663",
+      "c_0475",
+      "c_0485",
+      "c_0216",
+      "c_0357",
+      "c_0787",
+      "c_0861",
+      "c_0132",
+      "c_0127",
+      "c_0513",
+      "c_0235",
+      "c_0077",
+      "c_0150",
+      "c_0905",
+      "c_0767"
+    ]
+  },
+  {
+    "user_id": "u_118",
+    "big_five_scores": {
+      "openness": 0.635,
+      "conscientiousness": 0.823,
+      "extraversion": 0.889,
+      "agreeableness": 0.407,
+      "neuroticism": 0.679
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.3,
+    "motivation_score": 0.678,
+    "response_time_ms": 876.6,
+    "history": [
+      "c_0518",
+      "c_1006",
+      "c_0897",
+      "c_0586",
+      "c_0462",
+      "c_0413"
+    ]
+  },
+  {
+    "user_id": "u_119",
+    "big_five_scores": {
+      "openness": 0.744,
+      "conscientiousness": 0.497,
+      "extraversion": 0.573,
+      "agreeableness": 0.782,
+      "neuroticism": 0.127
+    },
+    "mbti_type": "ENTJ",
+    "attention_score": 0.672,
+    "motivation_score": 0.701,
+    "response_time_ms": 460.2,
+    "history": [
+      "c_0011",
+      "c_0737",
+      "c_0836",
+      "c_1164"
+    ]
+  },
+  {
+    "user_id": "u_120",
+    "big_five_scores": {
+      "openness": 0.587,
+      "conscientiousness": 0.208,
+      "extraversion": 0.298,
+      "agreeableness": 0.734,
+      "neuroticism": 0.87
+    },
+    "mbti_type": "ISFP",
+    "attention_score": 0.343,
+    "motivation_score": 0.356,
+    "response_time_ms": 1196.5,
+    "history": [
+      "c_0722",
+      "c_0731",
+      "c_1145",
+      "c_0283",
+      "c_0138",
+      "c_0899",
+      "c_0876",
+      "c_0771",
+      "c_0146",
+      "c_1166",
+      "c_0161",
+      "c_0261",
+      "c_1060",
+      "c_0611",
+      "c_0207",
+      "c_0242"
+    ]
+  },
+  {
+    "user_id": "u_121",
+    "big_five_scores": {
+      "openness": 0.549,
+      "conscientiousness": 0.191,
+      "extraversion": 0.582,
+      "agreeableness": 0.168,
+      "neuroticism": 0.789
+    },
+    "mbti_type": "INTP",
+    "attention_score": 0.892,
+    "motivation_score": 0.389,
+    "response_time_ms": 1049.9,
+    "history": [
+      "c_0324",
+      "c_0590"
+    ]
+  },
+  {
+    "user_id": "u_122",
+    "big_five_scores": {
+      "openness": 0.21,
+      "conscientiousness": 0.61,
+      "extraversion": 0.833,
+      "agreeableness": 0.895,
+      "neuroticism": 0.5
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.664,
+    "motivation_score": 0.609,
+    "response_time_ms": 1272.3,
+    "history": [
+      "c_0965",
+      "c_0539",
+      "c_0062",
+      "c_0067",
+      "c_0693",
+      "c_0864",
+      "c_0535",
+      "c_0411",
+      "c_0686",
+      "c_0122",
+      "c_0286",
+      "c_0419",
+      "c_1121",
+      "c_0676",
+      "c_0128",
+      "c_0483",
+      "c_1011",
+      "c_0150"
+    ]
+  },
+  {
+    "user_id": "u_123",
+    "big_five_scores": {
+      "openness": 0.795,
+      "conscientiousness": 0.601,
+      "extraversion": 0.638,
+      "agreeableness": 0.818,
+      "neuroticism": 0.777
+    },
+    "mbti_type": "INFP",
+    "attention_score": 0.936,
+    "motivation_score": 0.912,
+    "response_time_ms": 925.8,
+    "history": [
+      "c_0166",
+      "c_1130",
+      "c_0981",
+      "c_0266",
+      "c_0555",
+      "c_0086",
+      "c_0214",
+      "c_0073",
+      "c_1018",
+      "c_1040",
+      "c_0462",
+      "c_0718",
+      "c_0884",
+      "c_0979",
+      "c_0622",
+      "c_0467",
+      "c_0044",
+      "c_0114",
+      "c_0054"
+    ]
+  },
+  {
+    "user_id": "u_124",
+    "big_five_scores": {
+      "openness": 0.769,
+      "conscientiousness": 0.799,
+      "extraversion": 0.577,
+      "agreeableness": 0.838,
+      "neuroticism": 0.664
+    },
+    "mbti_type": "ENTJ",
+    "attention_score": 0.614,
+    "motivation_score": 0.239,
+    "response_time_ms": 1123.5,
+    "history": [
+      "c_0881",
+      "c_0875",
+      "c_1126",
+      "c_0283"
+    ]
+  },
+  {
+    "user_id": "u_125",
+    "big_five_scores": {
+      "openness": 0.242,
+      "conscientiousness": 0.244,
+      "extraversion": 0.643,
+      "agreeableness": 0.873,
+      "neuroticism": 0.367
+    },
+    "mbti_type": "INFJ",
+    "attention_score": 0.527,
+    "motivation_score": 0.243,
+    "response_time_ms": 493.8,
+    "history": [
+      "c_0021",
+      "c_0466",
+      "c_0846",
+      "c_1099",
+      "c_1164",
+      "c_0094",
+      "c_0031",
+      "c_0512",
+      "c_0117",
+      "c_0157",
+      "c_0260",
+      "c_0899",
+      "c_0370",
+      "c_0579",
+      "c_0090",
+      "c_0644",
+      "c_0717",
+      "c_0501"
+    ]
+  },
+  {
+    "user_id": "u_126",
+    "big_five_scores": {
+      "openness": 0.948,
+      "conscientiousness": 0.254,
+      "extraversion": 0.468,
+      "agreeableness": 0.676,
+      "neuroticism": 0.641
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.388,
+    "motivation_score": 0.608,
+    "response_time_ms": 804.0,
+    "history": [
+      "c_0452",
+      "c_0909",
+      "c_0620",
+      "c_0752",
+      "c_1130",
+      "c_0600",
+      "c_0501",
+      "c_1079",
+      "c_0548",
+      "c_0654",
+      "c_1109"
+    ]
+  },
+  {
+    "user_id": "u_127",
+    "big_five_scores": {
+      "openness": 0.553,
+      "conscientiousness": 0.193,
+      "extraversion": 0.87,
+      "agreeableness": 0.714,
+      "neuroticism": 0.61
+    },
+    "mbti_type": "INTJ",
+    "attention_score": 0.259,
+    "motivation_score": 0.884,
+    "response_time_ms": 1212.9,
+    "history": [
+      "c_0473",
+      "c_0625",
+      "c_1133",
+      "c_0432",
+      "c_0252",
+      "c_0763",
+      "c_0291",
+      "c_0074",
+      "c_0482",
+      "c_0902",
+      "c_0930",
+      "c_0234",
+      "c_0044",
+      "c_1022",
+      "c_0070",
+      "c_0554"
+    ]
+  },
+  {
+    "user_id": "u_128",
+    "big_five_scores": {
+      "openness": 0.372,
+      "conscientiousness": 0.457,
+      "extraversion": 0.812,
+      "agreeableness": 0.218,
+      "neuroticism": 0.301
+    },
+    "mbti_type": "ISTJ",
+    "attention_score": 0.572,
+    "motivation_score": 0.847,
+    "response_time_ms": 673.9,
+    "history": [
+      "c_0460"
+    ]
+  },
+  {
+    "user_id": "u_129",
+    "big_five_scores": {
+      "openness": 0.315,
+      "conscientiousness": 0.298,
+      "extraversion": 0.495,
+      "agreeableness": 0.192,
+      "neuroticism": 0.325
+    },
+    "mbti_type": "INFP",
+    "attention_score": 0.903,
+    "motivation_score": 0.883,
+    "response_time_ms": 1110.3,
+    "history": [
+      "c_0538",
+      "c_0444",
+      "c_0057",
+      "c_0699",
+      "c_0889",
+      "c_0876",
+      "c_0117",
+      "c_0224",
+      "c_1134",
+      "c_0795"
+    ]
+  },
+  {
+    "user_id": "u_130",
+    "big_five_scores": {
+      "openness": 0.912,
+      "conscientiousness": 0.896,
+      "extraversion": 0.38,
+      "agreeableness": 0.943,
+      "neuroticism": 0.531
+    },
+    "mbti_type": "ISTP",
+    "attention_score": 0.629,
+    "motivation_score": 0.626,
+    "response_time_ms": 832.3,
+    "history": [
+      "c_0781",
+      "c_0958",
+      "c_0488",
+      "c_0271",
+      "c_0032"
+    ]
+  },
+  {
+    "user_id": "u_131",
+    "big_five_scores": {
+      "openness": 0.375,
+      "conscientiousness": 0.696,
+      "extraversion": 0.37,
+      "agreeableness": 0.949,
+      "neuroticism": 0.744
+    },
+    "mbti_type": "INTP",
+    "attention_score": 0.453,
+    "motivation_score": 0.496,
+    "response_time_ms": 946.3,
+    "history": [
+      "c_0551",
+      "c_0514",
+      "c_0026",
+      "c_0255",
+      "c_0629",
+      "c_1165",
+      "c_0658",
+      "c_0542",
+      "c_0367",
+      "c_0909",
+      "c_0948"
+    ]
+  },
+  {
+    "user_id": "u_132",
+    "big_five_scores": {
+      "openness": 0.164,
+      "conscientiousness": 0.157,
+      "extraversion": 0.18,
+      "agreeableness": 0.437,
+      "neuroticism": 0.624
+    },
+    "mbti_type": "ESFJ",
+    "attention_score": 0.506,
+    "motivation_score": 0.635,
+    "response_time_ms": 313.9,
+    "history": [
+      "c_1130",
+      "c_0644",
+      "c_0132",
+      "c_0903",
+      "c_0369",
+      "c_0529",
+      "c_0566",
+      "c_0532",
+      "c_1014",
+      "c_0261",
+      "c_0466",
+      "c_0358",
+      "c_0301",
+      "c_0102",
+      "c_0477",
+      "c_0235",
+      "c_0079",
+      "c_0378",
+      "c_1038"
+    ]
+  },
+  {
+    "user_id": "u_133",
+    "big_five_scores": {
+      "openness": 0.838,
+      "conscientiousness": 0.614,
+      "extraversion": 0.184,
+      "agreeableness": 0.724,
+      "neuroticism": 0.105
+    },
+    "mbti_type": "INTJ",
+    "attention_score": 0.931,
+    "motivation_score": 0.212,
+    "response_time_ms": 1217.0,
+    "history": [
+      "c_1107",
+      "c_0092",
+      "c_0481",
+      "c_0717",
+      "c_0224",
+      "c_0159",
+      "c_1039",
+      "c_0909",
+      "c_0232",
+      "c_1047",
+      "c_0486"
+    ]
+  },
+  {
+    "user_id": "u_134",
+    "big_five_scores": {
+      "openness": 0.313,
+      "conscientiousness": 0.606,
+      "extraversion": 0.813,
+      "agreeableness": 0.695,
+      "neuroticism": 0.114
+    },
+    "mbti_type": "ISTP",
+    "attention_score": 0.857,
+    "motivation_score": 0.307,
+    "response_time_ms": 605.3,
+    "history": [
+      "c_0687",
+      "c_0836",
+      "c_0768",
+      "c_0964",
+      "c_0603",
+      "c_0064",
+      "c_0329",
+      "c_0755",
+      "c_0092",
+      "c_0596",
+      "c_0308"
+    ]
+  },
+  {
+    "user_id": "u_135",
+    "big_five_scores": {
+      "openness": 0.879,
+      "conscientiousness": 0.17,
+      "extraversion": 0.637,
+      "agreeableness": 0.796,
+      "neuroticism": 0.51
+    },
+    "mbti_type": "INFP",
+    "attention_score": 0.905,
+    "motivation_score": 0.484,
+    "response_time_ms": 907.6,
+    "history": [
+      "c_0781",
+      "c_0161",
+      "c_0159",
+      "c_0460"
+    ]
+  },
+  {
+    "user_id": "u_136",
+    "big_five_scores": {
+      "openness": 0.602,
+      "conscientiousness": 0.948,
+      "extraversion": 0.654,
+      "agreeableness": 0.737,
+      "neuroticism": 0.535
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.836,
+    "motivation_score": 0.596,
+    "response_time_ms": 280.7,
+    "history": [
+      "c_1075",
+      "c_1066",
+      "c_0904",
+      "c_0650",
+      "c_0552",
+      "c_0400",
+      "c_1179",
+      "c_0601",
+      "c_0500",
+      "c_0674",
+      "c_0498",
+      "c_0742",
+      "c_0473",
+      "c_0934",
+      "c_0645"
+    ]
+  },
+  {
+    "user_id": "u_137",
+    "big_five_scores": {
+      "openness": 0.749,
+      "conscientiousness": 0.242,
+      "extraversion": 0.343,
+      "agreeableness": 0.736,
+      "neuroticism": 0.842
+    },
+    "mbti_type": "INFP",
+    "attention_score": 0.26,
+    "motivation_score": 0.62,
+    "response_time_ms": 310.2,
+    "history": [
+      "c_0992",
+      "c_0472",
+      "c_0920",
+      "c_0858",
+      "c_0471",
+      "c_1167",
+      "c_0257",
+      "c_1102",
+      "c_0502",
+      "c_0835",
+      "c_1198"
+    ]
+  },
+  {
+    "user_id": "u_138",
+    "big_five_scores": {
+      "openness": 0.683,
+      "conscientiousness": 0.634,
+      "extraversion": 0.787,
+      "agreeableness": 0.423,
+      "neuroticism": 0.156
+    },
+    "mbti_type": "ISTP",
+    "attention_score": 0.516,
+    "motivation_score": 0.937,
+    "response_time_ms": 899.7,
+    "history": [
+      "c_0406",
+      "c_0369",
+      "c_0930",
+      "c_0032",
+      "c_0342",
+      "c_0248",
+      "c_0858",
+      "c_0540",
+      "c_1136",
+      "c_0963",
+      "c_0207",
+      "c_0259",
+      "c_0070",
+      "c_0884",
+      "c_0050",
+      "c_0150",
+      "c_0272",
+      "c_1055",
+      "c_1085",
+      "c_0795"
+    ]
+  },
+  {
+    "user_id": "u_139",
+    "big_five_scores": {
+      "openness": 0.873,
+      "conscientiousness": 0.433,
+      "extraversion": 0.472,
+      "agreeableness": 0.596,
+      "neuroticism": 0.691
+    },
+    "mbti_type": "ENFP",
+    "attention_score": 0.453,
+    "motivation_score": 0.819,
+    "response_time_ms": 617.2,
+    "history": [
+      "c_0221",
+      "c_0093",
+      "c_0152",
+      "c_0727",
+      "c_0920",
+      "c_0838",
+      "c_0922",
+      "c_0893",
+      "c_0593",
+      "c_0978",
+      "c_0276",
+      "c_0376",
+      "c_1044",
+      "c_0172",
+      "c_0312",
+      "c_0016",
+      "c_0758",
+      "c_0929",
+      "c_0777"
+    ]
+  },
+  {
+    "user_id": "u_140",
+    "big_five_scores": {
+      "openness": 0.406,
+      "conscientiousness": 0.291,
+      "extraversion": 0.728,
+      "agreeableness": 0.373,
+      "neuroticism": 0.746
+    },
+    "mbti_type": "ESFP",
+    "attention_score": 0.423,
+    "motivation_score": 0.456,
+    "response_time_ms": 885.7,
+    "history": [
+      "c_1188",
+      "c_1041",
+      "c_0874",
+      "c_0585",
+      "c_0662",
+      "c_0787",
+      "c_0653",
+      "c_0366",
+      "c_0294",
+      "c_0086",
+      "c_0432",
+      "c_0882",
+      "c_1064",
+      "c_0570",
+      "c_1178",
+      "c_0644"
+    ]
+  },
+  {
+    "user_id": "u_141",
+    "big_five_scores": {
+      "openness": 0.23,
+      "conscientiousness": 0.378,
+      "extraversion": 0.245,
+      "agreeableness": 0.369,
+      "neuroticism": 0.445
+    },
+    "mbti_type": "ESTP",
+    "attention_score": 0.416,
+    "motivation_score": 0.888,
+    "response_time_ms": 1386.8,
+    "history": [
+      "c_0475",
+      "c_0571",
+      "c_0289"
+    ]
+  },
+  {
+    "user_id": "u_142",
+    "big_five_scores": {
+      "openness": 0.227,
+      "conscientiousness": 0.592,
+      "extraversion": 0.557,
+      "agreeableness": 0.285,
+      "neuroticism": 0.589
+    },
+    "mbti_type": "ENTP",
+    "attention_score": 0.92,
+    "motivation_score": 0.605,
+    "response_time_ms": 1162.8,
+    "history": []
+  },
+  {
+    "user_id": "u_143",
+    "big_five_scores": {
+      "openness": 0.541,
+      "conscientiousness": 0.808,
+      "extraversion": 0.446,
+      "agreeableness": 0.375,
+      "neuroticism": 0.903
+    },
+    "mbti_type": "ISTP",
+    "attention_score": 0.749,
+    "motivation_score": 0.591,
+    "response_time_ms": 1200.6,
+    "history": [
+      "c_0225",
+      "c_0246",
+      "c_0911",
+      "c_0886",
+      "c_1011",
+      "c_0539",
+      "c_0178",
+      "c_0281",
+      "c_0571"
+    ]
+  },
+  {
+    "user_id": "u_144",
+    "big_five_scores": {
+      "openness": 0.735,
+      "conscientiousness": 0.243,
+      "extraversion": 0.433,
+      "agreeableness": 0.213,
+      "neuroticism": 0.764
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.445,
+    "motivation_score": 0.58,
+    "response_time_ms": 545.8,
+    "history": [
+      "c_1051",
+      "c_0152",
+      "c_0645",
+      "c_0079",
+      "c_0888",
+      "c_0206",
+      "c_1068",
+      "c_0651",
+      "c_0390",
+      "c_1144",
+      "c_0073",
+      "c_0017",
+      "c_0504",
+      "c_0281",
+      "c_0771",
+      "c_0451",
+      "c_0401",
+      "c_0544",
+      "c_0963",
+      "c_0311"
+    ]
+  },
+  {
+    "user_id": "u_145",
+    "big_five_scores": {
+      "openness": 0.538,
+      "conscientiousness": 0.3,
+      "extraversion": 0.547,
+      "agreeableness": 0.255,
+      "neuroticism": 0.621
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.913,
+    "motivation_score": 0.843,
+    "response_time_ms": 1104.3,
+    "history": []
+  },
+  {
+    "user_id": "u_146",
+    "big_five_scores": {
+      "openness": 0.497,
+      "conscientiousness": 0.543,
+      "extraversion": 0.639,
+      "agreeableness": 0.718,
+      "neuroticism": 0.085
+    },
+    "mbti_type": "INTJ",
+    "attention_score": 0.66,
+    "motivation_score": 0.673,
+    "response_time_ms": 497.0,
+    "history": [
+      "c_0992",
+      "c_1087",
+      "c_0369",
+      "c_0615",
+      "c_0475",
+      "c_0599",
+      "c_0994",
+      "c_1004",
+      "c_0804",
+      "c_0732",
+      "c_1113"
+    ]
+  },
+  {
+    "user_id": "u_147",
+    "big_five_scores": {
+      "openness": 0.535,
+      "conscientiousness": 0.227,
+      "extraversion": 0.24,
+      "agreeableness": 0.855,
+      "neuroticism": 0.729
+    },
+    "mbti_type": "INTP",
+    "attention_score": 0.515,
+    "motivation_score": 0.535,
+    "response_time_ms": 511.9,
+    "history": [
+      "c_0238",
+      "c_0361",
+      "c_0952",
+      "c_0654",
+      "c_0233",
+      "c_0712",
+      "c_0816",
+      "c_0263",
+      "c_0991",
+      "c_1002",
+      "c_0844",
+      "c_0481",
+      "c_0060"
+    ]
+  },
+  {
+    "user_id": "u_148",
+    "big_five_scores": {
+      "openness": 0.383,
+      "conscientiousness": 0.556,
+      "extraversion": 0.862,
+      "agreeableness": 0.776,
+      "neuroticism": 0.105
+    },
+    "mbti_type": "INFJ",
+    "attention_score": 0.396,
+    "motivation_score": 0.438,
+    "response_time_ms": 681.8,
+    "history": [
+      "c_0871",
+      "c_0817",
+      "c_0534",
+      "c_0112",
+      "c_0550",
+      "c_0995",
+      "c_0449",
+      "c_0696",
+      "c_0094",
+      "c_0632",
+      "c_0917",
+      "c_0840",
+      "c_0454",
+      "c_1173"
+    ]
+  },
+  {
+    "user_id": "u_149",
+    "big_five_scores": {
+      "openness": 0.85,
+      "conscientiousness": 0.579,
+      "extraversion": 0.774,
+      "agreeableness": 0.238,
+      "neuroticism": 0.921
+    },
+    "mbti_type": "INFJ",
+    "attention_score": 0.297,
+    "motivation_score": 0.605,
+    "response_time_ms": 1341.3,
+    "history": []
+  },
+  {
+    "user_id": "u_150",
+    "big_five_scores": {
+      "openness": 0.792,
+      "conscientiousness": 0.222,
+      "extraversion": 0.714,
+      "agreeableness": 0.88,
+      "neuroticism": 0.74
+    },
+    "mbti_type": "ENFJ",
+    "attention_score": 0.691,
+    "motivation_score": 0.589,
+    "response_time_ms": 647.3,
+    "history": [
+      "c_0322",
+      "c_1098",
+      "c_0811",
+      "c_0470",
+      "c_0595",
+      "c_0331"
+    ]
+  }
+]

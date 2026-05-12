@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "ca_243621afbc",
+    "title": "Data Scientist",
+    "type": "career",
+    "description": "Data Scientist, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "psychology",
+      "discipline",
+      "productivity"
+    ],
+    "vector": [
+      0.772,
+      0.769,
+      0.742,
+      0.69,
+      0.634,
+      0.846,
+      0.575,
+      0.396
+    ]
+  },
+  {
+    "id": "ca_24c6c6df3f",
+    "title": "Product Manager",
+    "type": "career",
+    "description": "Product Manager, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "discipline",
+      "leadership",
+      "analysis"
+    ],
+    "vector": [
+      0.725,
+      0.771,
+      0.806,
+      0.624,
+      0.669,
+      0.802,
+      0.679,
+      0.312
+    ]
+  },
+  {
+    "id": "ca_c8527e6e10",
+    "title": "UX Researcher",
+    "type": "career",
+    "description": "UX Researcher, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "analysis",
+      "learning",
+      "focus"
+    ],
+    "vector": [
+      0.768,
+      0.808,
+      0.759,
+      0.667,
+      0.577,
+      0.783,
+      0.687,
+      0.402
+    ]
+  },
+  {
+    "id": "ca_643fa648a2",
+    "title": "Machine Learning Engineer",
+    "type": "career",
+    "description": "Machine Learning Engineer, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "learning",
+      "leadership",
+      "analysis"
+    ],
+    "vector": [
+      0.704,
+      0.808,
+      0.695,
+      0.697,
+      0.577,
+      0.758,
+      0.686,
+      0.288
+    ]
+  },
+  {
+    "id": "ca_9faea2c88f",
+    "title": "Clinical Psychologist",
+    "type": "career",
+    "description": "Clinical Psychologist, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "leadership",
+      "discipline",
+      "strategy"
+    ],
+    "vector": [
+      0.679,
+      0.785,
+      0.706,
+      0.724,
+      0.596,
+      0.804,
+      0.554,
+      0.402
+    ]
+  },
+  {
+    "id": "ca_6640543c31",
+    "title": "Software Engineer",
+    "type": "career",
+    "description": "Software Engineer, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "leadership",
+      "psychology",
+      "productivity"
+    ],
+    "vector": [
+      0.774,
+      0.743,
+      0.698,
+      0.715,
+      0.643,
+      0.759,
+      0.56,
+      0.361
+    ]
+  },
+  {
+    "id": "ca_5e7587c911",
+    "title": "Business Analyst",
+    "type": "career",
+    "description": "Business Analyst, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "discipline",
+      "leadership",
+      "analysis"
+    ],
+    "vector": [
+      0.805,
+      0.709,
+      0.748,
+      0.613,
+      0.585,
+      0.759,
+      0.643,
+      0.293
+    ]
+  },
+  {
+    "id": "ca_9e3022b334",
+    "title": "Research Scientist",
+    "type": "career",
+    "description": "Research Scientist, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "cognitive",
+      "learning",
+      "creativity"
+    ],
+    "vector": [
+      0.79,
+      0.765,
+      0.75,
+      0.674,
+      0.586,
+      0.742,
+      0.654,
+      0.276
+    ]
+  },
+  {
+    "id": "ca_181b88c155",
+    "title": "Solutions Architect",
+    "type": "career",
+    "description": "Solutions Architect, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "leadership",
+      "analysis",
+      "psychology"
+    ],
+    "vector": [
+      0.771,
+      0.791,
+      0.718,
+      0.655,
+      0.608,
+      0.765,
+      0.647,
+      0.33
+    ]
+  },
+  {
+    "id": "ca_aa8894aa52",
+    "title": "Behavioral Scientist",
+    "type": "career",
+    "description": "Behavioral Scientist, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "focus",
+      "psychology",
+      "cognitive"
+    ],
+    "vector": [
+      0.807,
+      0.788,
+      0.696,
+      0.715,
+      0.634,
+      0.799,
+      0.554,
+      0.3
+    ]
+  },
+  {
+    "id": "ca_0f483a890c",
+    "title": "Data Scientist: Advanced",
+    "type": "career",
+    "description": "Data Scientist: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "psychology",
+      "discipline",
+      "focus"
+    ],
+    "vector": [
+      0.688,
+      0.809,
+      0.746,
+      0.701,
+      0.558,
+      0.849,
+      0.628,
+      0.292
+    ]
+  },
+  {
+    "id": "ca_4f2f6e353c",
+    "title": "Product Manager: Advanced",
+    "type": "career",
+    "description": "Product Manager: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "empathy",
+      "creativity",
+      "analysis"
+    ],
+    "vector": [
+      0.794,
+      0.7,
+      0.775,
+      0.615,
+      0.553,
+      0.729,
+      0.66,
+      0.355
+    ]
+  },
+  {
+    "id": "ca_9a44120eb5",
+    "title": "UX Researcher: Advanced",
+    "type": "career",
+    "description": "UX Researcher: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "creativity",
+      "wellbeing",
+      "discipline"
+    ],
+    "vector": [
+      0.751,
+      0.773,
+      0.752,
+      0.71,
+      0.563,
+      0.837,
+      0.654,
+      0.372
+    ]
+  },
+  {
+    "id": "ca_096fa92a2d",
+    "title": "Machine Learning Engineer: Advanced",
+    "type": "career",
+    "description": "Machine Learning Engineer: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "analysis",
+      "leadership",
+      "learning"
+    ],
+    "vector": [
+      0.7,
+      0.752,
+      0.766,
+      0.621,
+      0.643,
+      0.766,
+      0.557,
+      0.285
+    ]
+  },
+  {
+    "id": "ca_a85c6998d0",
+    "title": "Clinical Psychologist: Advanced",
+    "type": "career",
+    "description": "Clinical Psychologist: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "focus",
+      "analysis",
+      "cognitive"
+    ],
+    "vector": [
+      0.763,
+      0.799,
+      0.787,
+      0.673,
+      0.624,
+      0.733,
+      0.583,
+      0.282
+    ]
+  },
+  {
+    "id": "ca_3e0d3d329f",
+    "title": "Software Engineer: Advanced",
+    "type": "career",
+    "description": "Software Engineer: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "productivity",
+      "strategy",
+      "leadership"
+    ],
+    "vector": [
+      0.809,
+      0.75,
+      0.713,
+      0.704,
+      0.639,
+      0.749,
+      0.676,
+      0.271
+    ]
+  },
+  {
+    "id": "ca_2f36300be4",
+    "title": "Business Analyst: Advanced",
+    "type": "career",
+    "description": "Business Analyst: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "focus",
+      "leadership",
+      "discipline"
+    ],
+    "vector": [
+      0.784,
+      0.781,
+      0.74,
+      0.671,
+      0.6,
+      0.816,
+      0.638,
+      0.278
+    ]
+  },
+  {
+    "id": "ca_38fabc6dcd",
+    "title": "Research Scientist: Advanced",
+    "type": "career",
+    "description": "Research Scientist: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "discipline",
+      "learning",
+      "cognitive"
+    ],
+    "vector": [
+      0.681,
+      0.72,
+      0.683,
+      0.595,
+      0.593,
+      0.848,
+      0.584,
+      0.402
+    ]
+  },
+  {
+    "id": "ca_d5eda1afaf",
+    "title": "Solutions Architect: Advanced",
+    "type": "career",
+    "description": "Solutions Architect: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "discipline",
+      "cognitive",
+      "productivity"
+    ],
+    "vector": [
+      0.716,
+      0.697,
+      0.716,
+      0.653,
+      0.642,
+      0.807,
+      0.575,
+      0.407
+    ]
+  },
+  {
+    "id": "ca_d8da8ebbc3",
+    "title": "Behavioral Scientist: Advanced",
+    "type": "career",
+    "description": "Behavioral Scientist: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "analysis",
+      "wellbeing",
+      "learning"
+    ],
+    "vector": [
+      0.676,
+      0.73,
+      0.741,
+      0.626,
+      0.676,
+      0.782,
+      0.624,
+      0.314
+    ]
+  },
+  {
+    "id": "ca_29eace98f4",
+    "title": "Data Scientist: Practical Guide",
+    "type": "career",
+    "description": "Data Scientist: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "productivity",
+      "wellbeing",
+      "discipline"
+    ],
+    "vector": [
+      0.795,
+      0.739,
+      0.688,
+      0.615,
+      0.584,
+      0.723,
+      0.687,
+      0.348
+    ]
+  },
+  {
+    "id": "ca_ab48b9e582",
+    "title": "Product Manager: Practical Guide",
+    "type": "career",
+    "description": "Product Manager: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "empathy",
+      "productivity",
+      "creativity"
+    ],
+    "vector": [
+      0.702,
+      0.815,
+      0.729,
+      0.647,
+      0.654,
+      0.832,
+      0.69,
+      0.337
+    ]
+  },
+  {
+    "id": "ca_6754ce745d",
+    "title": "UX Researcher: Practical Guide",
+    "type": "career",
+    "description": "UX Researcher: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "cognitive",
+      "productivity",
+      "analysis"
+    ],
+    "vector": [
+      0.785,
+      0.732,
+      0.678,
+      0.721,
+      0.578,
+      0.793,
+      0.582,
+      0.373
+    ]
+  },
+  {
+    "id": "ca_ed057cc6fe",
+    "title": "Machine Learning Engineer: Practical Guide",
+    "type": "career",
+    "description": "Machine Learning Engineer: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "analysis",
+      "creativity",
+      "wellbeing"
+    ],
+    "vector": [
+      0.769,
+      0.775,
+      0.694,
+      0.66,
+      0.667,
+      0.82,
+      0.633,
+      0.358
+    ]
+  },
+  {
+    "id": "ca_f0b630e28c",
+    "title": "Clinical Psychologist: Practical Guide",
+    "type": "career",
+    "description": "Clinical Psychologist: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "empathy",
+      "psychology",
+      "analysis"
+    ],
+    "vector": [
+      0.788,
+      0.693,
+      0.705,
+      0.646,
+      0.648,
+      0.808,
+      0.671,
+      0.4
+    ]
+  },
+  {
+    "id": "ca_60b6701f60",
+    "title": "Software Engineer: Practical Guide",
+    "type": "career",
+    "description": "Software Engineer: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "learning",
+      "discipline",
+      "focus"
+    ],
+    "vector": [
+      0.727,
+      0.703,
+      0.672,
+      0.708,
+      0.569,
+      0.736,
+      0.601,
+      0.311
+    ]
+  },
+  {
+    "id": "ca_f69628a1ca",
+    "title": "Business Analyst: Practical Guide",
+    "type": "career",
+    "description": "Business Analyst: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "analysis",
+      "leadership",
+      "cognitive"
+    ],
+    "vector": [
+      0.689,
+      0.765,
+      0.71,
+      0.67,
+      0.65,
+      0.742,
+      0.568,
+      0.342
+    ]
+  },
+  {
+    "id": "ca_cc4c9b48bc",
+    "title": "Research Scientist: Practical Guide",
+    "type": "career",
+    "description": "Research Scientist: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "empathy",
+      "learning",
+      "creativity"
+    ],
+    "vector": [
+      0.747,
+      0.823,
+      0.674,
+      0.708,
+      0.642,
+      0.789,
+      0.565,
+      0.287
+    ]
+  },
+  {
+    "id": "ca_de9bc59aa7",
+    "title": "Solutions Architect: Practical Guide",
+    "type": "career",
+    "description": "Solutions Architect: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "empathy",
+      "strategy",
+      "leadership"
+    ],
+    "vector": [
+      0.693,
+      0.815,
+      0.748,
+      0.652,
+      0.55,
+      0.81,
+      0.551,
+      0.271
+    ]
+  },
+  {
+    "id": "ca_d4b3d55a86",
+    "title": "Behavioral Scientist: Practical Guide",
+    "type": "career",
+    "description": "Behavioral Scientist: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "leadership",
+      "psychology",
+      "strategy"
+    ],
+    "vector": [
+      0.776,
+      0.745,
+      0.683,
+      0.714,
+      0.55,
+      0.798,
+      0.676,
+      0.344
+    ]
+  },
+  {
+    "id": "ca_265d9a99fe",
+    "title": "Data Scientist: Applied Playbook",
+    "type": "career",
+    "description": "Data Scientist: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "leadership",
+      "creativity",
+      "productivity"
+    ],
+    "vector": [
+      0.682,
+      0.746,
+      0.704,
+      0.683,
+      0.555,
+      0.831,
+      0.616,
+      0.315
+    ]
+  },
+  {
+    "id": "ca_94d73fd2d0",
+    "title": "Product Manager: Applied Playbook",
+    "type": "career",
+    "description": "Product Manager: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "strategy",
+      "discipline",
+      "wellbeing"
+    ],
+    "vector": [
+      0.776,
+      0.807,
+      0.69,
+      0.625,
+      0.586,
+      0.768,
+      0.627,
+      0.384
+    ]
+  },
+  {
+    "id": "ca_d348f44a79",
+    "title": "UX Researcher: Applied Playbook",
+    "type": "career",
+    "description": "UX Researcher: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "learning",
+      "wellbeing",
+      "productivity"
+    ],
+    "vector": [
+      0.687,
+      0.752,
+      0.765,
+      0.651,
+      0.681,
+      0.84,
+      0.617,
+      0.354
+    ]
+  },
+  {
+    "id": "ca_79a972cfac",
+    "title": "Machine Learning Engineer: Applied Playbook",
+    "type": "career",
+    "description": "Machine Learning Engineer: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "wellbeing",
+      "cognitive",
+      "learning"
+    ],
+    "vector": [
+      0.788,
+      0.736,
+      0.688,
+      0.696,
+      0.625,
+      0.776,
+      0.568,
+      0.348
+    ]
+  },
+  {
+    "id": "ca_c3bd8be3e0",
+    "title": "Clinical Psychologist: Applied Playbook",
+    "type": "career",
+    "description": "Clinical Psychologist: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "wellbeing",
+      "psychology",
+      "productivity"
+    ],
+    "vector": [
+      0.681,
+      0.806,
+      0.715,
+      0.648,
+      0.598,
+      0.823,
+      0.612,
+      0.28
+    ]
+  },
+  {
+    "id": "ca_5c4ae777e7",
+    "title": "Software Engineer: Applied Playbook",
+    "type": "career",
+    "description": "Software Engineer: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "focus",
+      "creativity",
+      "cognitive"
+    ],
+    "vector": [
+      0.672,
+      0.697,
+      0.723,
+      0.653,
+      0.55,
+      0.729,
+      0.676,
+      0.346
+    ]
+  },
+  {
+    "id": "ca_8c0ba17b78",
+    "title": "Business Analyst: Applied Playbook",
+    "type": "career",
+    "description": "Business Analyst: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "productivity",
+      "psychology",
+      "learning"
+    ],
+    "vector": [
+      0.767,
+      0.744,
+      0.677,
+      0.611,
+      0.661,
+      0.803,
+      0.592,
+      0.293
+    ]
+  },
+  {
+    "id": "ca_dd1cf1ed0c",
+    "title": "Research Scientist: Applied Playbook",
+    "type": "career",
+    "description": "Research Scientist: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "learning",
+      "discipline",
+      "cognitive"
+    ],
+    "vector": [
+      0.81,
+      0.765,
+      0.699,
+      0.616,
+      0.65,
+      0.84,
+      0.578,
+      0.303
+    ]
+  },
+  {
+    "id": "ca_71d6b230ce",
+    "title": "Solutions Architect: Applied Playbook",
+    "type": "career",
+    "description": "Solutions Architect: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "wellbeing",
+      "discipline",
+      "cognitive"
+    ],
+    "vector": [
+      0.702,
+      0.748,
+      0.703,
+      0.683,
+      0.584,
+      0.747,
+      0.609,
+      0.294
+    ]
+  },
+  {
+    "id": "ca_665a85836b",
+    "title": "Behavioral Scientist: Applied Playbook",
+    "type": "career",
+    "description": "Behavioral Scientist: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "learning",
+      "focus",
+      "empathy"
+    ],
+    "vector": [
+      0.671,
+      0.784,
+      0.677,
+      0.657,
+      0.674,
+      0.796,
+      0.593,
+      0.326
+    ]
+  },
+  {
+    "id": "ca_8b7712630e",
+    "title": "Data Scientist: Masterclass",
+    "type": "career",
+    "description": "Data Scientist: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "cognitive",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.678,
+      0.712,
+      0.69,
+      0.619,
+      0.596,
+      0.724,
+      0.636,
+      0.298
+    ]
+  },
+  {
+    "id": "ca_e1b4d8807b",
+    "title": "Product Manager: Masterclass",
+    "type": "career",
+    "description": "Product Manager: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "empathy",
+      "wellbeing",
+      "leadership"
+    ],
+    "vector": [
+      0.733,
+      0.72,
+      0.676,
+      0.687,
+      0.601,
+      0.751,
+      0.562,
+      0.295
+    ]
+  },
+  {
+    "id": "ca_e6036de8d8",
+    "title": "UX Researcher: Masterclass",
+    "type": "career",
+    "description": "UX Researcher: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "empathy",
+      "discipline",
+      "psychology"
+    ],
+    "vector": [
+      0.788,
+      0.725,
+      0.702,
+      0.714,
+      0.583,
+      0.794,
+      0.681,
+      0.335
+    ]
+  },
+  {
+    "id": "ca_004a681f22",
+    "title": "Machine Learning Engineer: Masterclass",
+    "type": "career",
+    "description": "Machine Learning Engineer: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "focus",
+      "analysis",
+      "leadership"
+    ],
+    "vector": [
+      0.701,
+      0.697,
+      0.673,
+      0.719,
+      0.626,
+      0.834,
+      0.684,
+      0.303
+    ]
+  },
+  {
+    "id": "ca_b3c0af591b",
+    "title": "Clinical Psychologist: Masterclass",
+    "type": "career",
+    "description": "Clinical Psychologist: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "leadership",
+      "creativity",
+      "wellbeing"
+    ],
+    "vector": [
+      0.704,
+      0.794,
+      0.805,
+      0.706,
+      0.612,
+      0.736,
+      0.618,
+      0.346
+    ]
+  },
+  {
+    "id": "ca_7bbeb6ca32",
+    "title": "Software Engineer: Masterclass",
+    "type": "career",
+    "description": "Software Engineer: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "productivity",
+      "wellbeing",
+      "creativity"
+    ],
+    "vector": [
+      0.756,
+      0.812,
+      0.697,
+      0.661,
+      0.678,
+      0.79,
+      0.661,
+      0.383
+    ]
+  },
+  {
+    "id": "ca_7170c040e1",
+    "title": "Business Analyst: Masterclass",
+    "type": "career",
+    "description": "Business Analyst: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "strategy",
+      "analysis",
+      "cognitive"
+    ],
+    "vector": [
+      0.741,
+      0.777,
+      0.769,
+      0.643,
+      0.585,
+      0.809,
+      0.665,
+      0.397
+    ]
+  },
+  {
+    "id": "ca_d4db5fa322",
+    "title": "Research Scientist: Masterclass",
+    "type": "career",
+    "description": "Research Scientist: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "discipline",
+      "strategy",
+      "empathy"
+    ],
+    "vector": [
+      0.723,
+      0.719,
+      0.708,
+      0.666,
+      0.586,
+      0.818,
+      0.665,
+      0.306
+    ]
+  },
+  {
+    "id": "ca_dca54ccfd1",
+    "title": "Solutions Architect: Masterclass",
+    "type": "career",
+    "description": "Solutions Architect: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "discipline",
+      "focus",
+      "strategy"
+    ],
+    "vector": [
+      0.752,
+      0.776,
+      0.73,
+      0.628,
+      0.599,
+      0.743,
+      0.664,
+      0.323
+    ]
+  },
+  {
+    "id": "ca_ae611506cb",
+    "title": "Behavioral Scientist: Masterclass",
+    "type": "career",
+    "description": "Behavioral Scientist: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "productivity",
+      "wellbeing",
+      "discipline"
+    ],
+    "vector": [
+      0.711,
+      0.828,
+      0.671,
+      0.653,
+      0.629,
+      0.816,
+      0.591,
+      0.29
+    ]
+  },
+  {
+    "id": "ca_d45ca1271d",
+    "title": "Data Scientist: Toolkit",
+    "type": "career",
+    "description": "Data Scientist: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "strategy",
+      "empathy",
+      "creativity"
+    ],
+    "vector": [
+      0.809,
+      0.808,
+      0.801,
+      0.595,
+      0.66,
+      0.848,
+      0.644,
+      0.364
+    ]
+  },
+  {
+    "id": "ca_b4cb8ca8f6",
+    "title": "Product Manager: Toolkit",
+    "type": "career",
+    "description": "Product Manager: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "cognitive",
+      "strategy",
+      "learning"
+    ],
+    "vector": [
+      0.802,
+      0.704,
+      0.717,
+      0.626,
+      0.591,
+      0.833,
+      0.581,
+      0.368
+    ]
+  },
+  {
+    "id": "ca_603e008d29",
+    "title": "UX Researcher: Toolkit",
+    "type": "career",
+    "description": "UX Researcher: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "psychology",
+      "creativity",
+      "strategy"
+    ],
+    "vector": [
+      0.753,
+      0.801,
+      0.709,
+      0.716,
+      0.606,
+      0.804,
+      0.654,
+      0.349
+    ]
+  },
+  {
+    "id": "ca_dd6cc3e9b4",
+    "title": "Machine Learning Engineer: Toolkit",
+    "type": "career",
+    "description": "Machine Learning Engineer: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "analysis",
+      "creativity",
+      "leadership"
+    ],
+    "vector": [
+      0.704,
+      0.706,
+      0.804,
+      0.666,
+      0.58,
+      0.753,
+      0.553,
+      0.374
+    ]
+  },
+  {
+    "id": "ca_703b23baa9",
+    "title": "Clinical Psychologist: Toolkit",
+    "type": "career",
+    "description": "Clinical Psychologist: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "focus",
+      "cognitive",
+      "learning"
+    ],
+    "vector": [
+      0.698,
+      0.819,
+      0.743,
+      0.633,
+      0.657,
+      0.757,
+      0.682,
+      0.398
+    ]
+  },
+  {
+    "id": "ca_fe0124cc4d",
+    "title": "Software Engineer: Toolkit",
+    "type": "career",
+    "description": "Software Engineer: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "empathy",
+      "analysis",
+      "learning"
+    ],
+    "vector": [
+      0.693,
+      0.73,
+      0.683,
+      0.594,
+      0.672,
+      0.794,
+      0.628,
+      0.401
+    ]
+  },
+  {
+    "id": "ca_2d7d1acacd",
+    "title": "Business Analyst: Toolkit",
+    "type": "career",
+    "description": "Business Analyst: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "creativity",
+      "wellbeing",
+      "focus"
+    ],
+    "vector": [
+      0.784,
+      0.821,
+      0.748,
+      0.625,
+      0.627,
+      0.829,
+      0.592,
+      0.407
+    ]
+  },
+  {
+    "id": "ca_3b55af3592",
+    "title": "Research Scientist: Toolkit",
+    "type": "career",
+    "description": "Research Scientist: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "creativity",
+      "analysis",
+      "focus"
+    ],
+    "vector": [
+      0.788,
+      0.711,
+      0.737,
+      0.667,
+      0.635,
+      0.777,
+      0.65,
+      0.342
+    ]
+  },
+  {
+    "id": "ca_4a4652f589",
+    "title": "Solutions Architect: Toolkit",
+    "type": "career",
+    "description": "Solutions Architect: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "focus",
+      "creativity",
+      "empathy"
+    ],
+    "vector": [
+      0.723,
+      0.731,
+      0.751,
+      0.632,
+      0.673,
+      0.774,
+      0.569,
+      0.366
+    ]
+  },
+  {
+    "id": "ca_f2e1786655",
+    "title": "Behavioral Scientist: Toolkit",
+    "type": "career",
+    "description": "Behavioral Scientist: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "wellbeing",
+      "cognitive",
+      "productivity"
+    ],
+    "vector": [
+      0.698,
+      0.786,
+      0.806,
+      0.603,
+      0.667,
+      0.758,
+      0.578,
+      0.362
+    ]
+  },
+  {
+    "id": "ca_e920d464f4",
+    "title": "Data Scientist: Field Notes",
+    "type": "career",
+    "description": "Data Scientist: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "creativity",
+      "productivity",
+      "discipline"
+    ],
+    "vector": [
+      0.685,
+      0.808,
+      0.715,
+      0.592,
+      0.64,
+      0.791,
+      0.578,
+      0.314
+    ]
+  },
+  {
+    "id": "ca_6fba8ff316",
+    "title": "Product Manager: Field Notes",
+    "type": "career",
+    "description": "Product Manager: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "cognitive",
+      "empathy",
+      "learning"
+    ],
+    "vector": [
+      0.748,
+      0.788,
+      0.79,
+      0.725,
+      0.597,
+      0.735,
+      0.678,
+      0.355
+    ]
+  },
+  {
+    "id": "ca_e0b6c84080",
+    "title": "UX Researcher: Field Notes",
+    "type": "career",
+    "description": "UX Researcher: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "productivity",
+      "focus",
+      "cognitive"
+    ],
+    "vector": [
+      0.783,
+      0.706,
+      0.704,
+      0.635,
+      0.617,
+      0.737,
+      0.663,
+      0.29
+    ]
+  },
+  {
+    "id": "ca_75c5aacad6",
+    "title": "Machine Learning Engineer: Field Notes",
+    "type": "career",
+    "description": "Machine Learning Engineer: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "strategy",
+      "wellbeing",
+      "analysis"
+    ],
+    "vector": [
+      0.705,
+      0.744,
+      0.773,
+      0.63,
+      0.646,
+      0.722,
+      0.55,
+      0.374
+    ]
+  },
+  {
+    "id": "ca_709c26e47a",
+    "title": "Clinical Psychologist: Field Notes",
+    "type": "career",
+    "description": "Clinical Psychologist: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "discipline",
+      "productivity",
+      "strategy"
+    ],
+    "vector": [
+      0.723,
+      0.716,
+      0.727,
+      0.718,
+      0.556,
+      0.791,
+      0.689,
+      0.327
+    ]
+  },
+  {
+    "id": "ca_ca82e9b4b9",
+    "title": "Software Engineer: Field Notes",
+    "type": "career",
+    "description": "Software Engineer: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "learning",
+      "discipline",
+      "creativity"
+    ],
+    "vector": [
+      0.74,
+      0.769,
+      0.745,
+      0.679,
+      0.669,
+      0.74,
+      0.573,
+      0.376
+    ]
+  },
+  {
+    "id": "ca_dbe24cd125",
+    "title": "Business Analyst: Field Notes",
+    "type": "career",
+    "description": "Business Analyst: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "leadership",
+      "psychology",
+      "cognitive"
+    ],
+    "vector": [
+      0.785,
+      0.703,
+      0.793,
+      0.608,
+      0.568,
+      0.737,
+      0.588,
+      0.281
+    ]
+  },
+  {
+    "id": "ca_ec8d0238a7",
+    "title": "Research Scientist: Field Notes",
+    "type": "career",
+    "description": "Research Scientist: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "learning",
+      "strategy",
+      "discipline"
+    ],
+    "vector": [
+      0.763,
+      0.721,
+      0.784,
+      0.696,
+      0.618,
+      0.84,
+      0.557,
+      0.397
+    ]
+  },
+  {
+    "id": "ca_3fd292c558",
+    "title": "Solutions Architect: Field Notes",
+    "type": "career",
+    "description": "Solutions Architect: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "wellbeing",
+      "productivity",
+      "cognitive"
+    ],
+    "vector": [
+      0.693,
+      0.759,
+      0.672,
+      0.595,
+      0.684,
+      0.741,
+      0.61,
+      0.287
+    ]
+  },
+  {
+    "id": "ca_ac33cf3860",
+    "title": "Behavioral Scientist: Field Notes",
+    "type": "career",
+    "description": "Behavioral Scientist: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "leadership",
+      "wellbeing",
+      "empathy"
+    ],
+    "vector": [
+      0.735,
+      0.725,
+      0.753,
+      0.689,
+      0.63,
+      0.792,
+      0.593,
+      0.403
+    ]
+  },
+  {
+    "id": "ca_6966e8820f",
+    "title": "Data Scientist: Intensive",
+    "type": "career",
+    "description": "Data Scientist: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "cognitive",
+      "creativity",
+      "discipline"
+    ],
+    "vector": [
+      0.763,
+      0.826,
+      0.789,
+      0.624,
+      0.682,
+      0.774,
+      0.63,
+      0.361
+    ]
+  },
+  {
+    "id": "ca_d2ebd6ab7d",
+    "title": "Product Manager: Intensive",
+    "type": "career",
+    "description": "Product Manager: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "analysis",
+      "empathy",
+      "learning"
+    ],
+    "vector": [
+      0.78,
+      0.747,
+      0.719,
+      0.658,
+      0.66,
+      0.801,
+      0.682,
+      0.382
+    ]
+  },
+  {
+    "id": "ca_de45a3d429",
+    "title": "UX Researcher: Intensive",
+    "type": "career",
+    "description": "UX Researcher: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "productivity",
+      "cognitive",
+      "focus"
+    ],
+    "vector": [
+      0.705,
+      0.822,
+      0.772,
+      0.641,
+      0.6,
+      0.713,
+      0.668,
+      0.33
+    ]
+  },
+  {
+    "id": "ca_95f6f7c0fc",
+    "title": "Machine Learning Engineer: Intensive",
+    "type": "career",
+    "description": "Machine Learning Engineer: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "productivity",
+      "analysis",
+      "leadership"
+    ],
+    "vector": [
+      0.75,
+      0.777,
+      0.707,
+      0.612,
+      0.596,
+      0.715,
+      0.578,
+      0.339
+    ]
+  },
+  {
+    "id": "ca_3b23fd6204",
+    "title": "Clinical Psychologist: Intensive",
+    "type": "career",
+    "description": "Clinical Psychologist: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "learning",
+      "creativity",
+      "focus"
+    ],
+    "vector": [
+      0.699,
+      0.763,
+      0.766,
+      0.634,
+      0.579,
+      0.728,
+      0.601,
+      0.323
+    ]
+  },
+  {
+    "id": "ca_cd88c6cffc",
+    "title": "Software Engineer: Intensive",
+    "type": "career",
+    "description": "Software Engineer: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "discipline",
+      "learning",
+      "leadership"
+    ],
+    "vector": [
+      0.699,
+      0.695,
+      0.806,
+      0.718,
+      0.594,
+      0.75,
+      0.614,
+      0.299
+    ]
+  },
+  {
+    "id": "ca_f880f76501",
+    "title": "Business Analyst: Intensive",
+    "type": "career",
+    "description": "Business Analyst: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "wellbeing",
+      "strategy",
+      "discipline"
+    ],
+    "vector": [
+      0.788,
+      0.821,
+      0.696,
+      0.684,
+      0.574,
+      0.848,
+      0.661,
+      0.327
+    ]
+  },
+  {
+    "id": "ca_c6a054bbf1",
+    "title": "Research Scientist: Intensive",
+    "type": "career",
+    "description": "Research Scientist: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "leadership",
+      "focus",
+      "wellbeing"
+    ],
+    "vector": [
+      0.742,
+      0.701,
+      0.734,
+      0.709,
+      0.631,
+      0.747,
+      0.58,
+      0.348
+    ]
+  },
+  {
+    "id": "ca_d1d412167b",
+    "title": "Solutions Architect: Intensive",
+    "type": "career",
+    "description": "Solutions Architect: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "leadership",
+      "creativity",
+      "cognitive"
+    ],
+    "vector": [
+      0.735,
+      0.753,
+      0.723,
+      0.616,
+      0.604,
+      0.786,
+      0.577,
+      0.315
+    ]
+  },
+  {
+    "id": "ca_d0284e1b32",
+    "title": "Behavioral Scientist: Intensive",
+    "type": "career",
+    "description": "Behavioral Scientist: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "discipline",
+      "wellbeing",
+      "empathy"
+    ],
+    "vector": [
+      0.749,
+      0.818,
+      0.809,
+      0.687,
+      0.566,
+      0.743,
+      0.685,
+      0.406
+    ]
+  },
+  {
+    "id": "ca_346d0396ec",
+    "title": "Data Scientist: Studio",
+    "type": "career",
+    "description": "Data Scientist: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "analysis",
+      "focus",
+      "psychology"
+    ],
+    "vector": [
+      0.797,
+      0.753,
+      0.716,
+      0.65,
+      0.623,
+      0.734,
+      0.64,
+      0.326
+    ]
+  },
+  {
+    "id": "ca_840965774f",
+    "title": "Product Manager: Studio",
+    "type": "career",
+    "description": "Product Manager: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "discipline",
+      "productivity",
+      "empathy"
+    ],
+    "vector": [
+      0.737,
+      0.69,
+      0.776,
+      0.702,
+      0.688,
+      0.842,
+      0.648,
+      0.335
+    ]
+  },
+  {
+    "id": "ca_9f515d0cd6",
+    "title": "UX Researcher: Studio",
+    "type": "career",
+    "description": "UX Researcher: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "focus",
+      "wellbeing",
+      "strategy"
+    ],
+    "vector": [
+      0.733,
+      0.744,
+      0.754,
+      0.611,
+      0.6,
+      0.765,
+      0.567,
+      0.341
+    ]
+  },
+  {
+    "id": "ca_54f82a1613",
+    "title": "Machine Learning Engineer: Studio",
+    "type": "career",
+    "description": "Machine Learning Engineer: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "creativity",
+      "strategy",
+      "psychology"
+    ],
+    "vector": [
+      0.758,
+      0.727,
+      0.749,
+      0.697,
+      0.598,
+      0.801,
+      0.634,
+      0.397
+    ]
+  },
+  {
+    "id": "ca_2f7e9efbef",
+    "title": "Clinical Psychologist: Studio",
+    "type": "career",
+    "description": "Clinical Psychologist: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "analysis",
+      "productivity",
+      "discipline"
+    ],
+    "vector": [
+      0.754,
+      0.786,
+      0.713,
+      0.605,
+      0.628,
+      0.741,
+      0.686,
+      0.301
+    ]
+  },
+  {
+    "id": "ca_6538c3ec5a",
+    "title": "Software Engineer: Studio",
+    "type": "career",
+    "description": "Software Engineer: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "leadership",
+      "discipline",
+      "analysis"
+    ],
+    "vector": [
+      0.715,
+      0.829,
+      0.756,
+      0.604,
+      0.593,
+      0.726,
+      0.619,
+      0.344
+    ]
+  },
+  {
+    "id": "ca_d9707bf211",
+    "title": "Business Analyst: Studio",
+    "type": "career",
+    "description": "Business Analyst: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "focus",
+      "empathy",
+      "wellbeing"
+    ],
+    "vector": [
+      0.785,
+      0.785,
+      0.706,
+      0.706,
+      0.554,
+      0.743,
+      0.554,
+      0.403
+    ]
+  },
+  {
+    "id": "ca_e6821f366b",
+    "title": "Research Scientist: Studio",
+    "type": "career",
+    "description": "Research Scientist: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "discipline",
+      "cognitive",
+      "focus"
+    ],
+    "vector": [
+      0.703,
+      0.75,
+      0.723,
+      0.677,
+      0.621,
+      0.843,
+      0.66,
+      0.322
+    ]
+  },
+  {
+    "id": "ca_9ae2556a6a",
+    "title": "Solutions Architect: Studio",
+    "type": "career",
+    "description": "Solutions Architect: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "leadership",
+      "empathy",
+      "creativity"
+    ],
+    "vector": [
+      0.754,
+      0.748,
+      0.807,
+      0.625,
+      0.612,
+      0.733,
+      0.658,
+      0.314
+    ]
+  },
+  {
+    "id": "ca_f3795a788d",
+    "title": "Behavioral Scientist: Studio",
+    "type": "career",
+    "description": "Behavioral Scientist: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "creativity",
+      "productivity",
+      "cognitive"
+    ],
+    "vector": [
+      0.689,
+      0.813,
+      0.7,
+      0.72,
+      0.679,
+      0.845,
+      0.59,
+      0.365
+    ]
+  },
+  {
+    "id": "ca_304d7d13f8",
+    "title": "Data Scientist: Lab",
+    "type": "career",
+    "description": "Data Scientist: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "wellbeing",
+      "psychology",
+      "cognitive"
+    ],
+    "vector": [
+      0.672,
+      0.746,
+      0.759,
+      0.727,
+      0.616,
+      0.773,
+      0.551,
+      0.293
+    ]
+  },
+  {
+    "id": "ca_205955790d",
+    "title": "Product Manager: Lab",
+    "type": "career",
+    "description": "Product Manager: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "productivity",
+      "strategy",
+      "wellbeing"
+    ],
+    "vector": [
+      0.681,
+      0.819,
+      0.762,
+      0.729,
+      0.64,
+      0.797,
+      0.568,
+      0.337
+    ]
+  },
+  {
+    "id": "ca_f229de0ad3",
+    "title": "UX Researcher: Lab",
+    "type": "career",
+    "description": "UX Researcher: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "productivity",
+      "cognitive",
+      "empathy"
+    ],
+    "vector": [
+      0.775,
+      0.779,
+      0.768,
+      0.627,
+      0.624,
+      0.81,
+      0.552,
+      0.39
+    ]
+  },
+  {
+    "id": "ca_c7170c103f",
+    "title": "Machine Learning Engineer: Lab",
+    "type": "career",
+    "description": "Machine Learning Engineer: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "analysis",
+      "productivity",
+      "discipline"
+    ],
+    "vector": [
+      0.689,
+      0.79,
+      0.748,
+      0.665,
+      0.657,
+      0.838,
+      0.689,
+      0.343
+    ]
+  },
+  {
+    "id": "ca_52f5bef28a",
+    "title": "Clinical Psychologist: Lab",
+    "type": "career",
+    "description": "Clinical Psychologist: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "strategy",
+      "cognitive",
+      "learning"
+    ],
+    "vector": [
+      0.683,
+      0.801,
+      0.797,
+      0.649,
+      0.627,
+      0.818,
+      0.553,
+      0.394
+    ]
+  },
+  {
+    "id": "ca_d6d6c4ed14",
+    "title": "Software Engineer: Lab",
+    "type": "career",
+    "description": "Software Engineer: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "discipline",
+      "learning",
+      "wellbeing"
+    ],
+    "vector": [
+      0.738,
+      0.692,
+      0.732,
+      0.606,
+      0.587,
+      0.834,
+      0.678,
+      0.286
+    ]
+  },
+  {
+    "id": "ca_4159325644",
+    "title": "Business Analyst: Lab",
+    "type": "career",
+    "description": "Business Analyst: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "empathy",
+      "psychology",
+      "learning"
+    ],
+    "vector": [
+      0.712,
+      0.765,
+      0.73,
+      0.67,
+      0.559,
+      0.796,
+      0.636,
+      0.297
+    ]
+  },
+  {
+    "id": "ca_f4ca9eeb1d",
+    "title": "Research Scientist: Lab",
+    "type": "career",
+    "description": "Research Scientist: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "strategy",
+      "focus",
+      "productivity"
+    ],
+    "vector": [
+      0.729,
+      0.799,
+      0.687,
+      0.687,
+      0.575,
+      0.815,
+      0.649,
+      0.4
+    ]
+  },
+  {
+    "id": "ca_7999b793dd",
+    "title": "Solutions Architect: Lab",
+    "type": "career",
+    "description": "Solutions Architect: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "learning",
+      "creativity",
+      "psychology"
+    ],
+    "vector": [
+      0.732,
+      0.752,
+      0.723,
+      0.631,
+      0.638,
+      0.833,
+      0.577,
+      0.361
+    ]
+  },
+  {
+    "id": "ca_6c92b142d4",
+    "title": "Behavioral Scientist: Lab",
+    "type": "career",
+    "description": "Behavioral Scientist: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "learning",
+      "analysis",
+      "strategy"
+    ],
+    "vector": [
+      0.765,
+      0.782,
+      0.758,
+      0.606,
+      0.578,
+      0.847,
+      0.581,
+      0.383
+    ]
+  },
+  {
+    "id": "ca_6e2e87f4d6",
+    "title": "Data Scientist: Foundations",
+    "type": "career",
+    "description": "Data Scientist: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "productivity",
+      "creativity",
+      "wellbeing"
+    ],
+    "vector": [
+      0.794,
+      0.759,
+      0.733,
+      0.687,
+      0.626,
+      0.849,
+      0.567,
+      0.279
+    ]
+  },
+  {
+    "id": "ca_5ad37b25e0",
+    "title": "Product Manager: Foundations",
+    "type": "career",
+    "description": "Product Manager: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "learning",
+      "discipline",
+      "analysis"
+    ],
+    "vector": [
+      0.702,
+      0.83,
+      0.744,
+      0.631,
+      0.601,
+      0.742,
+      0.585,
+      0.289
+    ]
+  },
+  {
+    "id": "ca_fff87b3555",
+    "title": "UX Researcher: Foundations",
+    "type": "career",
+    "description": "UX Researcher: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "learning",
+      "discipline",
+      "focus"
+    ],
+    "vector": [
+      0.741,
+      0.692,
+      0.71,
+      0.642,
+      0.65,
+      0.736,
+      0.588,
+      0.375
+    ]
+  },
+  {
+    "id": "ca_bbbbb5cbc4",
+    "title": "Machine Learning Engineer: Foundations",
+    "type": "career",
+    "description": "Machine Learning Engineer: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "psychology",
+      "cognitive",
+      "discipline"
+    ],
+    "vector": [
+      0.746,
+      0.811,
+      0.703,
+      0.728,
+      0.569,
+      0.795,
+      0.654,
+      0.369
+    ]
+  },
+  {
+    "id": "ca_c2f9caf903",
+    "title": "Clinical Psychologist: Foundations",
+    "type": "career",
+    "description": "Clinical Psychologist: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "learning",
+      "wellbeing",
+      "leadership"
+    ],
+    "vector": [
+      0.764,
+      0.786,
+      0.673,
+      0.596,
+      0.666,
+      0.81,
+      0.583,
+      0.379
+    ]
+  },
+  {
+    "id": "ca_f1bb9b71b6",
+    "title": "Software Engineer: Foundations",
+    "type": "career",
+    "description": "Software Engineer: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "learning",
+      "discipline",
+      "empathy"
+    ],
+    "vector": [
+      0.774,
+      0.714,
+      0.793,
+      0.634,
+      0.563,
+      0.731,
+      0.579,
+      0.288
+    ]
+  },
+  {
+    "id": "ca_c67ab86ca1",
+    "title": "Business Analyst: Foundations",
+    "type": "career",
+    "description": "Business Analyst: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "productivity",
+      "analysis",
+      "strategy"
+    ],
+    "vector": [
+      0.744,
+      0.706,
+      0.736,
+      0.606,
+      0.652,
+      0.774,
+      0.622,
+      0.392
+    ]
+  },
+  {
+    "id": "ca_861d1f05ea",
+    "title": "Research Scientist: Foundations",
+    "type": "career",
+    "description": "Research Scientist: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "wellbeing",
+      "strategy",
+      "analysis"
+    ],
+    "vector": [
+      0.77,
+      0.755,
+      0.699,
+      0.634,
+      0.597,
+      0.745,
+      0.661,
+      0.283
+    ]
+  },
+  {
+    "id": "ca_1489ff27ab",
+    "title": "Solutions Architect: Foundations",
+    "type": "career",
+    "description": "Solutions Architect: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "leadership",
+      "focus",
+      "psychology"
+    ],
+    "vector": [
+      0.807,
+      0.772,
+      0.801,
+      0.684,
+      0.686,
+      0.755,
+      0.575,
+      0.292
+    ]
+  },
+  {
+    "id": "ca_e41058022c",
+    "title": "Behavioral Scientist: Foundations",
+    "type": "career",
+    "description": "Behavioral Scientist: Foundations, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "psychology",
+      "discipline",
+      "focus"
+    ],
+    "vector": [
+      0.69,
+      0.782,
+      0.704,
+      0.685,
+      0.664,
+      0.804,
+      0.596,
+      0.383
+    ]
+  },
+  {
+    "id": "ca_0f483a890c",
+    "title": "Data Scientist: Advanced",
+    "type": "career",
+    "description": "Data Scientist: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "productivity",
+      "learning",
+      "focus"
+    ],
+    "vector": [
+      0.803,
+      0.703,
+      0.758,
+      0.623,
+      0.679,
+      0.732,
+      0.601,
+      0.405
+    ]
+  },
+  {
+    "id": "ca_4f2f6e353c",
+    "title": "Product Manager: Advanced",
+    "type": "career",
+    "description": "Product Manager: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "productivity",
+      "wellbeing",
+      "analysis"
+    ],
+    "vector": [
+      0.745,
+      0.7,
+      0.802,
+      0.725,
+      0.586,
+      0.822,
+      0.653,
+      0.396
+    ]
+  },
+  {
+    "id": "ca_9a44120eb5",
+    "title": "UX Researcher: Advanced",
+    "type": "career",
+    "description": "UX Researcher: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "strategy",
+      "focus",
+      "learning"
+    ],
+    "vector": [
+      0.701,
+      0.76,
+      0.777,
+      0.693,
+      0.678,
+      0.819,
+      0.592,
+      0.278
+    ]
+  },
+  {
+    "id": "ca_096fa92a2d",
+    "title": "Machine Learning Engineer: Advanced",
+    "type": "career",
+    "description": "Machine Learning Engineer: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "focus",
+      "learning",
+      "strategy"
+    ],
+    "vector": [
+      0.797,
+      0.765,
+      0.778,
+      0.692,
+      0.623,
+      0.772,
+      0.683,
+      0.382
+    ]
+  },
+  {
+    "id": "ca_a85c6998d0",
+    "title": "Clinical Psychologist: Advanced",
+    "type": "career",
+    "description": "Clinical Psychologist: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "psychology",
+      "wellbeing",
+      "creativity"
+    ],
+    "vector": [
+      0.789,
+      0.83,
+      0.775,
+      0.62,
+      0.654,
+      0.812,
+      0.665,
+      0.27
+    ]
+  },
+  {
+    "id": "ca_3e0d3d329f",
+    "title": "Software Engineer: Advanced",
+    "type": "career",
+    "description": "Software Engineer: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "discipline",
+      "wellbeing",
+      "productivity"
+    ],
+    "vector": [
+      0.715,
+      0.695,
+      0.693,
+      0.729,
+      0.558,
+      0.84,
+      0.674,
+      0.307
+    ]
+  },
+  {
+    "id": "ca_2f36300be4",
+    "title": "Business Analyst: Advanced",
+    "type": "career",
+    "description": "Business Analyst: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "empathy",
+      "psychology",
+      "strategy"
+    ],
+    "vector": [
+      0.739,
+      0.737,
+      0.731,
+      0.592,
+      0.682,
+      0.802,
+      0.621,
+      0.4
+    ]
+  },
+  {
+    "id": "ca_38fabc6dcd",
+    "title": "Research Scientist: Advanced",
+    "type": "career",
+    "description": "Research Scientist: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "wellbeing",
+      "creativity",
+      "discipline"
+    ],
+    "vector": [
+      0.704,
+      0.697,
+      0.758,
+      0.671,
+      0.599,
+      0.787,
+      0.595,
+      0.315
+    ]
+  },
+  {
+    "id": "ca_d5eda1afaf",
+    "title": "Solutions Architect: Advanced",
+    "type": "career",
+    "description": "Solutions Architect: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "productivity",
+      "creativity",
+      "cognitive"
+    ],
+    "vector": [
+      0.782,
+      0.825,
+      0.764,
+      0.715,
+      0.578,
+      0.832,
+      0.599,
+      0.313
+    ]
+  },
+  {
+    "id": "ca_d8da8ebbc3",
+    "title": "Behavioral Scientist: Advanced",
+    "type": "career",
+    "description": "Behavioral Scientist: Advanced, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "focus",
+      "analysis",
+      "discipline"
+    ],
+    "vector": [
+      0.765,
+      0.761,
+      0.8,
+      0.703,
+      0.611,
+      0.829,
+      0.558,
+      0.402
+    ]
+  },
+  {
+    "id": "ca_29eace98f4",
+    "title": "Data Scientist: Practical Guide",
+    "type": "career",
+    "description": "Data Scientist: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "empathy",
+      "productivity",
+      "psychology"
+    ],
+    "vector": [
+      0.695,
+      0.695,
+      0.681,
+      0.608,
+      0.609,
+      0.798,
+      0.644,
+      0.373
+    ]
+  },
+  {
+    "id": "ca_ab48b9e582",
+    "title": "Product Manager: Practical Guide",
+    "type": "career",
+    "description": "Product Manager: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "leadership",
+      "creativity",
+      "psychology"
+    ],
+    "vector": [
+      0.737,
+      0.708,
+      0.778,
+      0.649,
+      0.615,
+      0.712,
+      0.619,
+      0.321
+    ]
+  },
+  {
+    "id": "ca_6754ce745d",
+    "title": "UX Researcher: Practical Guide",
+    "type": "career",
+    "description": "UX Researcher: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "cognitive",
+      "discipline",
+      "empathy"
+    ],
+    "vector": [
+      0.809,
+      0.77,
+      0.783,
+      0.625,
+      0.69,
+      0.811,
+      0.616,
+      0.3
+    ]
+  },
+  {
+    "id": "ca_ed057cc6fe",
+    "title": "Machine Learning Engineer: Practical Guide",
+    "type": "career",
+    "description": "Machine Learning Engineer: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "productivity",
+      "learning",
+      "cognitive"
+    ],
+    "vector": [
+      0.794,
+      0.795,
+      0.771,
+      0.614,
+      0.666,
+      0.81,
+      0.564,
+      0.28
+    ]
+  },
+  {
+    "id": "ca_f0b630e28c",
+    "title": "Clinical Psychologist: Practical Guide",
+    "type": "career",
+    "description": "Clinical Psychologist: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "learning",
+      "discipline",
+      "wellbeing"
+    ],
+    "vector": [
+      0.777,
+      0.797,
+      0.767,
+      0.642,
+      0.681,
+      0.731,
+      0.582,
+      0.332
+    ]
+  },
+  {
+    "id": "ca_60b6701f60",
+    "title": "Software Engineer: Practical Guide",
+    "type": "career",
+    "description": "Software Engineer: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "cognitive",
+      "creativity",
+      "productivity"
+    ],
+    "vector": [
+      0.774,
+      0.735,
+      0.751,
+      0.634,
+      0.627,
+      0.784,
+      0.571,
+      0.388
+    ]
+  },
+  {
+    "id": "ca_f69628a1ca",
+    "title": "Business Analyst: Practical Guide",
+    "type": "career",
+    "description": "Business Analyst: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "discipline",
+      "strategy",
+      "productivity"
+    ],
+    "vector": [
+      0.801,
+      0.75,
+      0.702,
+      0.656,
+      0.592,
+      0.763,
+      0.66,
+      0.315
+    ]
+  },
+  {
+    "id": "ca_cc4c9b48bc",
+    "title": "Research Scientist: Practical Guide",
+    "type": "career",
+    "description": "Research Scientist: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "learning",
+      "cognitive",
+      "wellbeing"
+    ],
+    "vector": [
+      0.673,
+      0.761,
+      0.791,
+      0.681,
+      0.669,
+      0.799,
+      0.689,
+      0.275
+    ]
+  },
+  {
+    "id": "ca_de9bc59aa7",
+    "title": "Solutions Architect: Practical Guide",
+    "type": "career",
+    "description": "Solutions Architect: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "productivity",
+      "discipline",
+      "empathy"
+    ],
+    "vector": [
+      0.776,
+      0.731,
+      0.763,
+      0.682,
+      0.552,
+      0.796,
+      0.596,
+      0.305
+    ]
+  },
+  {
+    "id": "ca_d4b3d55a86",
+    "title": "Behavioral Scientist: Practical Guide",
+    "type": "career",
+    "description": "Behavioral Scientist: Practical Guide, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "psychology",
+      "discipline",
+      "focus"
+    ],
+    "vector": [
+      0.681,
+      0.698,
+      0.794,
+      0.72,
+      0.683,
+      0.849,
+      0.654,
+      0.35
+    ]
+  },
+  {
+    "id": "ca_265d9a99fe",
+    "title": "Data Scientist: Applied Playbook",
+    "type": "career",
+    "description": "Data Scientist: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "creativity",
+      "analysis",
+      "learning"
+    ],
+    "vector": [
+      0.802,
+      0.825,
+      0.731,
+      0.618,
+      0.625,
+      0.769,
+      0.663,
+      0.399
+    ]
+  },
+  {
+    "id": "ca_94d73fd2d0",
+    "title": "Product Manager: Applied Playbook",
+    "type": "career",
+    "description": "Product Manager: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "focus",
+      "creativity",
+      "productivity"
+    ],
+    "vector": [
+      0.711,
+      0.83,
+      0.706,
+      0.69,
+      0.588,
+      0.737,
+      0.606,
+      0.354
+    ]
+  },
+  {
+    "id": "ca_d348f44a79",
+    "title": "UX Researcher: Applied Playbook",
+    "type": "career",
+    "description": "UX Researcher: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "empathy",
+      "leadership",
+      "psychology"
+    ],
+    "vector": [
+      0.719,
+      0.758,
+      0.675,
+      0.671,
+      0.637,
+      0.81,
+      0.555,
+      0.313
+    ]
+  },
+  {
+    "id": "ca_79a972cfac",
+    "title": "Machine Learning Engineer: Applied Playbook",
+    "type": "career",
+    "description": "Machine Learning Engineer: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "strategy",
+      "psychology",
+      "productivity"
+    ],
+    "vector": [
+      0.712,
+      0.823,
+      0.687,
+      0.679,
+      0.678,
+      0.773,
+      0.593,
+      0.336
+    ]
+  },
+  {
+    "id": "ca_c3bd8be3e0",
+    "title": "Clinical Psychologist: Applied Playbook",
+    "type": "career",
+    "description": "Clinical Psychologist: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "cognitive",
+      "leadership",
+      "creativity"
+    ],
+    "vector": [
+      0.746,
+      0.719,
+      0.738,
+      0.682,
+      0.561,
+      0.725,
+      0.612,
+      0.285
+    ]
+  },
+  {
+    "id": "ca_5c4ae777e7",
+    "title": "Software Engineer: Applied Playbook",
+    "type": "career",
+    "description": "Software Engineer: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "strategy",
+      "empathy",
+      "productivity"
+    ],
+    "vector": [
+      0.675,
+      0.795,
+      0.681,
+      0.623,
+      0.636,
+      0.816,
+      0.601,
+      0.332
+    ]
+  },
+  {
+    "id": "ca_8c0ba17b78",
+    "title": "Business Analyst: Applied Playbook",
+    "type": "career",
+    "description": "Business Analyst: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "creativity",
+      "discipline",
+      "empathy"
+    ],
+    "vector": [
+      0.792,
+      0.793,
+      0.684,
+      0.698,
+      0.65,
+      0.716,
+      0.682,
+      0.311
+    ]
+  },
+  {
+    "id": "ca_dd1cf1ed0c",
+    "title": "Research Scientist: Applied Playbook",
+    "type": "career",
+    "description": "Research Scientist: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "productivity",
+      "learning",
+      "wellbeing"
+    ],
+    "vector": [
+      0.715,
+      0.698,
+      0.703,
+      0.712,
+      0.627,
+      0.818,
+      0.606,
+      0.375
+    ]
+  },
+  {
+    "id": "ca_71d6b230ce",
+    "title": "Solutions Architect: Applied Playbook",
+    "type": "career",
+    "description": "Solutions Architect: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "productivity",
+      "analysis",
+      "creativity"
+    ],
+    "vector": [
+      0.772,
+      0.695,
+      0.776,
+      0.621,
+      0.648,
+      0.737,
+      0.678,
+      0.304
+    ]
+  },
+  {
+    "id": "ca_665a85836b",
+    "title": "Behavioral Scientist: Applied Playbook",
+    "type": "career",
+    "description": "Behavioral Scientist: Applied Playbook, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "psychology",
+      "creativity",
+      "productivity"
+    ],
+    "vector": [
+      0.765,
+      0.825,
+      0.68,
+      0.695,
+      0.57,
+      0.718,
+      0.552,
+      0.273
+    ]
+  },
+  {
+    "id": "ca_8b7712630e",
+    "title": "Data Scientist: Masterclass",
+    "type": "career",
+    "description": "Data Scientist: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "wellbeing",
+      "psychology",
+      "cognitive"
+    ],
+    "vector": [
+      0.74,
+      0.701,
+      0.786,
+      0.597,
+      0.684,
+      0.734,
+      0.635,
+      0.276
+    ]
+  },
+  {
+    "id": "ca_e1b4d8807b",
+    "title": "Product Manager: Masterclass",
+    "type": "career",
+    "description": "Product Manager: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "creativity",
+      "psychology",
+      "wellbeing"
+    ],
+    "vector": [
+      0.777,
+      0.79,
+      0.746,
+      0.729,
+      0.57,
+      0.713,
+      0.657,
+      0.366
+    ]
+  },
+  {
+    "id": "ca_e6036de8d8",
+    "title": "UX Researcher: Masterclass",
+    "type": "career",
+    "description": "UX Researcher: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "analysis",
+      "strategy",
+      "cognitive"
+    ],
+    "vector": [
+      0.726,
+      0.816,
+      0.712,
+      0.709,
+      0.597,
+      0.813,
+      0.649,
+      0.273
+    ]
+  },
+  {
+    "id": "ca_004a681f22",
+    "title": "Machine Learning Engineer: Masterclass",
+    "type": "career",
+    "description": "Machine Learning Engineer: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "analysis",
+      "empathy",
+      "strategy"
+    ],
+    "vector": [
+      0.693,
+      0.788,
+      0.734,
+      0.656,
+      0.688,
+      0.809,
+      0.646,
+      0.278
+    ]
+  },
+  {
+    "id": "ca_b3c0af591b",
+    "title": "Clinical Psychologist: Masterclass",
+    "type": "career",
+    "description": "Clinical Psychologist: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "cognitive",
+      "focus",
+      "leadership"
+    ],
+    "vector": [
+      0.778,
+      0.773,
+      0.71,
+      0.684,
+      0.663,
+      0.739,
+      0.582,
+      0.328
+    ]
+  },
+  {
+    "id": "ca_7bbeb6ca32",
+    "title": "Software Engineer: Masterclass",
+    "type": "career",
+    "description": "Software Engineer: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "discipline",
+      "analysis",
+      "leadership"
+    ],
+    "vector": [
+      0.798,
+      0.724,
+      0.752,
+      0.65,
+      0.565,
+      0.767,
+      0.667,
+      0.405
+    ]
+  },
+  {
+    "id": "ca_7170c040e1",
+    "title": "Business Analyst: Masterclass",
+    "type": "career",
+    "description": "Business Analyst: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "analysis",
+      "psychology",
+      "strategy"
+    ],
+    "vector": [
+      0.792,
+      0.77,
+      0.741,
+      0.642,
+      0.665,
+      0.74,
+      0.68,
+      0.298
+    ]
+  },
+  {
+    "id": "ca_d4db5fa322",
+    "title": "Research Scientist: Masterclass",
+    "type": "career",
+    "description": "Research Scientist: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "discipline",
+      "strategy",
+      "analysis"
+    ],
+    "vector": [
+      0.692,
+      0.821,
+      0.712,
+      0.633,
+      0.56,
+      0.762,
+      0.66,
+      0.346
+    ]
+  },
+  {
+    "id": "ca_dca54ccfd1",
+    "title": "Solutions Architect: Masterclass",
+    "type": "career",
+    "description": "Solutions Architect: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "cognitive",
+      "discipline",
+      "strategy"
+    ],
+    "vector": [
+      0.779,
+      0.696,
+      0.763,
+      0.672,
+      0.608,
+      0.8,
+      0.592,
+      0.3
+    ]
+  },
+  {
+    "id": "ca_ae611506cb",
+    "title": "Behavioral Scientist: Masterclass",
+    "type": "career",
+    "description": "Behavioral Scientist: Masterclass, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "wellbeing",
+      "empathy",
+      "learning"
+    ],
+    "vector": [
+      0.761,
+      0.749,
+      0.753,
+      0.595,
+      0.608,
+      0.846,
+      0.631,
+      0.318
+    ]
+  },
+  {
+    "id": "ca_d45ca1271d",
+    "title": "Data Scientist: Toolkit",
+    "type": "career",
+    "description": "Data Scientist: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "discipline",
+      "empathy",
+      "analysis"
+    ],
+    "vector": [
+      0.728,
+      0.805,
+      0.789,
+      0.622,
+      0.644,
+      0.752,
+      0.599,
+      0.382
+    ]
+  },
+  {
+    "id": "ca_b4cb8ca8f6",
+    "title": "Product Manager: Toolkit",
+    "type": "career",
+    "description": "Product Manager: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "productivity",
+      "strategy",
+      "empathy"
+    ],
+    "vector": [
+      0.72,
+      0.798,
+      0.688,
+      0.623,
+      0.615,
+      0.829,
+      0.613,
+      0.306
+    ]
+  },
+  {
+    "id": "ca_603e008d29",
+    "title": "UX Researcher: Toolkit",
+    "type": "career",
+    "description": "UX Researcher: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "strategy",
+      "discipline",
+      "leadership"
+    ],
+    "vector": [
+      0.68,
+      0.807,
+      0.751,
+      0.65,
+      0.601,
+      0.717,
+      0.553,
+      0.388
+    ]
+  },
+  {
+    "id": "ca_dd6cc3e9b4",
+    "title": "Machine Learning Engineer: Toolkit",
+    "type": "career",
+    "description": "Machine Learning Engineer: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "wellbeing",
+      "psychology",
+      "empathy"
+    ],
+    "vector": [
+      0.736,
+      0.728,
+      0.745,
+      0.674,
+      0.688,
+      0.782,
+      0.61,
+      0.38
+    ]
+  },
+  {
+    "id": "ca_703b23baa9",
+    "title": "Clinical Psychologist: Toolkit",
+    "type": "career",
+    "description": "Clinical Psychologist: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "productivity",
+      "psychology",
+      "leadership"
+    ],
+    "vector": [
+      0.693,
+      0.733,
+      0.767,
+      0.609,
+      0.602,
+      0.797,
+      0.656,
+      0.409
+    ]
+  },
+  {
+    "id": "ca_fe0124cc4d",
+    "title": "Software Engineer: Toolkit",
+    "type": "career",
+    "description": "Software Engineer: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "discipline",
+      "productivity",
+      "leadership"
+    ],
+    "vector": [
+      0.755,
+      0.767,
+      0.754,
+      0.644,
+      0.583,
+      0.803,
+      0.672,
+      0.366
+    ]
+  },
+  {
+    "id": "ca_2d7d1acacd",
+    "title": "Business Analyst: Toolkit",
+    "type": "career",
+    "description": "Business Analyst: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "leadership",
+      "analysis",
+      "psychology"
+    ],
+    "vector": [
+      0.756,
+      0.762,
+      0.797,
+      0.7,
+      0.553,
+      0.746,
+      0.636,
+      0.387
+    ]
+  },
+  {
+    "id": "ca_3b55af3592",
+    "title": "Research Scientist: Toolkit",
+    "type": "career",
+    "description": "Research Scientist: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "empathy",
+      "learning",
+      "discipline"
+    ],
+    "vector": [
+      0.769,
+      0.746,
+      0.756,
+      0.632,
+      0.557,
+      0.778,
+      0.556,
+      0.312
+    ]
+  },
+  {
+    "id": "ca_4a4652f589",
+    "title": "Solutions Architect: Toolkit",
+    "type": "career",
+    "description": "Solutions Architect: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "creativity",
+      "discipline",
+      "wellbeing"
+    ],
+    "vector": [
+      0.751,
+      0.807,
+      0.754,
+      0.607,
+      0.609,
+      0.715,
+      0.55,
+      0.292
+    ]
+  },
+  {
+    "id": "ca_f2e1786655",
+    "title": "Behavioral Scientist: Toolkit",
+    "type": "career",
+    "description": "Behavioral Scientist: Toolkit, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "focus",
+      "empathy",
+      "productivity"
+    ],
+    "vector": [
+      0.789,
+      0.692,
+      0.697,
+      0.6,
+      0.667,
+      0.804,
+      0.584,
+      0.396
+    ]
+  },
+  {
+    "id": "ca_e920d464f4",
+    "title": "Data Scientist: Field Notes",
+    "type": "career",
+    "description": "Data Scientist: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "empathy",
+      "discipline",
+      "learning"
+    ],
+    "vector": [
+      0.679,
+      0.697,
+      0.696,
+      0.722,
+      0.676,
+      0.752,
+      0.557,
+      0.359
+    ]
+  },
+  {
+    "id": "ca_6fba8ff316",
+    "title": "Product Manager: Field Notes",
+    "type": "career",
+    "description": "Product Manager: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "focus",
+      "strategy",
+      "cognitive"
+    ],
+    "vector": [
+      0.771,
+      0.768,
+      0.708,
+      0.609,
+      0.687,
+      0.794,
+      0.684,
+      0.376
+    ]
+  },
+  {
+    "id": "ca_e0b6c84080",
+    "title": "UX Researcher: Field Notes",
+    "type": "career",
+    "description": "UX Researcher: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "cognitive",
+      "wellbeing",
+      "analysis"
+    ],
+    "vector": [
+      0.782,
+      0.78,
+      0.738,
+      0.645,
+      0.684,
+      0.833,
+      0.557,
+      0.396
+    ]
+  },
+  {
+    "id": "ca_75c5aacad6",
+    "title": "Machine Learning Engineer: Field Notes",
+    "type": "career",
+    "description": "Machine Learning Engineer: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "leadership",
+      "analysis",
+      "discipline"
+    ],
+    "vector": [
+      0.776,
+      0.749,
+      0.767,
+      0.637,
+      0.594,
+      0.734,
+      0.608,
+      0.351
+    ]
+  },
+  {
+    "id": "ca_709c26e47a",
+    "title": "Clinical Psychologist: Field Notes",
+    "type": "career",
+    "description": "Clinical Psychologist: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "discipline",
+      "psychology",
+      "empathy"
+    ],
+    "vector": [
+      0.772,
+      0.739,
+      0.801,
+      0.63,
+      0.554,
+      0.807,
+      0.603,
+      0.385
+    ]
+  },
+  {
+    "id": "ca_ca82e9b4b9",
+    "title": "Software Engineer: Field Notes",
+    "type": "career",
+    "description": "Software Engineer: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "cognitive",
+      "empathy",
+      "analysis"
+    ],
+    "vector": [
+      0.765,
+      0.736,
+      0.697,
+      0.681,
+      0.63,
+      0.717,
+      0.573,
+      0.33
+    ]
+  },
+  {
+    "id": "ca_dbe24cd125",
+    "title": "Business Analyst: Field Notes",
+    "type": "career",
+    "description": "Business Analyst: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "productivity",
+      "strategy",
+      "learning"
+    ],
+    "vector": [
+      0.711,
+      0.795,
+      0.773,
+      0.599,
+      0.634,
+      0.849,
+      0.635,
+      0.408
+    ]
+  },
+  {
+    "id": "ca_ec8d0238a7",
+    "title": "Research Scientist: Field Notes",
+    "type": "career",
+    "description": "Research Scientist: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "wellbeing",
+      "analysis",
+      "learning"
+    ],
+    "vector": [
+      0.75,
+      0.723,
+      0.725,
+      0.623,
+      0.687,
+      0.765,
+      0.665,
+      0.315
+    ]
+  },
+  {
+    "id": "ca_3fd292c558",
+    "title": "Solutions Architect: Field Notes",
+    "type": "career",
+    "description": "Solutions Architect: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "wellbeing",
+      "leadership",
+      "psychology"
+    ],
+    "vector": [
+      0.758,
+      0.827,
+      0.795,
+      0.657,
+      0.602,
+      0.737,
+      0.609,
+      0.408
+    ]
+  },
+  {
+    "id": "ca_ac33cf3860",
+    "title": "Behavioral Scientist: Field Notes",
+    "type": "career",
+    "description": "Behavioral Scientist: Field Notes, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "empathy",
+      "psychology",
+      "strategy"
+    ],
+    "vector": [
+      0.703,
+      0.71,
+      0.686,
+      0.609,
+      0.595,
+      0.717,
+      0.591,
+      0.39
+    ]
+  },
+  {
+    "id": "ca_6966e8820f",
+    "title": "Data Scientist: Intensive",
+    "type": "career",
+    "description": "Data Scientist: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "wellbeing",
+      "productivity",
+      "psychology"
+    ],
+    "vector": [
+      0.789,
+      0.692,
+      0.772,
+      0.666,
+      0.554,
+      0.835,
+      0.661,
+      0.284
+    ]
+  },
+  {
+    "id": "ca_d2ebd6ab7d",
+    "title": "Product Manager: Intensive",
+    "type": "career",
+    "description": "Product Manager: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "cognitive",
+      "empathy",
+      "discipline"
+    ],
+    "vector": [
+      0.711,
+      0.734,
+      0.806,
+      0.68,
+      0.662,
+      0.775,
+      0.65,
+      0.278
+    ]
+  },
+  {
+    "id": "ca_de45a3d429",
+    "title": "UX Researcher: Intensive",
+    "type": "career",
+    "description": "UX Researcher: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "strategy",
+      "cognitive",
+      "focus"
+    ],
+    "vector": [
+      0.757,
+      0.81,
+      0.745,
+      0.599,
+      0.573,
+      0.814,
+      0.573,
+      0.315
+    ]
+  },
+  {
+    "id": "ca_95f6f7c0fc",
+    "title": "Machine Learning Engineer: Intensive",
+    "type": "career",
+    "description": "Machine Learning Engineer: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "psychology",
+      "leadership",
+      "strategy",
+      "productivity"
+    ],
+    "vector": [
+      0.753,
+      0.828,
+      0.674,
+      0.646,
+      0.583,
+      0.718,
+      0.609,
+      0.362
+    ]
+  },
+  {
+    "id": "ca_3b23fd6204",
+    "title": "Clinical Psychologist: Intensive",
+    "type": "career",
+    "description": "Clinical Psychologist: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "strategy",
+      "creativity",
+      "focus"
+    ],
+    "vector": [
+      0.792,
+      0.701,
+      0.729,
+      0.667,
+      0.647,
+      0.738,
+      0.665,
+      0.355
+    ]
+  },
+  {
+    "id": "ca_cd88c6cffc",
+    "title": "Software Engineer: Intensive",
+    "type": "career",
+    "description": "Software Engineer: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "analysis",
+      "creativity",
+      "leadership"
+    ],
+    "vector": [
+      0.727,
+      0.735,
+      0.774,
+      0.603,
+      0.636,
+      0.834,
+      0.657,
+      0.378
+    ]
+  },
+  {
+    "id": "ca_f880f76501",
+    "title": "Business Analyst: Intensive",
+    "type": "career",
+    "description": "Business Analyst: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "cognitive",
+      "analysis",
+      "learning"
+    ],
+    "vector": [
+      0.696,
+      0.706,
+      0.78,
+      0.674,
+      0.645,
+      0.808,
+      0.64,
+      0.386
+    ]
+  },
+  {
+    "id": "ca_c6a054bbf1",
+    "title": "Research Scientist: Intensive",
+    "type": "career",
+    "description": "Research Scientist: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "analysis",
+      "creativity",
+      "discipline"
+    ],
+    "vector": [
+      0.766,
+      0.828,
+      0.677,
+      0.608,
+      0.614,
+      0.793,
+      0.625,
+      0.314
+    ]
+  },
+  {
+    "id": "ca_d1d412167b",
+    "title": "Solutions Architect: Intensive",
+    "type": "career",
+    "description": "Solutions Architect: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "productivity",
+      "focus",
+      "strategy"
+    ],
+    "vector": [
+      0.789,
+      0.817,
+      0.734,
+      0.616,
+      0.654,
+      0.784,
+      0.682,
+      0.339
+    ]
+  },
+  {
+    "id": "ca_d0284e1b32",
+    "title": "Behavioral Scientist: Intensive",
+    "type": "career",
+    "description": "Behavioral Scientist: Intensive, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "focus",
+      "wellbeing",
+      "analysis",
+      "leadership"
+    ],
+    "vector": [
+      0.789,
+      0.754,
+      0.73,
+      0.628,
+      0.593,
+      0.803,
+      0.634,
+      0.354
+    ]
+  },
+  {
+    "id": "ca_346d0396ec",
+    "title": "Data Scientist: Studio",
+    "type": "career",
+    "description": "Data Scientist: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "leadership",
+      "learning",
+      "wellbeing",
+      "focus"
+    ],
+    "vector": [
+      0.734,
+      0.828,
+      0.715,
+      0.592,
+      0.625,
+      0.813,
+      0.577,
+      0.366
+    ]
+  },
+  {
+    "id": "ca_840965774f",
+    "title": "Product Manager: Studio",
+    "type": "career",
+    "description": "Product Manager: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "psychology",
+      "leadership",
+      "empathy"
+    ],
+    "vector": [
+      0.738,
+      0.714,
+      0.703,
+      0.635,
+      0.559,
+      0.725,
+      0.595,
+      0.32
+    ]
+  },
+  {
+    "id": "ca_9f515d0cd6",
+    "title": "UX Researcher: Studio",
+    "type": "career",
+    "description": "UX Researcher: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "discipline",
+      "empathy",
+      "analysis"
+    ],
+    "vector": [
+      0.722,
+      0.757,
+      0.674,
+      0.624,
+      0.584,
+      0.738,
+      0.666,
+      0.403
+    ]
+  },
+  {
+    "id": "ca_54f82a1613",
+    "title": "Machine Learning Engineer: Studio",
+    "type": "career",
+    "description": "Machine Learning Engineer: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "focus",
+      "leadership",
+      "discipline"
+    ],
+    "vector": [
+      0.751,
+      0.717,
+      0.797,
+      0.662,
+      0.633,
+      0.821,
+      0.623,
+      0.339
+    ]
+  },
+  {
+    "id": "ca_2f7e9efbef",
+    "title": "Clinical Psychologist: Studio",
+    "type": "career",
+    "description": "Clinical Psychologist: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "psychology",
+      "empathy",
+      "creativity"
+    ],
+    "vector": [
+      0.751,
+      0.732,
+      0.691,
+      0.621,
+      0.686,
+      0.793,
+      0.553,
+      0.296
+    ]
+  },
+  {
+    "id": "ca_6538c3ec5a",
+    "title": "Software Engineer: Studio",
+    "type": "career",
+    "description": "Software Engineer: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "wellbeing",
+      "productivity",
+      "analysis"
+    ],
+    "vector": [
+      0.808,
+      0.816,
+      0.68,
+      0.703,
+      0.688,
+      0.814,
+      0.683,
+      0.323
+    ]
+  },
+  {
+    "id": "ca_d9707bf211",
+    "title": "Business Analyst: Studio",
+    "type": "career",
+    "description": "Business Analyst: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "wellbeing",
+      "cognitive",
+      "leadership",
+      "discipline"
+    ],
+    "vector": [
+      0.717,
+      0.801,
+      0.754,
+      0.725,
+      0.595,
+      0.797,
+      0.671,
+      0.376
+    ]
+  },
+  {
+    "id": "ca_e6821f366b",
+    "title": "Research Scientist: Studio",
+    "type": "career",
+    "description": "Research Scientist: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "empathy",
+      "creativity",
+      "wellbeing"
+    ],
+    "vector": [
+      0.692,
+      0.735,
+      0.761,
+      0.595,
+      0.642,
+      0.727,
+      0.577,
+      0.309
+    ]
+  },
+  {
+    "id": "ca_9ae2556a6a",
+    "title": "Solutions Architect: Studio",
+    "type": "career",
+    "description": "Solutions Architect: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "productivity",
+      "focus",
+      "discipline",
+      "strategy"
+    ],
+    "vector": [
+      0.682,
+      0.81,
+      0.753,
+      0.719,
+      0.65,
+      0.728,
+      0.601,
+      0.301
+    ]
+  },
+  {
+    "id": "ca_f3795a788d",
+    "title": "Behavioral Scientist: Studio",
+    "type": "career",
+    "description": "Behavioral Scientist: Studio, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "empathy",
+      "psychology",
+      "leadership",
+      "creativity"
+    ],
+    "vector": [
+      0.791,
+      0.815,
+      0.696,
+      0.73,
+      0.685,
+      0.764,
+      0.672,
+      0.402
+    ]
+  },
+  {
+    "id": "ca_304d7d13f8",
+    "title": "Data Scientist: Lab",
+    "type": "career",
+    "description": "Data Scientist: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "analysis",
+      "leadership",
+      "learning",
+      "psychology"
+    ],
+    "vector": [
+      0.777,
+      0.738,
+      0.737,
+      0.602,
+      0.572,
+      0.821,
+      0.593,
+      0.368
+    ]
+  },
+  {
+    "id": "ca_205955790d",
+    "title": "Product Manager: Lab",
+    "type": "career",
+    "description": "Product Manager: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "strategy",
+      "cognitive",
+      "leadership",
+      "wellbeing"
+    ],
+    "vector": [
+      0.706,
+      0.814,
+      0.786,
+      0.718,
+      0.636,
+      0.804,
+      0.604,
+      0.372
+    ]
+  },
+  {
+    "id": "ca_f229de0ad3",
+    "title": "UX Researcher: Lab",
+    "type": "career",
+    "description": "UX Researcher: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "strategy",
+      "psychology",
+      "empathy"
+    ],
+    "vector": [
+      0.725,
+      0.821,
+      0.799,
+      0.641,
+      0.571,
+      0.777,
+      0.625,
+      0.275
+    ]
+  },
+  {
+    "id": "ca_c7170c103f",
+    "title": "Machine Learning Engineer: Lab",
+    "type": "career",
+    "description": "Machine Learning Engineer: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "empathy",
+      "discipline",
+      "creativity"
+    ],
+    "vector": [
+      0.722,
+      0.695,
+      0.777,
+      0.621,
+      0.666,
+      0.81,
+      0.659,
+      0.349
+    ]
+  },
+  {
+    "id": "ca_52f5bef28a",
+    "title": "Clinical Psychologist: Lab",
+    "type": "career",
+    "description": "Clinical Psychologist: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "psychology",
+      "wellbeing",
+      "strategy"
+    ],
+    "vector": [
+      0.672,
+      0.763,
+      0.778,
+      0.61,
+      0.611,
+      0.786,
+      0.571,
+      0.298
+    ]
+  },
+  {
+    "id": "ca_d6d6c4ed14",
+    "title": "Software Engineer: Lab",
+    "type": "career",
+    "description": "Software Engineer: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "cognitive",
+      "strategy",
+      "creativity",
+      "analysis"
+    ],
+    "vector": [
+      0.74,
+      0.773,
+      0.778,
+      0.592,
+      0.559,
+      0.735,
+      0.601,
+      0.398
+    ]
+  },
+  {
+    "id": "ca_4159325644",
+    "title": "Business Analyst: Lab",
+    "type": "career",
+    "description": "Business Analyst: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "wellbeing",
+      "psychology",
+      "focus"
+    ],
+    "vector": [
+      0.804,
+      0.73,
+      0.719,
+      0.723,
+      0.57,
+      0.728,
+      0.616,
+      0.314
+    ]
+  },
+  {
+    "id": "ca_f4ca9eeb1d",
+    "title": "Research Scientist: Lab",
+    "type": "career",
+    "description": "Research Scientist: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "learning",
+      "creativity",
+      "cognitive",
+      "productivity"
+    ],
+    "vector": [
+      0.803,
+      0.748,
+      0.676,
+      0.642,
+      0.669,
+      0.771,
+      0.559,
+      0.305
+    ]
+  },
+  {
+    "id": "ca_7999b793dd",
+    "title": "Solutions Architect: Lab",
+    "type": "career",
+    "description": "Solutions Architect: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "discipline",
+      "creativity",
+      "learning",
+      "productivity"
+    ],
+    "vector": [
+      0.715,
+      0.784,
+      0.771,
+      0.596,
+      0.57,
+      0.825,
+      0.673,
+      0.38
+    ]
+  },
+  {
+    "id": "ca_6c92b142d4",
+    "title": "Behavioral Scientist: Lab",
+    "type": "career",
+    "description": "Behavioral Scientist: Lab, kişilik uyumlu öneri motorlarında kullanılmak üzere odak, motivasyon ve gelişim temaları sunar.",
+    "tags": [
+      "creativity",
+      "wellbeing",
+      "focus",
+      "learning"
+    ],
+    "vector": [
+      0.701,
+      0.808,
+      0.788,
+      0.655,
+      0.652,
+      0.842,
+      0.675,
+      0.361
+    ]
+  }
+]
